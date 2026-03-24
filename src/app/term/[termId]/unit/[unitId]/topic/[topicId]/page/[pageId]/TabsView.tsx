@@ -1,11 +1,38 @@
 "use client";
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { Lightbulb, Sparkles, BookOpen, Quote, Target, Brain, ArrowRight, CheckCircle2 } from 'lucide-react';
 import PracticeTab from '@/components/PracticeTab';
 
 export default function TabsView({ data, questions, topicId }: { data: any; questions: any[]; topicId: string }) {
   const [activeTab, setActiveTab] = useState<'learn' | 'deepDive' | 'practice' | 'challenge'>('learn');
+  const [isDone, setIsDone] = useState(false);
+
+  useEffect(() => {
+    const saved = localStorage.getItem("completed_topics");
+    if (saved) {
+      try {
+        const completed = JSON.parse(saved);
+        if (completed.includes(topicId)) setIsDone(true);
+      } catch (e) {}
+    }
+  }, [topicId]);
+
+  const toggleDone = () => {
+    try {
+      const saved = localStorage.getItem("completed_topics");
+      let completed = saved ? JSON.parse(saved) : [];
+      if (completed.includes(topicId)) {
+        completed = completed.filter((id: string) => id !== topicId);
+        setIsDone(false);
+      } else {
+        completed.push(topicId);
+        setIsDone(true);
+      }
+      localStorage.setItem("completed_topics", JSON.stringify(completed));
+      window.dispatchEvent(new Event('storage'));
+    } catch (e) {}
+  };
 
   const tabs = [
     { id: 'learn', label: 'Learn', icon: <BookOpen size={18} /> },
@@ -64,6 +91,20 @@ export default function TabsView({ data, questions, topicId }: { data: any; ques
                 </ul>
               </div>
             )}
+
+            {/* COMPLETION TOGGLE */}
+            <div className="flex justify-center pt-4">
+              <button
+                onClick={toggleDone}
+                className={"flex items-center gap-3 px-8 py-4 rounded-full font-bold transition-all shadow-lg " + 
+                  (isDone 
+                    ? "bg-emerald-100 text-emerald-700 border-2 border-emerald-200" 
+                    : "bg-white text-slate-600 border-2 border-slate-100 hover:border-emerald-200 hover:bg-emerald-50")
+                }
+              >
+                {isDone ? <><CheckCircle2 size={22} /> Topic Completed!</> : <><Target size={22} /> Mark as Done</>}
+              </button>
+            </div>
           </div>
         )}
 

@@ -1,6 +1,9 @@
 import Link from 'next/link';
 import { Book, Play, Star } from 'lucide-react';
 import PracticeScore from '@/components/PracticeScore';
+import DynamicStar from '@/components/DynamicStar';
+import MasteryProgress from '@/components/MasteryProgress';
+import TopicCard from '@/components/TopicCard';
 import fs from 'fs';
 import path from 'path';
 
@@ -8,7 +11,7 @@ import path from 'path';
 export const revalidate = 60;
 
 export default async function Home() {
-  let indexData = [];
+  let indexData: any[] = [];
   try {
     const indexPath = path.join(process.cwd(), 'public/data/index.json');
     if (fs.existsSync(indexPath)) {
@@ -17,6 +20,11 @@ export default async function Home() {
   } catch (e) {
     console.error("Failed to load index.json", e);
   }
+
+  // Count unique topics
+  const topicsSet = new Set();
+  indexData.forEach(p => topicsSet.add(p.topic));
+  const totalTopics = topicsSet.size;
 
   // Group by Unit
   const unitsMap = new Map();
@@ -38,14 +46,16 @@ export default async function Home() {
   const units = Array.from(unitsMap.values());
 
   return (
-    <div className="space-y-8">
+    <div className="space-y-8 pb-12">
+      {/* HEADER SECTION */}
       <div className="glass-card p-8 bg-gradient-to-r from-primary/10 to-secondary/10 relative overflow-hidden">
-        <div className="absolute top-0 right-0 p-8 opacity-20">
-          <Star size={120} className="text-primary animate-pulse" />
+        <div className="absolute top-0 right-0 p-12 pr-16 opacity-30 mt-4 h-full flex items-center">
+          <DynamicStar />
         </div>
         <div className="relative z-10">
-          <h2 className="text-4xl font-extrabold text-slate-800 mb-2">Welcome Back! 🚀</h2>
-          <p className="text-lg text-slate-600 max-w-lg mb-6">Ready to learn something new today? Pick a topic below and let's jump right in.</p>
+          <h2 className="text-4xl font-extrabold text-slate-800 mb-2 font-display">Welcome Back! 🚀</h2>
+          <p className="text-lg text-slate-600 max-w-lg mb-6 leading-relaxed">Ready to learn something new today? Pick a topic below and let's jump right in.</p>
+          
           <div className="flex flex-col sm:flex-row gap-6 mt-4">
             <div className="flex-1 max-w-sm">
               <PracticeScore />
@@ -54,17 +64,23 @@ export default async function Home() {
         </div>
       </div>
 
-      <div className="grid gap-6">
+      {/* GLOBAL PROGRESS BAR */}
+      <div className="max-w-4xl">
+        <MasteryProgress totalTopics={totalTopics} />
+      </div>
+
+      {/* TOPICS BY UNIT */}
+      <div className="grid gap-8">
         {units.length === 0 ? (
           <div className="text-center py-12 text-slate-500">Loading lessons... check back in a minute!</div>
         ) : (
           units.map((unit, i) => (
-            <div key={i} className="glass-card p-6">
-              <div className="mb-4">
-                 <span className="text-xs font-bold uppercase tracking-wider text-secondary mb-1 block">{unit.term}</span>
-                 <h3 className="text-2xl font-bold text-slate-800">{unit.name}</h3>
+            <div key={i} className="space-y-4">
+              <div className="px-2">
+                 <span className="text-xs font-black uppercase tracking-widest text-secondary opacity-60 mb-1 block">{unit.term}</span>
+                 <h3 className="text-2xl font-black text-slate-800 tracking-tight">{unit.name}</h3>
               </div>
-              <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
+              <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
                 {Array.from(unit.topics.entries()).map(([topicName, pages]: any, j) => {
                   const firstPageId = pages[0].pageNumber;
                   const uId = encodeURIComponent(unit.name);
@@ -72,15 +88,13 @@ export default async function Home() {
                   const href = `/term/all/unit/${uId}/topic/${tId}/page/${firstPageId}`;
                   
                   return (
-                    <Link key={j} href={href} className="group block">
-                      <div className="h-full bounce-hover bg-slate-50 border border-slate-100/50 rounded-xl p-5 hover:bg-white hover:border-primary/30 transition-colors relative overflow-hidden">
-                        <div className="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center text-primary mb-3 group-hover:scale-110 transition-transform">
-                          <Play size={18} fill="currentColor" />
-                        </div>
-                        <h4 className="font-bold text-slate-800 mb-1">{topicName}</h4>
-                        <p className="text-sm text-slate-500">{pages.length} Pages</p>
-                      </div>
-                    </Link>
+                    <TopicCard 
+                      key={j}
+                      topicName={topicName}
+                      pagesCount={pages.length}
+                      href={href}
+                      topicId={firstPageId.toString()}
+                    />
                   );
                 })}
               </div>

@@ -70,8 +70,44 @@ export default function PracticeTab({ questions, topicId }: PracticeTabProps) {
     // 3. UPDATE GLOBAL SCORES ON COMPLETION
     if (done) {
       updateGlobalScores(topicId, score, questions.length);
+      updateDailyProgress();
+      markAsCompleted(topicId);
     }
   }, [current, score, done, isInitialized, topicId, questions.length]);
+
+  const markAsCompleted = (tid: string) => {
+    try {
+      const saved = localStorage.getItem("completed_topics");
+      let completed = saved ? JSON.parse(saved) : [];
+      if (!completed.includes(tid)) {
+        completed.push(tid);
+        localStorage.setItem("completed_topics", JSON.stringify(completed));
+        window.dispatchEvent(new Event('storage'));
+      }
+    } catch (e) {
+      console.error("Failed to mark topic as completed", e);
+    }
+  };
+
+  const updateDailyProgress = () => {
+    try {
+      const today = new Date().toISOString().split('T')[0];
+      const saved = localStorage.getItem("practice_daily_progress");
+      let daily = saved ? JSON.parse(saved) : { date: today, topics: [] };
+      
+      if (daily.date !== today) {
+        daily = { date: today, topics: [] };
+      }
+      
+      if (!daily.topics.includes(topicId)) {
+        daily.topics.push(topicId);
+        localStorage.setItem("practice_daily_progress", JSON.stringify(daily));
+        window.dispatchEvent(new Event('storage'));
+      }
+    } catch (e) {
+      console.error("Failed to update daily progress", e);
+    }
+  };
 
   const updateGlobalScores = (tid: string, s: number, total: number) => {
     try {
