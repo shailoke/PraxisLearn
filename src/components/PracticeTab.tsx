@@ -1,7 +1,7 @@
 "use client";
 
-import { useState } from 'react';
-import { CheckCircle2, XCircle, ArrowRight, RefreshCw, Trophy } from 'lucide-react';
+import { useState, useEffect } from 'react';
+import { CheckCircle2, XCircle, ArrowRight, RefreshCw, Trophy, Play } from 'lucide-react';
 
 interface Question {
   type: 'mcq' | 'fill_blank';
@@ -13,9 +13,17 @@ interface Question {
 
 interface PracticeTabProps {
   questions: Question[];
+  topicId: string;
 }
 
-export default function PracticeTab({ questions }: PracticeTabProps) {
+interface SavedProgress {
+  current: number;
+  score: number;
+  done: boolean;
+  timestamp: number;
+}
+
+export default function PracticeTab({ questions, topicId }: PracticeTabProps) {
   const [current, setCurrent] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
   const [fillValue, setFillValue] = useState('');
@@ -23,18 +31,86 @@ export default function PracticeTab({ questions }: PracticeTabProps) {
   const [isCorrect, setIsCorrect] = useState(false);
   const [score, setScore] = useState(0);
   const [done, setDone] = useState(false);
+  const [isInitialized, setIsInitialized] = useState(false);
+  const [hasResume, setHasResume] = useState(false);
 
-  if (!questions || questions.length === 0) {
-    return (
-      <div className="glass-card p-8 text-center text-slate-500">
-        <p className="text-xl font-semibold">No practice questions yet for this topic.</p>
-        <p className="mt-2 text-slate-400">Check back after the full textbook is processed!</p>
-      </div>
-    );
-  }
+  // 1. LOAD PROGRESS ON MOUNT
+  useEffect(() => {
+    const saved = localStorage.getItem("practice_progress_" + topicId);
+    if (saved) {
+      try {
+        const parsed: SavedProgress = JSON.parse(saved);
+        if (!parsed.done) {
+          setHasResume(true);
+        } else {
+          // If already done, show the result screen immediately
+          setCurrent(parsed.current);
+          setScore(parsed.score);
+          setDone(true);
+        }
+      } catch (e) {
+        console.error("Failed to parse saved progress", e);
+      }
+    }
+    setIsInitialized(true);
+  }, [topicId]);
 
-  const q = questions[current];
-  const total = questions.length;
+  // 2. SAVE PROGRESS ON CHANGE
+  useEffect(() => {
+    if (!isInitialized) return;
+    
+    const state: SavedProgress = {
+      current,
+      score,
+      done,
+      timestamp: Date.now()
+    };
+    localStorage.setItem("practice_progress_" + topicId, JSON.stringify(state));
+
+    // 3. UPDATE GLOBAL SCORES ON COMPLETION
+    if (done) {
+      updateGlobalScores(topicId, score, questions.length);
+    }
+  }, [current, score, done, isInitialized, topicId, questions.length]);
+
+  const updateGlobalScores = (tid: string, s: number, total: number) => {
+    try {
+      const saved = localStorage.getItem("practice_scores");
+      let scores = saved ? JSON.parse(saved) : { topics: {}, total_score: 0, total_questions: 0 };
+      
+      const prevScore = scores.topics[tid]?.score || 0;
+      const prevTotal = scores.topics[tid]?.total || 0;
+
+      // Update topic record
+      scores.topics[tid] = { score: s, total: total };
+
+      // Re-calculate totals across all topics
+      let newTotalScore = 0;
+      let newTotalQuestions = 0;
+      Object.values(scores.topics).forEach((t: any) => {
+        newTotalScore += t.score;
+        newTotalQuestions += t.total;
+      });
+
+      scores.total_score = newTotalScore;
+      scores.total_questions = newTotalQuestions;
+
+      localStorage.setItem("practice_scores", JSON.stringify(scores));
+    } catch (e) {
+      console.error("Failed to update global scores", e);
+    }
+  };
+
+  const handleResume = () => {
+    const saved = localStorage.getItem("practice_progress_" + topicId);
+    if (saved) {
+      const parsed: SavedProgress = JSON.parse(saved);
+      setCurrent(parsed.current);
+      setScore(parsed.score);
+      setDone(parsed.done);
+    }
+    setHasResume(false);
+  };
 
   const handleCheck = (answer: string) => {
     const correct = answer.trim().toLowerCase() === q.correct_answer.trim().toLowerCase();
@@ -63,7 +139,49 @@ export default function PracticeTab({ questions }: PracticeTabProps) {
     setIsCorrect(false);
     setScore(0);
     setDone(false);
+    setHasResume(false);
   };
+
+  if (!isInitialized) return null;
+
+  if (!questions || questions.length === 0) {
+    return (
+      <div className="glass-card p-8 text-center text-slate-500">
+        <p className="text-xl font-semibold">No practice questions yet for this topic.</p>
+        <p className="mt-2 text-slate-400">Check back after the full textbook is processed!</p>
+      </div>
+    );
+  }
+
+  // Resume Overlay
+  if (hasResume) {
+    return (
+      <div className="glass-card p-8 sm:p-12 text-center bg-white border-2 border-indigo-100 shadow-xl">
+        <div className="w-20 h-20 rounded-full bg-indigo-50 text-indigo-600 flex items-center justify-center mx-auto mb-6">
+          <Play size={40} className="ml-1" />
+        </div>
+        <h2 className="text-3xl font-black text-slate-800 mb-2">Welcome Back!</h2>
+        <p className="text-xl text-slate-500 mb-8">You have a practice session in progress for this topic.</p>
+        <div className="flex flex-col sm:flex-row gap-4 justify-center">
+           <button
+             onClick={handleResume}
+             className="px-8 py-4 rounded-full bg-indigo-600 text-white font-bold hover:bg-indigo-700 hover:scale-105 transition-all shadow-lg flex items-center justify-center gap-3 text-lg"
+           >
+             Resume Practice
+           </button>
+           <button
+             onClick={handleRestart}
+             className="px-8 py-4 rounded-full bg-white border-2 border-slate-200 text-slate-600 font-bold hover:bg-slate-50 transition-all flex items-center justify-center gap-3 text-lg"
+           >
+             Start Over
+           </button>
+        </div>
+      </div>
+    );
+  }
+
+  const q = questions[current];
+  const total = questions.length;
 
   // Completion screen
   if (done) {

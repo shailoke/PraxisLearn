@@ -4,7 +4,7 @@ import { useState } from 'react';
 import { Lightbulb, Sparkles, BookOpen, Quote, Target, Brain, ArrowRight, CheckCircle2 } from 'lucide-react';
 import PracticeTab from '@/components/PracticeTab';
 
-export default function TabsView({ data, questions }: { data: any; questions: any[] }) {
+export default function TabsView({ data, questions, topicId }: { data: any; questions: any[]; topicId: string }) {
   const [activeTab, setActiveTab] = useState<'learn' | 'deepDive' | 'practice' | 'challenge'>('learn');
 
   const tabs = [
@@ -103,7 +103,7 @@ export default function TabsView({ data, questions }: { data: any; questions: an
         {/* PRACTICE TAB */}
         {activeTab === 'practice' && (
           <div className="animate-in fade-in slide-in-from-bottom-2 duration-500">
-            <PracticeTab questions={questions} />
+            <PracticeTab questions={questions} topicId={topicId} />
           </div>
         )}
 

@@ -6,6 +6,7 @@ import Link from 'next/link';
 // Import our new Interactive Client Components
 import TabsView from './TabsView';
 import InteractiveLayout from '@/components/InteractiveLayout';
+import PracticeScore from '@/components/PracticeScore';
 
 export default async function Page({
   params,
@@ -68,16 +69,19 @@ export default async function Page({
           <div className="absolute top-0 right-0 p-4 opacity-10 transform translate-x-4 -translate-y-4">
             <BookOpen size={150} className="text-white" />
           </div>
-          <span className="text-sm font-extrabold uppercase tracking-widest text-primary-100 block mb-3 opacity-80">
-            {data.unit} / {data.topic}
-          </span>
+          <div className="flex items-center justify-between mb-3">
+            <span className="text-sm font-extrabold uppercase tracking-widest text-primary-100 block opacity-80">
+              {data.unit} / {data.topic}
+            </span>
+            <PracticeScore compact />
+          </div>
           <h1 className="text-4xl sm:text-5xl font-extrabold leading-tight text-white mb-2 relative z-10">
             {data.title || "Let's Learn!"}
           </h1>
         </div>
 
         {/* MAIN TABBED LEARNING INTERFACE */}
-        <TabsView data={data} questions={questions} />
+        <TabsView data={data} questions={questions} topicId={pageId} />
 
         {/* Bottom Navigation */}
         <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-8 border-t border-slate-200/50 mt-8 mb-8 lg:mb-0 px-4 lg:px-0">

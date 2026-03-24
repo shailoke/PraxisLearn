@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { Book, Play, Star } from 'lucide-react';
+import PracticeScore from '@/components/PracticeScore';
 import fs from 'fs';
 import path from 'path';
 
@@ -45,10 +46,10 @@ export default async function Home() {
         <div className="relative z-10">
           <h2 className="text-4xl font-extrabold text-slate-800 mb-2">Welcome Back! 🚀</h2>
           <p className="text-lg text-slate-600 max-w-lg mb-6">Ready to learn something new today? Pick a topic below and let's jump right in.</p>
-          <div className="flex gap-4">
-            <span className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white text-primary text-sm font-semibold shadow-sm">
-              <Book size={16} /> {indexData.length} Lessons Available
-            </span>
+          <div className="flex flex-col sm:flex-row gap-6 mt-4">
+            <div className="flex-1 max-w-sm">
+              <PracticeScore />
+            </div>
           </div>
         </div>
       </div>
