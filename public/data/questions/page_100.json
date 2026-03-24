@@ -1,0 +1,61 @@
+{
+  "topic": "Different forms of poetry",
+  "title": "Discovering Haiku and Tanka Poems",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"Syllables\" mean?",
+      "options": [
+        "A word that has only one syllable (e.g., 'cat', 'run').",
+        "A word that has more than one syllable (e.g., 'el-e-phant', 'com-pu-ter').",
+        "Units of sound in a word, like the distinct 'beats' you hear (e.g., 'wa-ter' has two syllables).",
+        "A short Japanese poem with three lines following a 5, 7, 5 syllable pattern, usually about nature."
+      ],
+      "correct_answer": "Units of sound in a word, like the distinct 'beats' you hear (e.g., 'wa-ter' has two syllables).",
+      "explanation": "\"Syllables\" means: Units of sound in a word, like the distinct 'beats' you hear (e.g., 'wa-ter' has two syllables)."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"Monosyllabic\" mean?",
+      "options": [
+        "A short Japanese poem with three lines following a 5, 7, 5 syllable pattern, usually about nature.",
+        "Units of sound in a word, like the distinct 'beats' you hear (e.g., 'wa-ter' has two syllables).",
+        "A word that has only one syllable (e.g., 'cat', 'run').",
+        "A word that has more than one syllable (e.g., 'el-e-phant', 'com-pu-ter')."
+      ],
+      "correct_answer": "A word that has only one syllable (e.g., 'cat', 'run').",
+      "explanation": "\"Monosyllabic\" means: A word that has only one syllable (e.g., 'cat', 'run')."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Syllables are sound units that form ______ and are crucial for understanding poetic form.",
+      "options": null,
+      "correct_answer": "words",
+      "explanation": "The full sentence is: \"Syllables are sound units that form words and are crucial for understanding poetic form.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Tanka is a 5-line Japanese poem with a 5-7-5-7-7 syllable structure, often telling a short story.",
+        "Syllables are sound units that form words and are crucial for understanding poetic form.",
+        "Due to their brevity, every word in Haiku and Tanka is carefully chosen for maximum impact and imagery.",
+        "Haiku is a 3-line Japanese poem with a 5-7-5 syllable structure, often focusing on nature."
+      ],
+      "correct_answer": "Haiku is a 3-line Japanese poem with a 5-7-5 syllable structure, often focusing on nature.",
+      "explanation": "Correct! \"Haiku is a 3-line Japanese poem with a 5-7-5 syllable structure, often focusing on nature.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"Polysyllabic\" mean?",
+      "options": [
+        "A word that has more than one syllable (e.g., 'el-e-phant', 'com-pu-ter').",
+        "A word that has only one syllable (e.g., 'cat', 'run').",
+        "A short Japanese poem with three lines following a 5, 7, 5 syllable pattern, usually about nature.",
+        "Units of sound in a word, like the distinct 'beats' you hear (e.g., 'wa-ter' has two syllables)."
+      ],
+      "correct_answer": "A word that has more than one syllable (e.g., 'el-e-phant', 'com-pu-ter').",
+      "explanation": "\"Polysyllabic\" means: A word that has more than one syllable (e.g., 'el-e-phant', 'com-pu-ter')."
+    }
+  ]
+}

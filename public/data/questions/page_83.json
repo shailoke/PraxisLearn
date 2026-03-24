@@ -1,0 +1,61 @@
+{
+  "topic": "Features of argument texts",
+  "title": "Dissecting an Argument: Key Parts and Presentation",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"logical\" mean?",
+      "options": [
+        "what someone believes or thinks about something.",
+        "when an engine is running but not moving the vehicle, like a car waiting at traffic lights.",
+        "the beginning part of an argument text that explains the topic.",
+        "sensible and reasonable; following a clear and correct way of thinking."
+      ],
+      "correct_answer": "sensible and reasonable; following a clear and correct way of thinking.",
+      "explanation": "\"logical\" means: sensible and reasonable; following a clear and correct way of thinking."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"idle\" mean?",
+      "options": [
+        "the beginning part of an argument text that explains the topic.",
+        "when an engine is running but not moving the vehicle, like a car waiting at traffic lights.",
+        "sensible and reasonable; following a clear and correct way of thinking.",
+        "what someone believes or thinks about something."
+      ],
+      "correct_answer": "when an engine is running but not moving the vehicle, like a car waiting at traffic lights.",
+      "explanation": "\"idle\" means: when an engine is running but not moving the vehicle, like a car waiting at traffic lights."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: A strong conclusion summarizes the ______ and often calls for action.",
+      "options": null,
+      "correct_answer": "argument",
+      "explanation": "The full sentence is: \"A strong conclusion summarizes the argument and often calls for action.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Bullet points can improve readability for lists of ideas.",
+        "Argument texts follow a structure: introduction, opinions, evidence, and conclusion.",
+        "Signposting words and trustworthy sources strengthen an argument.",
+        "A strong conclusion summarizes the argument and often calls for action."
+      ],
+      "correct_answer": "Argument texts follow a structure: introduction, opinions, evidence, and conclusion.",
+      "explanation": "Correct! \"Argument texts follow a structure: introduction, opinions, evidence, and conclusion.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"introduction\" mean?",
+      "options": [
+        "when an engine is running but not moving the vehicle, like a car waiting at traffic lights.",
+        "sensible and reasonable; following a clear and correct way of thinking.",
+        "the beginning part of an argument text that explains the topic.",
+        "what someone believes or thinks about something."
+      ],
+      "correct_answer": "the beginning part of an argument text that explains the topic.",
+      "explanation": "\"introduction\" means: the beginning part of an argument text that explains the topic."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "topic": "Spelling Nouns: Changing Adjectives with -ance/-ancy and -ence/-ency",
+  "title": "Making Your Words Sound Formal: Adding -ance, -ence, -ancy, -ency",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"significant\" mean?",
+      "options": [
+        "the state of being hesitant or unsure",
+        "important or noticeable",
+        "the quality of being important",
+        "unsure or slow to act or speak"
+      ],
+      "correct_answer": "important or noticeable",
+      "explanation": "\"significant\" means: important or noticeable"
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"significance\" mean?",
+      "options": [
+        "the state of being hesitant or unsure",
+        "the quality of being important",
+        "important or noticeable",
+        "unsure or slow to act or speak"
+      ],
+      "correct_answer": "the quality of being important",
+      "explanation": "\"significance\" means: the quality of being important"
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Formal writing often uses ______ instead of adjectives.",
+      "options": null,
+      "correct_answer": "nouns",
+      "explanation": "The full sentence is: \"Formal writing often uses nouns instead of adjectives.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Formal writing often uses nouns instead of adjectives.",
+        "Adjectives ending in '-ent' often change to nouns with '-ence' or '-ency'.",
+        "Adjectives ending in '-ant' often change to nouns with '-ance' or '-ancy'.",
+        "Learning these patterns helps with spelling and making your writing more sophisticated."
+      ],
+      "correct_answer": "Adjectives ending in '-ant' often change to nouns with '-ance' or '-ancy'.",
+      "explanation": "Correct! \"Adjectives ending in '-ant' often change to nouns with '-ance' or '-ancy'.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"hesitant\" mean?",
+      "options": [
+        "unsure or slow to act or speak",
+        "the state of being hesitant or unsure",
+        "important or noticeable",
+        "the quality of being important"
+      ],
+      "correct_answer": "unsure or slow to act or speak",
+      "explanation": "\"hesitant\" means: unsure or slow to act or speak"
+    }
+  ]
+}

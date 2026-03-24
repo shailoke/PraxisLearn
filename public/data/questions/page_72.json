@@ -1,0 +1,61 @@
+{
+  "topic": "Science fiction stories",
+  "title": "Exploring Borrowed Words and Sentence Variety",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"simile\" mean?",
+      "options": [
+        "the action of repeating something that has already been said or written for emphasis",
+        "a figure of speech comparing two different things using 'like' or 'as'",
+        "None of the above",
+        "words or phrases that link ideas or sentences together (e.g., and, but, since)"
+      ],
+      "correct_answer": "a figure of speech comparing two different things using 'like' or 'as'",
+      "explanation": "\"simile\" means: a figure of speech comparing two different things using 'like' or 'as'"
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"repetition\" mean?",
+      "options": [
+        "words or phrases that link ideas or sentences together (e.g., and, but, since)",
+        "the action of repeating something that has already been said or written for emphasis",
+        "a figure of speech comparing two different things using 'like' or 'as'",
+        "None of the above"
+      ],
+      "correct_answer": "the action of repeating something that has already been said or written for emphasis",
+      "explanation": "\"repetition\" means: the action of repeating something that has already been said or written for emphasis"
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: English has many words ______ from other languages.",
+      "options": null,
+      "correct_answer": "borrowed",
+      "explanation": "The full sentence is: \"English has many words borrowed from other languages.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Repetition can add emphasis and impact to your writing.",
+        "Use similes to make descriptions more imaginative.",
+        "English has many words borrowed from other languages.",
+        "Varying sentence length (long and short) helps control the pace and detail of your story."
+      ],
+      "correct_answer": "Varying sentence length (long and short) helps control the pace and detail of your story.",
+      "explanation": "Correct! \"Varying sentence length (long and short) helps control the pace and detail of your story.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"connectives\" mean?",
+      "options": [
+        "words or phrases that link ideas or sentences together (e.g., and, but, since)",
+        "the action of repeating something that has already been said or written for emphasis",
+        "a figure of speech comparing two different things using 'like' or 'as'",
+        "None of the above"
+      ],
+      "correct_answer": "words or phrases that link ideas or sentences together (e.g., and, but, since)",
+      "explanation": "\"connectives\" means: words or phrases that link ideas or sentences together (e.g., and, but, since)"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "topic": "Describing Emotions and Figurative Language Review",
+  "title": "Describing Emotions and Figurative Language Review",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"blithe\" mean?",
+      "options": [
+        "full of energy, excitement, and cheerfulness.",
+        "bad-tempered or grumpy.",
+        "very happy and cheerful.",
+        "excitedly happy."
+      ],
+      "correct_answer": "very happy and cheerful.",
+      "explanation": "\"blithe\" means: very happy and cheerful."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"exuberant\" mean?",
+      "options": [
+        "very happy and cheerful.",
+        "excitedly happy.",
+        "full of energy, excitement, and cheerfulness.",
+        "bad-tempered or grumpy."
+      ],
+      "correct_answer": "full of energy, excitement, and cheerfulness.",
+      "explanation": "\"exuberant\" means: full of energy, excitement, and cheerfulness."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Use varied adjectives to ______ feelings accurately.",
+      "options": null,
+      "correct_answer": "describe",
+      "explanation": "The full sentence is: \"Use varied adjectives to describe feelings accurately.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Recognise the impact of figurative language in writing.",
+        "Recall and practice alliteration, rhyme, and personification.",
+        "Understand idioms as phrases with non-literal meanings.",
+        "Use varied adjectives to describe feelings accurately."
+      ],
+      "correct_answer": "Recall and practice alliteration, rhyme, and personification.",
+      "explanation": "Correct! \"Recall and practice alliteration, rhyme, and personification.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"gleeful\" mean?",
+      "options": [
+        "excitedly happy.",
+        "full of energy, excitement, and cheerfulness.",
+        "bad-tempered or grumpy.",
+        "very happy and cheerful."
+      ],
+      "correct_answer": "excitedly happy.",
+      "explanation": "\"gleeful\" means: excitedly happy."
+    }
+  ]
+}

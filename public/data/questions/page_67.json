@@ -1,0 +1,61 @@
+{
+  "topic": "Formality in Language (Register)",
+  "title": "Register in Dialogues: Choosing Your Words",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"register\" mean?",
+      "options": [
+        "Everyday, ordinary language, not too formal or informal.",
+        "Relaxed, casual, and friendly language.",
+        "The level of formality in language – like how serious or casual it is.",
+        "Serious, polite, and proper language."
+      ],
+      "correct_answer": "The level of formality in language – like how serious or casual it is.",
+      "explanation": "\"register\" means: The level of formality in language – like how serious or casual it is."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"formal\" mean?",
+      "options": [
+        "Serious, polite, and proper language.",
+        "Everyday, ordinary language, not too formal or informal.",
+        "The level of formality in language – like how serious or casual it is.",
+        "Relaxed, casual, and friendly language."
+      ],
+      "correct_answer": "Serious, polite, and proper language.",
+      "explanation": "\"formal\" means: Serious, polite, and proper language."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Register is the level of ______ in someone's language.",
+      "options": null,
+      "correct_answer": "formality",
+      "explanation": "The full sentence is: \"Register is the level of formality in someone's language.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Language can be formal, neutral, or informal.",
+        "Adverbs and adverbial phrases help describe *how* a character speaks (e.g., 'sleepily', 'in an enthusiastic tone').",
+        "Characters change their register depending on who they are talking to.",
+        "Register is the level of formality in someone's language."
+      ],
+      "correct_answer": "Language can be formal, neutral, or informal.",
+      "explanation": "Correct! \"Language can be formal, neutral, or informal.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"neutral\" mean?",
+      "options": [
+        "The level of formality in language – like how serious or casual it is.",
+        "Relaxed, casual, and friendly language.",
+        "Serious, polite, and proper language.",
+        "Everyday, ordinary language, not too formal or informal."
+      ],
+      "correct_answer": "Everyday, ordinary language, not too formal or informal.",
+      "explanation": "\"neutral\" means: Everyday, ordinary language, not too formal or informal."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "topic": "Science fiction stories",
+  "title": "Conveying Ideas: Dystopias, Themes, and Quantifiers",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"dystopias\" mean?",
+      "options": [
+        "an imagined perfect society",
+        "words that tell you how much or how little of something there is (e.g., many, some, a little)",
+        "the main ideas or important messages in a story",
+        "imaginary societies where there is great suffering or injustice"
+      ],
+      "correct_answer": "imaginary societies where there is great suffering or injustice",
+      "explanation": "\"dystopias\" means: imaginary societies where there is great suffering or injustice"
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"themes\" mean?",
+      "options": [
+        "imaginary societies where there is great suffering or injustice",
+        "an imagined perfect society",
+        "words that tell you how much or how little of something there is (e.g., many, some, a little)",
+        "the main ideas or important messages in a story"
+      ],
+      "correct_answer": "the main ideas or important messages in a story",
+      "explanation": "\"themes\" means: the main ideas or important messages in a story"
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Understand what a dystopia is (an ______ bad society).",
+      "options": null,
+      "correct_answer": "imagined",
+      "explanation": "The full sentence is: \"Understand what a dystopia is (an imagined bad society).\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Understand what a dystopia is (an imagined bad society).",
+        "Analyze characters' opinions and how they change in a story.",
+        "Recognise and use quantifiers to describe amounts.",
+        "Identify the main themes (big ideas) in a story."
+      ],
+      "correct_answer": "Identify the main themes (big ideas) in a story.",
+      "explanation": "Correct! \"Identify the main themes (big ideas) in a story.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"quantifiers\" mean?",
+      "options": [
+        "an imagined perfect society",
+        "the main ideas or important messages in a story",
+        "imaginary societies where there is great suffering or injustice",
+        "words that tell you how much or how little of something there is (e.g., many, some, a little)"
+      ],
+      "correct_answer": "words that tell you how much or how little of something there is (e.g., many, some, a little)",
+      "explanation": "\"quantifiers\" means: words that tell you how much or how little of something there is (e.g., many, some, a little)"
+    }
+  ]
+}

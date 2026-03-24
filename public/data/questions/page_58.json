@@ -1,0 +1,61 @@
+{
+  "topic": "Analyzing Fiction: Comprehension & Writing",
+  "title": "Diving Deeper into 'Running on the Roof of the World'",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"personification\" mean?",
+      "options": [
+        "Compares two different things using 'like' or 'as'.",
+        "Giving human qualities or actions to objects or animals.",
+        "A small part or section taken from a larger text, like a book.",
+        "A section of writing, usually made of several sentences, that deals with one main idea."
+      ],
+      "correct_answer": "Giving human qualities or actions to objects or animals.",
+      "explanation": "\"personification\" means: Giving human qualities or actions to objects or animals."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"simile\" mean?",
+      "options": [
+        "A section of writing, usually made of several sentences, that deals with one main idea.",
+        "A small part or section taken from a larger text, like a book.",
+        "Compares two different things using 'like' or 'as'.",
+        "Giving human qualities or actions to objects or animals."
+      ],
+      "correct_answer": "Compares two different things using 'like' or 'as'.",
+      "explanation": "\"simile\" means: Compares two different things using 'like' or 'as'."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Practice finding ______ language in texts.",
+      "options": null,
+      "correct_answer": "figurative",
+      "explanation": "The full sentence is: \"Practice finding figurative language in texts.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Develop creative writing skills by continuing a narrative.",
+        "Analyze characters' feelings and motivations in a story.",
+        "Use surrounding words (context) to understand new vocabulary.",
+        "Practice finding figurative language in texts."
+      ],
+      "correct_answer": "Use surrounding words (context) to understand new vocabulary.",
+      "explanation": "Correct! \"Use surrounding words (context) to understand new vocabulary.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"paragraph\" mean?",
+      "options": [
+        "A section of writing, usually made of several sentences, that deals with one main idea.",
+        "Compares two different things using 'like' or 'as'.",
+        "Giving human qualities or actions to objects or animals.",
+        "A small part or section taken from a larger text, like a book."
+      ],
+      "correct_answer": "A section of writing, usually made of several sentences, that deals with one main idea.",
+      "explanation": "\"paragraph\" means: A section of writing, usually made of several sentences, that deals with one main idea."
+    }
+  ]
+}

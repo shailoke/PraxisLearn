@@ -1,0 +1,61 @@
+{
+  "topic": "Spelling Nouns: Words Ending in -tion, -cian, -sion, -ssion",
+  "title": "Understanding Different 'shun' Sounds: Spelling Noun Endings",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"optician\" mean?",
+      "options": [
+        "the activity or condition of striving to gain or win something by defeating or establishing superiority over others",
+        "a person involved in public affairs as a holder of or candidate for an elected office",
+        "a person who is qualified to make and supply eyeglasses and contact lenses",
+        "a person skilled in the technique of a particular art or craft"
+      ],
+      "correct_answer": "a person who is qualified to make and supply eyeglasses and contact lenses",
+      "explanation": "\"optician\" means: a person who is qualified to make and supply eyeglasses and contact lenses"
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"politician\" mean?",
+      "options": [
+        "the activity or condition of striving to gain or win something by defeating or establishing superiority over others",
+        "a person skilled in the technique of a particular art or craft",
+        "a person who is qualified to make and supply eyeglasses and contact lenses",
+        "a person involved in public affairs as a holder of or candidate for an elected office"
+      ],
+      "correct_answer": "a person involved in public affairs as a holder of or candidate for an elected office",
+      "explanation": "\"politician\" means: a person involved in public affairs as a holder of or candidate for an elected office"
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Words ending in the 'shun' ______ can be spelled -tion, -cian, -sion, or -ssion.",
+      "options": null,
+      "correct_answer": "sound",
+      "explanation": "The full sentence is: \"Words ending in the 'shun' sound can be spelled -tion, -cian, -sion, or -ssion.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "-cian is usually for job titles.",
+        "-tion is a common ending for many nouns.",
+        "-sion often comes from verbs ending in d, de, or se.",
+        "Words ending in the 'shun' sound can be spelled -tion, -cian, -sion, or -ssion."
+      ],
+      "correct_answer": "-tion is a common ending for many nouns.",
+      "explanation": "Correct! \"-tion is a common ending for many nouns.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"technician\" mean?",
+      "options": [
+        "the activity or condition of striving to gain or win something by defeating or establishing superiority over others",
+        "a person skilled in the technique of a particular art or craft",
+        "a person who is qualified to make and supply eyeglasses and contact lenses",
+        "a person involved in public affairs as a holder of or candidate for an elected office"
+      ],
+      "correct_answer": "a person skilled in the technique of a particular art or craft",
+      "explanation": "\"technician\" means: a person skilled in the technique of a particular art or craft"
+    }
+  ]
+}

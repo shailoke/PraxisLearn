@@ -1,0 +1,61 @@
+{
+  "topic": "Fiction: Stories with flashbacks",
+  "title": "Mastering Flashbacks and Similes",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"figurative language\" mean?",
+      "options": [
+        "A scene in a story that takes the reader back in time to an earlier event.",
+        "A comparison between two different things using 'like' or 'as'.",
+        "Verbs that describe actions happening now.",
+        "Language that uses words or expressions with a meaning that is different from the literal interpretation, to create an effect."
+      ],
+      "correct_answer": "Language that uses words or expressions with a meaning that is different from the literal interpretation, to create an effect.",
+      "explanation": "\"figurative language\" means: Language that uses words or expressions with a meaning that is different from the literal interpretation, to create an effect."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"simile\" mean?",
+      "options": [
+        "Verbs that describe actions happening now.",
+        "A comparison between two different things using 'like' or 'as'.",
+        "Language that uses words or expressions with a meaning that is different from the literal interpretation, to create an effect.",
+        "A scene in a story that takes the reader back in time to an earlier event."
+      ],
+      "correct_answer": "A comparison between two different things using 'like' or 'as'.",
+      "explanation": "\"simile\" means: A comparison between two different things using 'like' or 'as'."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Similes compare two unlike ______ using 'like' or 'as' to add imaginative detail.",
+      "options": null,
+      "correct_answer": "things",
+      "explanation": "The full sentence is: \"Similes compare two unlike things using 'like' or 'as' to add imaginative detail.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Verb tenses usually change from present to past when a story moves into a flashback.",
+        "Flashbacks are sections of a story that tell about past events.",
+        "Writers use various signals (punctuation, dreams, strange events) to introduce a flashback.",
+        "Similes compare two unlike things using 'like' or 'as' to add imaginative detail."
+      ],
+      "correct_answer": "Flashbacks are sections of a story that tell about past events.",
+      "explanation": "Correct! \"Flashbacks are sections of a story that tell about past events.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"flashback\" mean?",
+      "options": [
+        "A comparison between two different things using 'like' or 'as'.",
+        "Verbs that describe actions happening now.",
+        "Language that uses words or expressions with a meaning that is different from the literal interpretation, to create an effect.",
+        "A scene in a story that takes the reader back in time to an earlier event."
+      ],
+      "correct_answer": "A scene in a story that takes the reader back in time to an earlier event.",
+      "explanation": "\"flashback\" means: A scene in a story that takes the reader back in time to an earlier event."
+    }
+  ]
+}

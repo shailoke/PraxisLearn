@@ -1,0 +1,61 @@
+{
+  "topic": "Comparing Poems and Identifying Themes",
+  "title": "Uncovering the Big Ideas in Poems",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"Theme\" mean?",
+      "options": [
+        "The feeling or atmosphere that a poem creates for the reader, like happy, sad, or calm.",
+        "None of the above",
+        "Strong feelings such as joy, sadness, anger, or love.",
+        "The main idea, message, or lesson that a poem or story wants to share."
+      ],
+      "correct_answer": "The main idea, message, or lesson that a poem or story wants to share.",
+      "explanation": "\"Theme\" means: The main idea, message, or lesson that a poem or story wants to share."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"Mood\" mean?",
+      "options": [
+        "The main idea, message, or lesson that a poem or story wants to share.",
+        "None of the above",
+        "The feeling or atmosphere that a poem creates for the reader, like happy, sad, or calm.",
+        "Strong feelings such as joy, sadness, anger, or love."
+      ],
+      "correct_answer": "The feeling or atmosphere that a poem creates for the reader, like happy, sad, or calm.",
+      "explanation": "\"Mood\" means: The feeling or atmosphere that a poem creates for the reader, like happy, sad, or calm."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: The theme is the central ______ or big idea of a poem, not just its topic.",
+      "options": null,
+      "correct_answer": "message",
+      "explanation": "The full sentence is: \"The theme is the central message or big idea of a poem, not just its topic.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Comparing poems helps to deepen your understanding of different styles and messages.",
+        "The 'mood' of a poem describes the feeling it creates for the reader.",
+        "To identify a theme, consider what the poet is trying to communicate about a topic.",
+        "The theme is the central message or big idea of a poem, not just its topic."
+      ],
+      "correct_answer": "To identify a theme, consider what the poet is trying to communicate about a topic.",
+      "explanation": "Correct! \"To identify a theme, consider what the poet is trying to communicate about a topic.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"Emotions\" mean?",
+      "options": [
+        "Strong feelings such as joy, sadness, anger, or love.",
+        "None of the above",
+        "The main idea, message, or lesson that a poem or story wants to share.",
+        "The feeling or atmosphere that a poem creates for the reader, like happy, sad, or calm."
+      ],
+      "correct_answer": "Strong feelings such as joy, sadness, anger, or love.",
+      "explanation": "\"Emotions\" means: Strong feelings such as joy, sadness, anger, or love."
+    }
+  ]
+}

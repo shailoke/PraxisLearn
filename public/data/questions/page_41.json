@@ -1,0 +1,61 @@
+{
+  "topic": "Autobiography writing and oral presentation",
+  "title": "Planning and Presenting Your Autobiography",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"autobiography\" mean?",
+      "options": [
+        "strong verbs that show exactly what happened, like 'sprint' instead of 'run'.",
+        "making a strong effect on someone.",
+        "groups of words that tell you more about when, where, or how something happened (e.g., 'in the garden', 'after lunch').",
+        "a story someone writes about their own life."
+      ],
+      "correct_answer": "a story someone writes about their own life.",
+      "explanation": "\"autobiography\" means: a story someone writes about their own life."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"precise verbs\" mean?",
+      "options": [
+        "strong verbs that show exactly what happened, like 'sprint' instead of 'run'.",
+        "a story someone writes about their own life.",
+        "groups of words that tell you more about when, where, or how something happened (e.g., 'in the garden', 'after lunch').",
+        "making a strong effect on someone."
+      ],
+      "correct_answer": "strong verbs that show exactly what happened, like 'sprint' instead of 'run'.",
+      "explanation": "\"precise verbs\" means: strong verbs that show exactly what happened, like 'sprint' instead of 'run'."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Plan autobiography ______ with a storyboard.",
+      "options": null,
+      "correct_answer": "chapters",
+      "explanation": "The full sentence is: \"Plan autobiography chapters with a storyboard.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Practice reading aloud and identifying literary devices in group work.",
+        "Plan autobiography chapters with a storyboard.",
+        "Use precise verbs, adverbial phrases of time and place, and sound effects.",
+        "Employ short, simple sentences for dramatic impact."
+      ],
+      "correct_answer": "Use precise verbs, adverbial phrases of time and place, and sound effects.",
+      "explanation": "Correct! \"Use precise verbs, adverbial phrases of time and place, and sound effects.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"adverbial phrases\" mean?",
+      "options": [
+        "a story someone writes about their own life.",
+        "making a strong effect on someone.",
+        "groups of words that tell you more about when, where, or how something happened (e.g., 'in the garden', 'after lunch').",
+        "strong verbs that show exactly what happened, like 'sprint' instead of 'run'."
+      ],
+      "correct_answer": "groups of words that tell you more about when, where, or how something happened (e.g., 'in the garden', 'after lunch').",
+      "explanation": "\"adverbial phrases\" means: groups of words that tell you more about when, where, or how something happened (e.g., 'in the garden', 'after lunch')."
+    }
+  ]
+}

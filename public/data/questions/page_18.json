@@ -1,0 +1,61 @@
+{
+  "topic": "Using Commas and Semi-colons",
+  "title": "Mastering Commas and Semi-colons for Clear Writing",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"commas\" mean?",
+      "options": [
+        "a part of a sentence that contains a subject and a verb and can stand alone as a complete sentence",
+        "a part of a sentence that adds extra information but cannot stand alone as a complete sentence",
+        "punctuation marks (,) used to show a pause or separate elements in a sentence",
+        "a sentence made up of two or more main clauses joined together, often by a coordinating conjunction (like 'and', 'but', 'or') or a semi-colon"
+      ],
+      "correct_answer": "punctuation marks (,) used to show a pause or separate elements in a sentence",
+      "explanation": "\"commas\" means: punctuation marks (,) used to show a pause or separate elements in a sentence"
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"subordinate clause\" mean?",
+      "options": [
+        "a sentence made up of two or more main clauses joined together, often by a coordinating conjunction (like 'and', 'but', 'or') or a semi-colon",
+        "a part of a sentence that contains a subject and a verb and can stand alone as a complete sentence",
+        "punctuation marks (,) used to show a pause or separate elements in a sentence",
+        "a part of a sentence that adds extra information but cannot stand alone as a complete sentence"
+      ],
+      "correct_answer": "a part of a sentence that adds extra information but cannot stand alone as a complete sentence",
+      "explanation": "\"subordinate clause\" means: a part of a sentence that adds extra information but cannot stand alone as a complete sentence"
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Commas separate ______ in lists.",
+      "options": null,
+      "correct_answer": "items",
+      "explanation": "The full sentence is: \"Commas separate items in lists.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Commas separate items in lists.",
+        "Semi-colons link two closely related main clauses, showing a strong connection between ideas.",
+        "Commas can separate clauses in compound sentences and expressions.",
+        "Commas are used after subordinate clauses at the beginning of a sentence."
+      ],
+      "correct_answer": "Commas are used after subordinate clauses at the beginning of a sentence.",
+      "explanation": "Correct! \"Commas are used after subordinate clauses at the beginning of a sentence.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"compound sentences\" mean?",
+      "options": [
+        "punctuation marks (,) used to show a pause or separate elements in a sentence",
+        "a sentence made up of two or more main clauses joined together, often by a coordinating conjunction (like 'and', 'but', 'or') or a semi-colon",
+        "a part of a sentence that adds extra information but cannot stand alone as a complete sentence",
+        "a part of a sentence that contains a subject and a verb and can stand alone as a complete sentence"
+      ],
+      "correct_answer": "a sentence made up of two or more main clauses joined together, often by a coordinating conjunction (like 'and', 'but', 'or') or a semi-colon",
+      "explanation": "\"compound sentences\" means: a sentence made up of two or more main clauses joined together, often by a coordinating conjunction (like 'and', 'but', 'or') or a semi-colon"
+    }
+  ]
+}

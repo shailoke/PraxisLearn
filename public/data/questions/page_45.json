@@ -1,0 +1,61 @@
+{
+  "topic": "Deep Dive into Figurative Language and Wordplay",
+  "title": "What is Figurative Language? (Part 2): Deeper Dive",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"imagery\" mean?",
+      "options": [
+        "descriptive language that creates pictures or feelings in the reader's mind.",
+        "a figure of speech that directly compares two unlike things without using 'like' or 'as' (e.g., 'the world is a stage').",
+        "(recap) giving human qualities to animals or objects.",
+        "words that sound the same but have different spellings and meanings (e.g., 'to', 'too', 'two')."
+      ],
+      "correct_answer": "descriptive language that creates pictures or feelings in the reader's mind.",
+      "explanation": "\"imagery\" means: descriptive language that creates pictures or feelings in the reader's mind."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"metaphor\" mean?",
+      "options": [
+        "(recap) giving human qualities to animals or objects.",
+        "descriptive language that creates pictures or feelings in the reader's mind.",
+        "a figure of speech that directly compares two unlike things without using 'like' or 'as' (e.g., 'the world is a stage').",
+        "words that sound the same but have different spellings and meanings (e.g., 'to', 'too', 'two')."
+      ],
+      "correct_answer": "a figure of speech that directly compares two unlike things without using 'like' or 'as' (e.g., 'the world is a stage').",
+      "explanation": "\"metaphor\" means: a figure of speech that directly compares two unlike things without using 'like' or 'as' (e.g., 'the world is a stage')."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Imagery creates ______ pictures and feelings.",
+      "options": null,
+      "correct_answer": "mental",
+      "explanation": "The full sentence is: \"Imagery creates mental pictures and feelings.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Metaphors compare two unlike things by saying one *is* the other.",
+        "Personification gives human qualities to non-human things.",
+        "Imagery creates mental pictures and feelings.",
+        "Homophones sound alike, homographs are spelled alike, but both have different meanings."
+      ],
+      "correct_answer": "Metaphors compare two unlike things by saying one *is* the other.",
+      "explanation": "Correct! \"Metaphors compare two unlike things by saying one *is* the other.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"personification\" mean?",
+      "options": [
+        "a figure of speech that directly compares two unlike things without using 'like' or 'as' (e.g., 'the world is a stage').",
+        "words that sound the same but have different spellings and meanings (e.g., 'to', 'too', 'two').",
+        "(recap) giving human qualities to animals or objects.",
+        "descriptive language that creates pictures or feelings in the reader's mind."
+      ],
+      "correct_answer": "(recap) giving human qualities to animals or objects.",
+      "explanation": "\"personification\" means: (recap) giving human qualities to animals or objects."
+    }
+  ]
+}

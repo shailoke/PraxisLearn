@@ -1,0 +1,61 @@
+{
+  "topic": "Final Flashbacks and Book Review",
+  "title": "Evaluating a Story and Its Flashbacks",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"plot\" mean?",
+      "options": [
+        "The people, animals, or imaginary beings who take part in a story.",
+        "The style of words, sentences, and expressions that a writer uses in a book.",
+        "The main events of a story, presented in a connected sequence.",
+        "The main ideas or messages that a story explores, such as friendship, bravery, or love for nature."
+      ],
+      "correct_answer": "The main events of a story, presented in a connected sequence.",
+      "explanation": "\"plot\" means: The main events of a story, presented in a connected sequence."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"characters\" mean?",
+      "options": [
+        "The main ideas or messages that a story explores, such as friendship, bravery, or love for nature.",
+        "The main events of a story, presented in a connected sequence.",
+        "The people, animals, or imaginary beings who take part in a story.",
+        "The style of words, sentences, and expressions that a writer uses in a book."
+      ],
+      "correct_answer": "The people, animals, or imaginary beings who take part in a story.",
+      "explanation": "\"characters\" means: The people, animals, or imaginary beings who take part in a story."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: When reviewing a book, evaluate its plot, ______ language, and themes.",
+      "options": null,
+      "correct_answer": "characters",
+      "explanation": "The full sentence is: \"When reviewing a book, evaluate its plot, characters, language, and themes.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "The 'language' refers to the writer's style and word choices.",
+        "The 'characters' are the people or animals in the story.",
+        "When reviewing a book, evaluate its plot, characters, language, and themes.",
+        "The 'plot' is the sequence of events in a story."
+      ],
+      "correct_answer": "The 'plot' is the sequence of events in a story.",
+      "explanation": "Correct! \"The 'plot' is the sequence of events in a story.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"language\" mean?",
+      "options": [
+        "The main events of a story, presented in a connected sequence.",
+        "The style of words, sentences, and expressions that a writer uses in a book.",
+        "The people, animals, or imaginary beings who take part in a story.",
+        "The main ideas or messages that a story explores, such as friendship, bravery, or love for nature."
+      ],
+      "correct_answer": "The style of words, sentences, and expressions that a writer uses in a book.",
+      "explanation": "\"language\" means: The style of words, sentences, and expressions that a writer uses in a book."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "topic": "Characterisation: Showing, Not Telling, and Precise Language",
+  "title": "Revealing Characters with Powerful Words and Role-Play",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"inferences\" mean?",
+      "options": [
+        "Smart guesses or conclusions you draw based on clues and evidence in the text, not directly stated.",
+        "Having or showing a wish to do evil to others; very spiteful.",
+        "Sympathetic pity and concern for the sufferings or misfortunes of others.",
+        "Without compassion or pity for suffering; cruel."
+      ],
+      "correct_answer": "Smart guesses or conclusions you draw based on clues and evidence in the text, not directly stated.",
+      "explanation": "\"inferences\" means: Smart guesses or conclusions you draw based on clues and evidence in the text, not directly stated."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"malevolent\" mean?",
+      "options": [
+        "Sympathetic pity and concern for the sufferings or misfortunes of others.",
+        "Without compassion or pity for suffering; cruel.",
+        "Smart guesses or conclusions you draw based on clues and evidence in the text, not directly stated.",
+        "Having or showing a wish to do evil to others; very spiteful."
+      ],
+      "correct_answer": "Having or showing a wish to do evil to others; very spiteful.",
+      "explanation": "\"malevolent\" means: Having or showing a wish to do evil to others; very spiteful."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Good writers 'show' character traits through ______ and dialogue, rather than just 'telling' them.",
+      "options": null,
+      "correct_answer": "actions",
+      "explanation": "The full sentence is: \"Good writers 'show' character traits through actions and dialogue, rather than just 'telling' them.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Using precise and strong vocabulary makes character descriptions more effective.",
+        "Role-play helps us understand characters' feelings and motivations deeply.",
+        "Good writers 'show' character traits through actions and dialogue, rather than just 'telling' them.",
+        "Inference is making a smart guess based on clues in the text."
+      ],
+      "correct_answer": "Inference is making a smart guess based on clues in the text.",
+      "explanation": "Correct! \"Inference is making a smart guess based on clues in the text.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"inhumane\" mean?",
+      "options": [
+        "Without compassion or pity for suffering; cruel.",
+        "Smart guesses or conclusions you draw based on clues and evidence in the text, not directly stated.",
+        "Sympathetic pity and concern for the sufferings or misfortunes of others.",
+        "Having or showing a wish to do evil to others; very spiteful."
+      ],
+      "correct_answer": "Without compassion or pity for suffering; cruel.",
+      "explanation": "\"inhumane\" means: Without compassion or pity for suffering; cruel."
+    }
+  ]
+}

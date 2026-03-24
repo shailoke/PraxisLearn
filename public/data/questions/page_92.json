@@ -1,0 +1,61 @@
+{
+  "topic": "Analyzing Arguments: The Zoos Debate",
+  "title": "Exploring a Balanced Argument: Zoos",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"extinction\" mean?",
+      "options": [
+        "The natural environment where an animal or plant usually lives.",
+        "Causing harm or damage; negative.",
+        "When an entire type of animal or plant no longer exists on Earth.",
+        "To show or prove something clearly."
+      ],
+      "correct_answer": "When an entire type of animal or plant no longer exists on Earth.",
+      "explanation": "\"extinction\" means: When an entire type of animal or plant no longer exists on Earth."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"habitats\" mean?",
+      "options": [
+        "When an entire type of animal or plant no longer exists on Earth.",
+        "The natural environment where an animal or plant usually lives.",
+        "To show or prove something clearly.",
+        "Causing harm or damage; negative."
+      ],
+      "correct_answer": "The natural environment where an animal or plant usually lives.",
+      "explanation": "\"habitats\" means: The natural environment where an animal or plant usually lives."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Read arguments carefully to see if they are ______ or one-sided.",
+      "options": null,
+      "correct_answer": "balanced",
+      "explanation": "The full sentence is: \"Read arguments carefully to see if they are balanced or one-sided.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Pay attention to how punctuation is used to connect ideas.",
+        "Read arguments carefully to see if they are balanced or one-sided.",
+        "Look for supporting evidence, examples, and expert opinions.",
+        "Identify reasons supporting and opposing the main topic."
+      ],
+      "correct_answer": "Identify reasons supporting and opposing the main topic.",
+      "explanation": "Correct! \"Identify reasons supporting and opposing the main topic.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"detrimental\" mean?",
+      "options": [
+        "The natural environment where an animal or plant usually lives.",
+        "To show or prove something clearly.",
+        "Causing harm or damage; negative.",
+        "When an entire type of animal or plant no longer exists on Earth."
+      ],
+      "correct_answer": "Causing harm or damage; negative.",
+      "explanation": "\"detrimental\" means: Causing harm or damage; negative."
+    }
+  ]
+}

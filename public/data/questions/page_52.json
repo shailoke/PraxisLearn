@@ -1,0 +1,61 @@
+{
+  "topic": "Analyzing Poetic Language and Crafting Metaphors",
+  "title": "Being a Poetry Detective and Creating Your Own!",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"Heart melodies\" mean?",
+      "options": [
+        "Words (like who, which, that) that connect a descriptive phrase to a noun, adding more information.",
+        "Difficult or harsh experiences and challenges that can harm dreams (a metaphor).",
+        "Tightly.",
+        "Happy or hopeful thoughts and feelings (a metaphor)."
+      ],
+      "correct_answer": "Happy or hopeful thoughts and feelings (a metaphor).",
+      "explanation": "\"Heart melodies\" means: Happy or hopeful thoughts and feelings (a metaphor)."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"Too-rough fingers of the world\" mean?",
+      "options": [
+        "Words (like who, which, that) that connect a descriptive phrase to a noun, adding more information.",
+        "Tightly.",
+        "Happy or hopeful thoughts and feelings (a metaphor).",
+        "Difficult or harsh experiences and challenges that can harm dreams (a metaphor)."
+      ],
+      "correct_answer": "Difficult or harsh experiences and challenges that can harm dreams (a metaphor).",
+      "explanation": "\"Too-rough fingers of the world\" means: Difficult or harsh experiences and challenges that can harm dreams (a metaphor)."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Poets use metaphors to create vivid ______ and communicate complex ideas.",
+      "options": null,
+      "correct_answer": "images",
+      "explanation": "The full sentence is: \"Poets use metaphors to create vivid images and communicate complex ideas.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Poets use metaphors to create vivid images and communicate complex ideas.",
+        "We need to think carefully about the non-literal meanings of poetic language.",
+        "Adding precise details and relative pronouns can make your metaphors more impactful.",
+        "Understanding poetic devices helps us appreciate the poet's message."
+      ],
+      "correct_answer": "We need to think carefully about the non-literal meanings of poetic language.",
+      "explanation": "Correct! \"We need to think carefully about the non-literal meanings of poetic language.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"Relative pronouns\" mean?",
+      "options": [
+        "Tightly.",
+        "Difficult or harsh experiences and challenges that can harm dreams (a metaphor).",
+        "Happy or hopeful thoughts and feelings (a metaphor).",
+        "Words (like who, which, that) that connect a descriptive phrase to a noun, adding more information."
+      ],
+      "correct_answer": "Words (like who, which, that) that connect a descriptive phrase to a noun, adding more information.",
+      "explanation": "\"Relative pronouns\" means: Words (like who, which, that) that connect a descriptive phrase to a noun, adding more information."
+    }
+  ]
+}

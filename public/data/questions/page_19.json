@@ -1,0 +1,61 @@
+{
+  "topic": "Punctuation Practice and Character Analysis",
+  "title": "Punctuation Power-Up and Judging Characters",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"flock\" mean?",
+      "options": [
+        "very large; enormous",
+        "a group of sheep or goats",
+        "a female sheep",
+        "a male sheep"
+      ],
+      "correct_answer": "a group of sheep or goats",
+      "explanation": "\"flock\" means: a group of sheep or goats"
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"ewe\" mean?",
+      "options": [
+        "a female sheep",
+        "a male sheep",
+        "very large; enormous",
+        "a group of sheep or goats"
+      ],
+      "correct_answer": "a female sheep",
+      "explanation": "\"ewe\" means: a female sheep"
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Punctuation marks guide the ______ through your sentences.",
+      "options": null,
+      "correct_answer": "reader",
+      "explanation": "The full sentence is: \"Punctuation marks guide the reader through your sentences.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Punctuation marks guide the reader through your sentences.",
+        "Commas separate different parts of a sentence, including expressions and introductory clauses.",
+        "Semi-colons link strongly connected main clauses.",
+        "Full stops and question marks end sentences or questions."
+      ],
+      "correct_answer": "Full stops and question marks end sentences or questions.",
+      "explanation": "Correct! \"Full stops and question marks end sentences or questions.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"vast\" mean?",
+      "options": [
+        "very large; enormous",
+        "a group of sheep or goats",
+        "a male sheep",
+        "a female sheep"
+      ],
+      "correct_answer": "very large; enormous",
+      "explanation": "\"vast\" means: very large; enormous"
+    }
+  ]
+}

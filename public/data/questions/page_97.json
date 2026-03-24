@@ -1,0 +1,61 @@
+{
+  "topic": "Exploring imagery",
+  "title": "Bringing Poems to Life with Imagery and Sound",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"Imagery\" mean?",
+      "options": [
+        "Words that create pictures or senses (smell, touch, taste, sound) in your mind when you read.",
+        "Words that imitate the sound they represent (e.g., 'buzz', 'hiss', 'splash').",
+        "The repetition of the same initial consonant sound in words close together (e.g., 'slippery snake').",
+        "Language that uses words or expressions with a meaning that is different from the literal interpretation (e.g., simile, metaphor, personification)."
+      ],
+      "correct_answer": "Words that create pictures or senses (smell, touch, taste, sound) in your mind when you read.",
+      "explanation": "\"Imagery\" means: Words that create pictures or senses (smell, touch, taste, sound) in your mind when you read."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"Figurative language\" mean?",
+      "options": [
+        "Language that uses words or expressions with a meaning that is different from the literal interpretation (e.g., simile, metaphor, personification).",
+        "Words that imitate the sound they represent (e.g., 'buzz', 'hiss', 'splash').",
+        "Words that create pictures or senses (smell, touch, taste, sound) in your mind when you read.",
+        "The repetition of the same initial consonant sound in words close together (e.g., 'slippery snake')."
+      ],
+      "correct_answer": "Language that uses words or expressions with a meaning that is different from the literal interpretation (e.g., simile, metaphor, personification).",
+      "explanation": "\"Figurative language\" means: Language that uses words or expressions with a meaning that is different from the literal interpretation (e.g., simile, metaphor, personification)."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Imagery makes poems vivid and ______ readers visualize the content.",
+      "options": null,
+      "correct_answer": "helps",
+      "explanation": "The full sentence is: \"Imagery makes poems vivid and helps readers visualize the content.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Imagery makes poems vivid and helps readers visualize the content.",
+        "Figurative language (like similes, metaphors) is a key tool for creating imagery.",
+        "Sound devices such as sibilance, consonance, and assonance enhance the sensory experience and meaning of a poem.",
+        "Reading poems aloud can help you appreciate their sound patterns and imagery."
+      ],
+      "correct_answer": "Figurative language (like similes, metaphors) is a key tool for creating imagery.",
+      "explanation": "Correct! \"Figurative language (like similes, metaphors) is a key tool for creating imagery.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"Alliteration\" mean?",
+      "options": [
+        "Language that uses words or expressions with a meaning that is different from the literal interpretation (e.g., simile, metaphor, personification).",
+        "Words that imitate the sound they represent (e.g., 'buzz', 'hiss', 'splash').",
+        "Words that create pictures or senses (smell, touch, taste, sound) in your mind when you read.",
+        "The repetition of the same initial consonant sound in words close together (e.g., 'slippery snake')."
+      ],
+      "correct_answer": "The repetition of the same initial consonant sound in words close together (e.g., 'slippery snake').",
+      "explanation": "\"Alliteration\" means: The repetition of the same initial consonant sound in words close together (e.g., 'slippery snake')."
+    }
+  ]
+}

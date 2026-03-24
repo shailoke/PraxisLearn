@@ -1,0 +1,61 @@
+{
+  "topic": "Story Comprehension and Punctuation Practice",
+  "title": "Understanding Character and Using Punctuation",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"gingerly\" mean?",
+      "options": [
+        "Carefully and cautiously, often because of pain or fear.",
+        "A short rest or nap, usually taken in the afternoon.",
+        "A loud and continuous burst of laughter.",
+        "Long poles that support a building above the ground."
+      ],
+      "correct_answer": "Carefully and cautiously, often because of pain or fear.",
+      "explanation": "\"gingerly\" means: Carefully and cautiously, often because of pain or fear."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"stilts\" mean?",
+      "options": [
+        "Long poles that support a building above the ground.",
+        "Carefully and cautiously, often because of pain or fear.",
+        "A loud and continuous burst of laughter.",
+        "A short rest or nap, usually taken in the afternoon."
+      ],
+      "correct_answer": "Long poles that support a building above the ground.",
+      "explanation": "\"stilts\" means: Long poles that support a building above the ground."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: New vocabulary enhances ______ comprehension.",
+      "options": null,
+      "correct_answer": "story",
+      "explanation": "The full sentence is: \"New vocabulary enhances story comprehension.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Inferences help understand unspoken details in a story.",
+        "Similes create vivid comparisons.",
+        "New vocabulary enhances story comprehension.",
+        "Semi-colons link two closely related independent clauses."
+      ],
+      "correct_answer": "Semi-colons link two closely related independent clauses.",
+      "explanation": "Correct! \"Semi-colons link two closely related independent clauses.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"peal of laughter\" mean?",
+      "options": [
+        "A loud and continuous burst of laughter.",
+        "A short rest or nap, usually taken in the afternoon.",
+        "Carefully and cautiously, often because of pain or fear.",
+        "Long poles that support a building above the ground."
+      ],
+      "correct_answer": "A loud and continuous burst of laughter.",
+      "explanation": "\"peal of laughter\" means: A loud and continuous burst of laughter."
+    }
+  ]
+}

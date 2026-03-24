@@ -1,0 +1,61 @@
+{
+  "topic": "Practising the Passive Voice in Arguments",
+  "title": "Using the Passive Voice for Formal Arguments",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"pestered\" mean?",
+      "options": [
+        "Supplied or made available.",
+        "Produced or created.",
+        "Had an effect on the character, development, or behaviour of someone or something.",
+        "Annoyed or bothered (someone) with frequent interruptions or requests."
+      ],
+      "correct_answer": "Annoyed or bothered (someone) with frequent interruptions or requests.",
+      "explanation": "\"pestered\" means: Annoyed or bothered (someone) with frequent interruptions or requests."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"generated\" mean?",
+      "options": [
+        "Supplied or made available.",
+        "Produced or created.",
+        "Had an effect on the character, development, or behaviour of someone or something.",
+        "Annoyed or bothered (someone) with frequent interruptions or requests."
+      ],
+      "correct_answer": "Produced or created.",
+      "explanation": "\"generated\" means: Produced or created."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Practice sorting ______ into 'for' and 'against' categories.",
+      "options": null,
+      "correct_answer": "arguments",
+      "explanation": "The full sentence is: \"Practice sorting arguments into 'for' and 'against' categories.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Passive voice allows you to focus on the action or its result, rather than the doer.",
+        "Reinforce understanding of active to passive voice transformation.",
+        "Use passive voice to achieve a more formal tone in writing.",
+        "Practice sorting arguments into 'for' and 'against' categories."
+      ],
+      "correct_answer": "Reinforce understanding of active to passive voice transformation.",
+      "explanation": "Correct! \"Reinforce understanding of active to passive voice transformation.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"influenced\" mean?",
+      "options": [
+        "Supplied or made available.",
+        "Had an effect on the character, development, or behaviour of someone or something.",
+        "Produced or created.",
+        "Annoyed or bothered (someone) with frequent interruptions or requests."
+      ],
+      "correct_answer": "Had an effect on the character, development, or behaviour of someone or something.",
+      "explanation": "\"influenced\" means: Had an effect on the character, development, or behaviour of someone or something."
+    }
+  ]
+}

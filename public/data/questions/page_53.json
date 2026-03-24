@@ -1,0 +1,61 @@
+{
+  "topic": "Exploring Dreams and Crafting Group Poems",
+  "title": "Dreaming Big and Writing Together",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"Ripple diagram\" mean?",
+      "options": [
+        "The repetition of the same beginning sound in words that are close together, like 'bouncing baby boy'.",
+        "None of the above",
+        "Decorated with patterns or designs, often by weaving or embroidery.",
+        "A visual tool where ideas or dreams branch out from a central point, like ripples in water."
+      ],
+      "correct_answer": "A visual tool where ideas or dreams branch out from a central point, like ripples in water.",
+      "explanation": "\"Ripple diagram\" means: A visual tool where ideas or dreams branch out from a central point, like ripples in water."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"Alliteration\" mean?",
+      "options": [
+        "None of the above",
+        "Decorated with patterns or designs, often by weaving or embroidery.",
+        "The repetition of the same beginning sound in words that are close together, like 'bouncing baby boy'.",
+        "A visual tool where ideas or dreams branch out from a central point, like ripples in water."
+      ],
+      "correct_answer": "The repetition of the same beginning sound in words that are close together, like 'bouncing baby boy'.",
+      "explanation": "\"Alliteration\" means: The repetition of the same beginning sound in words that are close together, like 'bouncing baby boy'."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Dreams are powerful inspirations for ______ growth and creativity.",
+      "options": null,
+      "correct_answer": "personal",
+      "explanation": "The full sentence is: \"Dreams are powerful inspirations for personal growth and creativity.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Reading and discussing poems helps us understand their deeper meanings and imagery.",
+        "Dreams are powerful inspirations for personal growth and creativity.",
+        "Collaborating on poems allows for a wider range of ideas and perspectives.",
+        "Adding precise details and poetic devices like alliteration enhances a poem's quality."
+      ],
+      "correct_answer": "Collaborating on poems allows for a wider range of ideas and perspectives.",
+      "explanation": "Correct! \"Collaborating on poems allows for a wider range of ideas and perspectives.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"Enwrought\" mean?",
+      "options": [
+        "None of the above",
+        "The repetition of the same beginning sound in words that are close together, like 'bouncing baby boy'.",
+        "A visual tool where ideas or dreams branch out from a central point, like ripples in water.",
+        "Decorated with patterns or designs, often by weaving or embroidery."
+      ],
+      "correct_answer": "Decorated with patterns or designs, often by weaving or embroidery.",
+      "explanation": "\"Enwrought\" means: Decorated with patterns or designs, often by weaving or embroidery."
+    }
+  ]
+}

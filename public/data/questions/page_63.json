@@ -1,0 +1,61 @@
+{
+  "topic": "Writing Science Fiction Descriptions",
+  "title": "Making Your Writing Come Alive with Precise Words",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"precise verbs\" mean?",
+      "options": [
+        "Action words that are very specific and detailed.",
+        "Groups of words that act like adverbs, giving more information about verbs.",
+        "None of the above",
+        "A book or tool that helps you find synonyms (words with similar meanings)."
+      ],
+      "correct_answer": "Action words that are very specific and detailed.",
+      "explanation": "\"precise verbs\" means: Action words that are very specific and detailed."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"thesaurus\" mean?",
+      "options": [
+        "Action words that are very specific and detailed.",
+        "A book or tool that helps you find synonyms (words with similar meanings).",
+        "None of the above",
+        "Groups of words that act like adverbs, giving more information about verbs."
+      ],
+      "correct_answer": "A book or tool that helps you find synonyms (words with similar meanings).",
+      "explanation": "\"thesaurus\" means: A book or tool that helps you find synonyms (words with similar meanings)."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Precise verbs make ______ more engaging.",
+      "options": null,
+      "correct_answer": "writing",
+      "explanation": "The full sentence is: \"Precise verbs make writing more engaging.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Adverbial phrases add detail about actions.",
+        "Practice planning and writing your own sci-fi descriptions.",
+        "Remember commas after introductory adverbial phrases.",
+        "Precise verbs make writing more engaging."
+      ],
+      "correct_answer": "Adverbial phrases add detail about actions.",
+      "explanation": "Correct! \"Adverbial phrases add detail about actions.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"adverbial phrases\" mean?",
+      "options": [
+        "Groups of words that act like adverbs, giving more information about verbs.",
+        "Action words that are very specific and detailed.",
+        "A book or tool that helps you find synonyms (words with similar meanings).",
+        "None of the above"
+      ],
+      "correct_answer": "Groups of words that act like adverbs, giving more information about verbs.",
+      "explanation": "\"adverbial phrases\" means: Groups of words that act like adverbs, giving more information about verbs."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "topic": "Story Reflection and Writing Evaluation",
+  "title": "Reflecting on Story Connections and Improving Writing",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"infer\" mean?",
+      "options": [
+        "The reason or reasons why a character acts or behaves in a particular way.",
+        "To figure out or conclude something from clues and evidence within the text, rather than being told directly.",
+        "Able to recover quickly from difficulties, setbacks, or changes.",
+        "Bold and courageous; willing to take risks."
+      ],
+      "correct_answer": "To figure out or conclude something from clues and evidence within the text, rather than being told directly.",
+      "explanation": "\"infer\" means: To figure out or conclude something from clues and evidence within the text, rather than being told directly."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"motivation\" mean?",
+      "options": [
+        "The reason or reasons why a character acts or behaves in a particular way.",
+        "Able to recover quickly from difficulties, setbacks, or changes.",
+        "To figure out or conclude something from clues and evidence within the text, rather than being told directly.",
+        "Bold and courageous; willing to take risks."
+      ],
+      "correct_answer": "The reason or reasons why a character acts or behaves in a particular way.",
+      "explanation": "\"motivation\" means: The reason or reasons why a character acts or behaves in a particular way."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Inferencing helps uncover deeper ______ meanings and character motivations.",
+      "options": null,
+      "correct_answer": "story",
+      "explanation": "The full sentence is: \"Inferencing helps uncover deeper story meanings and character motivations.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Stories often have strong connections between the beginning and the end, sometimes revealed through flashbacks.",
+        "Evaluating your own writing is crucial for improvement.",
+        "Inferencing helps uncover deeper story meanings and character motivations.",
+        "Reflecting on character learning highlights story themes and growth."
+      ],
+      "correct_answer": "Stories often have strong connections between the beginning and the end, sometimes revealed through flashbacks.",
+      "explanation": "Correct! \"Stories often have strong connections between the beginning and the end, sometimes revealed through flashbacks.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"resilient\" mean?",
+      "options": [
+        "Bold and courageous; willing to take risks.",
+        "The reason or reasons why a character acts or behaves in a particular way.",
+        "Able to recover quickly from difficulties, setbacks, or changes.",
+        "To figure out or conclude something from clues and evidence within the text, rather than being told directly."
+      ],
+      "correct_answer": "Able to recover quickly from difficulties, setbacks, or changes.",
+      "explanation": "\"resilient\" means: Able to recover quickly from difficulties, setbacks, or changes."
+    }
+  ]
+}

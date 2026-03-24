@@ -1,0 +1,61 @@
+{
+  "topic": "Biography vs. Autobiography",
+  "title": "Telling Life Stories: Biography and Autobiography",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"primatology\" mean?",
+      "options": [
+        "most important or well-known.",
+        "the study of primates, like chimpanzees and gorillas.",
+        "started or established something, like an organisation.",
+        "the study of the structure of bodies (human or animal)."
+      ],
+      "correct_answer": "the study of primates, like chimpanzees and gorillas.",
+      "explanation": "\"primatology\" means: the study of primates, like chimpanzees and gorillas."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"anatomy\" mean?",
+      "options": [
+        "started or established something, like an organisation.",
+        "the study of primates, like chimpanzees and gorillas.",
+        "the study of the structure of bodies (human or animal).",
+        "most important or well-known."
+      ],
+      "correct_answer": "the study of the structure of bodies (human or animal).",
+      "explanation": "\"anatomy\" means: the study of the structure of bodies (human or animal)."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: A biography is a factual story of ______ life, written by another person.",
+      "options": null,
+      "correct_answer": "someones",
+      "explanation": "The full sentence is: \"A biography is a factual story of someone's life, written by another person.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Autobiographies often contain personal thoughts, feelings, and first-hand experiences, making them more informal.",
+        "A biography is a factual story of someone's life, written by another person.",
+        "Timelines are a clear way to show important events in a person's life in order.",
+        "An autobiography is a person's own life story, written by themselves."
+      ],
+      "correct_answer": "An autobiography is a person's own life story, written by themselves.",
+      "explanation": "Correct! \"An autobiography is a person's own life story, written by themselves.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"founded\" mean?",
+      "options": [
+        "the study of primates, like chimpanzees and gorillas.",
+        "the study of the structure of bodies (human or animal).",
+        "most important or well-known.",
+        "started or established something, like an organisation."
+      ],
+      "correct_answer": "started or established something, like an organisation.",
+      "explanation": "\"founded\" means: started or established something, like an organisation."
+    }
+  ]
+}

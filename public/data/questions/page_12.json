@@ -1,0 +1,61 @@
+{
+  "topic": "Reading and Understanding a Story Extract",
+  "title": "Exploring 'Blue Wolf's Story' and Building Vocabulary",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"gallows\" mean?",
+      "options": [
+        "A situation with wild and noisy disorder or confusion; chaos.",
+        "Clothed or dressed in something.",
+        "Biting or grinding your teeth together, usually in anger or pain.",
+        "A wooden structure used for hanging things up, often for punishment, but here for a net."
+      ],
+      "correct_answer": "A wooden structure used for hanging things up, often for punishment, but here for a net.",
+      "explanation": "\"gallows\" means: A wooden structure used for hanging things up, often for punishment, but here for a net."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"gnashing\" mean?",
+      "options": [
+        "A wooden structure used for hanging things up, often for punishment, but here for a net.",
+        "Biting or grinding your teeth together, usually in anger or pain.",
+        "Clothed or dressed in something.",
+        "A situation with wild and noisy disorder or confusion; chaos."
+      ],
+      "correct_answer": "Biting or grinding your teeth together, usually in anger or pain.",
+      "explanation": "\"gnashing\" means: Biting or grinding your teeth together, usually in anger or pain."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Read stories carefully to ______ the plot and characters.",
+      "options": null,
+      "correct_answer": "understand",
+      "explanation": "The full sentence is: \"Read stories carefully to understand the plot and characters.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Think about the emotions a story makes you feel.",
+        "Expand your vocabulary by learning new words from the stories you read.",
+        "Read stories carefully to understand the plot and characters.",
+        "Look for clues in the text to answer comprehension questions."
+      ],
+      "correct_answer": "Think about the emotions a story makes you feel.",
+      "explanation": "Correct! \"Think about the emotions a story makes you feel.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"clad\" mean?",
+      "options": [
+        "Biting or grinding your teeth together, usually in anger or pain.",
+        "A wooden structure used for hanging things up, often for punishment, but here for a net.",
+        "A situation with wild and noisy disorder or confusion; chaos.",
+        "Clothed or dressed in something."
+      ],
+      "correct_answer": "Clothed or dressed in something.",
+      "explanation": "\"clad\" means: Clothed or dressed in something."
+    }
+  ]
+}

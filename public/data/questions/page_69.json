@@ -1,0 +1,61 @@
+{
+  "topic": "Rewriting Dialogue and Adding Narration",
+  "title": "Shifting Registers and Weaving Narration into Dialogue",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"narration\" mean?",
+      "options": [
+        "A group of words that describes a verb, telling us how, when, or where an action happens (e.g., 'in a business-like voice').",
+        "The parts of a story where the writer tells us what's happening, what characters are doing, or describing the setting, instead of characters speaking.",
+        "Language that is serious, polite, and follows strict rules.",
+        "Language that is relaxed, casual, and friendly."
+      ],
+      "correct_answer": "The parts of a story where the writer tells us what's happening, what characters are doing, or describing the setting, instead of characters speaking.",
+      "explanation": "\"narration\" means: The parts of a story where the writer tells us what's happening, what characters are doing, or describing the setting, instead of characters speaking."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"formal\" mean?",
+      "options": [
+        "Language that is serious, polite, and follows strict rules.",
+        "Language that is relaxed, casual, and friendly.",
+        "The parts of a story where the writer tells us what's happening, what characters are doing, or describing the setting, instead of characters speaking.",
+        "A group of words that describes a verb, telling us how, when, or where an action happens (e.g., 'in a business-like voice')."
+      ],
+      "correct_answer": "Language that is serious, polite, and follows strict rules.",
+      "explanation": "\"formal\" means: Language that is serious, polite, and follows strict rules."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: You can intentionally change the formality (register) of ______ to suit different characters or situations.",
+      "options": null,
+      "correct_answer": "dialogue",
+      "explanation": "The full sentence is: \"You can intentionally change the formality (register) of dialogue to suit different characters or situations.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Always proofread for correct grammar, spelling, and punctuation, especially with direct speech and narration.",
+        "Narration is crucial for describing character actions, thoughts, and the setting around the dialogue.",
+        "You can intentionally change the formality (register) of dialogue to suit different characters or situations.",
+        "Practice combining direct speech with narration smoothly to create engaging scenes."
+      ],
+      "correct_answer": "Narration is crucial for describing character actions, thoughts, and the setting around the dialogue.",
+      "explanation": "Correct! \"Narration is crucial for describing character actions, thoughts, and the setting around the dialogue.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"informal\" mean?",
+      "options": [
+        "Language that is relaxed, casual, and friendly.",
+        "A group of words that describes a verb, telling us how, when, or where an action happens (e.g., 'in a business-like voice').",
+        "The parts of a story where the writer tells us what's happening, what characters are doing, or describing the setting, instead of characters speaking.",
+        "Language that is serious, polite, and follows strict rules."
+      ],
+      "correct_answer": "Language that is relaxed, casual, and friendly.",
+      "explanation": "\"informal\" means: Language that is relaxed, casual, and friendly."
+    }
+  ]
+}

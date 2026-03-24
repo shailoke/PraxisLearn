@@ -1,0 +1,61 @@
+{
+  "topic": "Inferring Character Traits and Role-Playing",
+  "title": "Digging Deeper into Characters and Acting Them Out",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"sympathetic\" mean?",
+      "options": [
+        "cruel; not showing kindness or compassion to others",
+        "wanting to protect someone from harm or danger",
+        "clever at tricking people; sly",
+        "feeling or showing understanding towards someone's feelings"
+      ],
+      "correct_answer": "feeling or showing understanding towards someone's feelings",
+      "explanation": "\"sympathetic\" means: feeling or showing understanding towards someone's feelings"
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"inhumane\" mean?",
+      "options": [
+        "wanting to protect someone from harm or danger",
+        "feeling or showing understanding towards someone's feelings",
+        "clever at tricking people; sly",
+        "cruel; not showing kindness or compassion to others"
+      ],
+      "correct_answer": "cruel; not showing kindness or compassion to others",
+      "explanation": "\"inhumane\" means: cruel; not showing kindness or compassion to others"
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Inferring means ______ out what a character is like from clues.",
+      "options": null,
+      "correct_answer": "figuring",
+      "explanation": "The full sentence is: \"Inferring means figuring out what a character is like from clues.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Role-playing helps bring characters to life and deepen understanding.",
+        "Inferring means figuring out what a character is like from clues.",
+        "Adjectives help describe character traits.",
+        "Children have important human rights, including safety, food, shelter, education, and emotional well-being."
+      ],
+      "correct_answer": "Adjectives help describe character traits.",
+      "explanation": "Correct! \"Adjectives help describe character traits.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"protective\" mean?",
+      "options": [
+        "feeling or showing understanding towards someone's feelings",
+        "cruel; not showing kindness or compassion to others",
+        "clever at tricking people; sly",
+        "wanting to protect someone from harm or danger"
+      ],
+      "correct_answer": "wanting to protect someone from harm or danger",
+      "explanation": "\"protective\" means: wanting to protect someone from harm or danger"
+    }
+  ]
+}

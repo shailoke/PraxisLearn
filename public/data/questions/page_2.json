@@ -1,0 +1,49 @@
+{
+  "topic": "Identifying Your Textbook Information",
+  "title": "Your Official English Book Details",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"Publisher\" mean?",
+      "options": [
+        "A company or person that prepares and issues books, journals, or music for sale.",
+        "None of the above",
+        "None of the above",
+        "None of the above"
+      ],
+      "correct_answer": "A company or person that prepares and issues books, journals, or music for sale.",
+      "explanation": "\"Publisher\" means: A company or person that prepares and issues books, journals, or music for sale."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: This page officially confirms the title, ______ and authors of your textbook.",
+      "options": null,
+      "correct_answer": "edition",
+      "explanation": "The full sentence is: \"This page officially confirms the title, edition, and authors of your textbook.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Knowing the edition (like 'Second Edition') is useful as textbooks sometimes get updated with new content.",
+        "It has no special meaning in writing.",
+        "It helps you identify the specific book you'll be using for your English lessons.",
+        "This page officially confirms the title, edition, and authors of your textbook."
+      ],
+      "correct_answer": "It helps you identify the specific book you'll be using for your English lessons.",
+      "explanation": "Correct! \"It helps you identify the specific book you'll be using for your English lessons.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "This page officially confirms the title, edition, and authors of your textbook.",
+        "It helps you identify the specific book you'll be using for your English lessons.",
+        "Knowing the edition (like 'Second Edition') is useful as textbooks sometimes get updated with new content.",
+        "It has no special meaning in writing."
+      ],
+      "correct_answer": "Knowing the edition (like 'Second Edition') is useful as textbooks sometimes get updated with new content.",
+      "explanation": "Correct! \"Knowing the edition (like 'Second Edition') is useful as textbooks sometimes get updated with new content.\" is one of the key things to remember."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "topic": "Making Sentences Exciting and Understanding Homophones",
+  "title": "Adding Extra Details and Learning Homophones",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"Homophones\" mean?",
+      "options": [
+        "None of the above",
+        "Words that sound the same but have different spellings and different meanings.",
+        "None of the above",
+        "None of the above"
+      ],
+      "correct_answer": "Words that sound the same but have different spellings and different meanings.",
+      "explanation": "\"Homophones\" means: Words that sound the same but have different spellings and different meanings."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Use dashes, commas, or brackets to add ______ extra information to sentences.",
+      "options": null,
+      "correct_answer": "exciting",
+      "explanation": "The full sentence is: \"Use dashes, commas, or brackets to add exciting extra information to sentences.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "It has no special meaning in writing.",
+        "Use dashes, commas, or brackets to add exciting extra information to sentences.",
+        "Always check the spelling of homophones to understand their meaning.",
+        "Homophones are words that sound alike but have different spellings and meanings."
+      ],
+      "correct_answer": "Homophones are words that sound alike but have different spellings and meanings.",
+      "explanation": "Correct! \"Homophones are words that sound alike but have different spellings and meanings.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "It has no special meaning in writing.",
+        "Always check the spelling of homophones to understand their meaning.",
+        "Homophones are words that sound alike but have different spellings and meanings.",
+        "Use dashes, commas, or brackets to add exciting extra information to sentences."
+      ],
+      "correct_answer": "Always check the spelling of homophones to understand their meaning.",
+      "explanation": "Correct! \"Always check the spelling of homophones to understand their meaning.\" is one of the key things to remember."
+    }
+  ]
+}

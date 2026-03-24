@@ -1,0 +1,61 @@
+{
+  "topic": "Analyzing Descriptive Language and Presentation Skills",
+  "title": "Bringing Stories to Life with Vivid Descriptions and Powerful Presentations",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"downpour\" mean?",
+      "options": [
+        "A very heavy rainfall.",
+        "Plants and trees in general.",
+        "Staring in an angry or fierce way.",
+        "The leaves of plants or trees."
+      ],
+      "correct_answer": "A very heavy rainfall.",
+      "explanation": "\"downpour\" means: A very heavy rainfall."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"foliage\" mean?",
+      "options": [
+        "Staring in an angry or fierce way.",
+        "The leaves of plants or trees.",
+        "Plants and trees in general.",
+        "A very heavy rainfall."
+      ],
+      "correct_answer": "The leaves of plants or trees.",
+      "explanation": "\"foliage\" means: The leaves of plants or trees."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Vivid descriptions use strong words and ______ details to immerse the reader.",
+      "options": null,
+      "correct_answer": "sensory",
+      "explanation": "The full sentence is: \"Vivid descriptions use strong words and sensory details to immerse the reader.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Short sentences effectively convey urgency and tension in emergency situations.",
+        "Effective presentations use not only words but also facial expressions and gestures to engage the audience.",
+        "Analyzing a writer's descriptive choices helps you improve your own writing.",
+        "Vivid descriptions use strong words and sensory details to immerse the reader."
+      ],
+      "correct_answer": "Short sentences effectively convey urgency and tension in emergency situations.",
+      "explanation": "Correct! \"Short sentences effectively convey urgency and tension in emergency situations.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"vegetation\" mean?",
+      "options": [
+        "The leaves of plants or trees.",
+        "Plants and trees in general.",
+        "A very heavy rainfall.",
+        "Staring in an angry or fierce way."
+      ],
+      "correct_answer": "Plants and trees in general.",
+      "explanation": "\"vegetation\" means: Plants and trees in general."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "topic": "Understanding Introductions and Conclusions in Arguments",
+  "title": "Starting and Ending Your Arguments",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"physical exertions\" mean?",
+      "options": [
+        "doing exercise or physical activity",
+        "None of the above",
+        "None of the above",
+        "food that is prepared quickly and can be taken away to eat"
+      ],
+      "correct_answer": "doing exercise or physical activity",
+      "explanation": "\"physical exertions\" means: doing exercise or physical activity"
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"food to go / fast food\" mean?",
+      "options": [
+        "doing exercise or physical activity",
+        "food that is prepared quickly and can be taken away to eat",
+        "None of the above",
+        "None of the above"
+      ],
+      "correct_answer": "food that is prepared quickly and can be taken away to eat",
+      "explanation": "\"food to go / fast food\" means: food that is prepared quickly and can be taken away to eat"
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Introductions tell the reader the ______ of the argument and what to expect.",
+      "options": null,
+      "correct_answer": "topic",
+      "explanation": "The full sentence is: \"Introductions tell the reader the topic of the argument and what to expect.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Conclusions summarise the main points and give a final thought.",
+        "Both introductions and conclusions should be interesting to keep the reader engaged.",
+        "Introductions tell the reader the topic of the argument and what to expect.",
+        "It has no special meaning in writing."
+      ],
+      "correct_answer": "Conclusions summarise the main points and give a final thought.",
+      "explanation": "Correct! \"Conclusions summarise the main points and give a final thought.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "It has no special meaning in writing.",
+        "Conclusions summarise the main points and give a final thought.",
+        "Both introductions and conclusions should be interesting to keep the reader engaged.",
+        "Introductions tell the reader the topic of the argument and what to expect."
+      ],
+      "correct_answer": "Both introductions and conclusions should be interesting to keep the reader engaged.",
+      "explanation": "Correct! \"Both introductions and conclusions should be interesting to keep the reader engaged.\" is one of the key things to remember."
+    }
+  ]
+}

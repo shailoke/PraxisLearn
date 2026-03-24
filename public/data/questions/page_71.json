@@ -1,0 +1,61 @@
+{
+  "topic": "Science fiction stories",
+  "title": "Understanding a Science Fiction Extract and Using Parenthesis",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"marauders\" mean?",
+      "options": [
+        "a fictional piece of technology in this story",
+        "a helper, usually for a bad deed",
+        "thieves or raiders who steal things",
+        "trapping or wrapping around something"
+      ],
+      "correct_answer": "thieves or raiders who steal things",
+      "explanation": "\"marauders\" means: thieves or raiders who steal things"
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"accomplice\" mean?",
+      "options": [
+        "trapping or wrapping around something",
+        "a fictional piece of technology in this story",
+        "a helper, usually for a bad deed",
+        "thieves or raiders who steal things"
+      ],
+      "correct_answer": "a helper, usually for a bad deed",
+      "explanation": "\"accomplice\" means: a helper, usually for a bad deed"
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Read science fiction ______ to expand your imagination.",
+      "options": null,
+      "correct_answer": "stories",
+      "explanation": "The full sentence is: \"Read science fiction stories to expand your imagination.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Read science fiction stories to expand your imagination.",
+        "Summarise texts to understand the main points concisely.",
+        "Use parenthetic commas or dashes to add extra information into sentences, making your writing richer.",
+        "Improve your vocabulary by logging new words and using mnemonics (memory tricks)."
+      ],
+      "correct_answer": "Improve your vocabulary by logging new words and using mnemonics (memory tricks).",
+      "explanation": "Correct! \"Improve your vocabulary by logging new words and using mnemonics (memory tricks).\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"jinn\" mean?",
+      "options": [
+        "trapping or wrapping around something",
+        "a fictional piece of technology in this story",
+        "a helper, usually for a bad deed",
+        "thieves or raiders who steal things"
+      ],
+      "correct_answer": "a fictional piece of technology in this story",
+      "explanation": "\"jinn\" means: a fictional piece of technology in this story"
+    }
+  ]
+}

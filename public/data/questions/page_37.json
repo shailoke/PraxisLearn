@@ -1,0 +1,61 @@
+{
+  "topic": "Biography and Autobiography Analysis",
+  "title": "Understanding and Sharing Personal Stories",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"undergrowth\" mean?",
+      "options": [
+        "Thick, or tightly packed.",
+        "Bushes and long grasses in a forest.",
+        "Enjoyed eating a large amount of food.",
+        "A thought or opinion shared by the writer, looking back at an event."
+      ],
+      "correct_answer": "Bushes and long grasses in a forest.",
+      "explanation": "\"undergrowth\" means: Bushes and long grasses in a forest."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"dense\" mean?",
+      "options": [
+        "A thought or opinion shared by the writer, looking back at an event.",
+        "Enjoyed eating a large amount of food.",
+        "Bushes and long grasses in a forest.",
+        "Thick, or tightly packed."
+      ],
+      "correct_answer": "Thick, or tightly packed.",
+      "explanation": "\"dense\" means: Thick, or tightly packed."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Reflective comments show the author's ______ and learning from events.",
+      "options": null,
+      "correct_answer": "thoughts",
+      "explanation": "The full sentence is: \"Reflective comments show the author's thoughts and learning from events.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Use precise verbs and adverbial phrases to make your writing clear and impactful.",
+        "Transforming direct speech to reported speech often requires changing verbs and pronouns.",
+        "Use short quotations to support your answers about a text.",
+        "Reflective comments show the author's thoughts and learning from events."
+      ],
+      "correct_answer": "Use short quotations to support your answers about a text.",
+      "explanation": "Correct! \"Use short quotations to support your answers about a text.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"feasted\" mean?",
+      "options": [
+        "Thick, or tightly packed.",
+        "Bushes and long grasses in a forest.",
+        "Enjoyed eating a large amount of food.",
+        "A thought or opinion shared by the writer, looking back at an event."
+      ],
+      "correct_answer": "Enjoyed eating a large amount of food.",
+      "explanation": "\"feasted\" means: Enjoyed eating a large amount of food."
+    }
+  ]
+}

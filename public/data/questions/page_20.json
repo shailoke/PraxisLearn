@@ -1,0 +1,61 @@
+{
+  "topic": "Planning and Writing a Character-Focused Flashback Chapter",
+  "title": "Creating Amazing Characters and Writing Your Own Flashback Story",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"flashback chapter\" mean?",
+      "options": [
+        "a part of a story that goes back in time to show past events",
+        "what someone or something looks like",
+        "the place where someone lives",
+        "the name of a person or animal in a story"
+      ],
+      "correct_answer": "a part of a story that goes back in time to show past events",
+      "explanation": "\"flashback chapter\" means: a part of a story that goes back in time to show past events"
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"character name\" mean?",
+      "options": [
+        "the place where someone lives",
+        "the name of a person or animal in a story",
+        "a part of a story that goes back in time to show past events",
+        "what someone or something looks like"
+      ],
+      "correct_answer": "the name of a person or animal in a story",
+      "explanation": "\"character name\" means: the name of a person or animal in a story"
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Plan your new flashback chapter by ______ a detailed character.",
+      "options": null,
+      "correct_answer": "creating",
+      "explanation": "The full sentence is: \"Plan your new flashback chapter by creating a detailed character.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Use a mind map to gather ideas about your character's appearance, home, work, food, and movements.",
+        "Plan your new flashback chapter by creating a detailed character.",
+        "Practice writing compound sentences, sentences with semi-colons, and correct direct speech.",
+        "Proofread your work carefully for errors."
+      ],
+      "correct_answer": "Use a mind map to gather ideas about your character's appearance, home, work, food, and movements.",
+      "explanation": "Correct! \"Use a mind map to gather ideas about your character's appearance, home, work, food, and movements.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"appearance\" mean?",
+      "options": [
+        "the place where someone lives",
+        "a part of a story that goes back in time to show past events",
+        "what someone or something looks like",
+        "the name of a person or animal in a story"
+      ],
+      "correct_answer": "what someone or something looks like",
+      "explanation": "\"appearance\" means: what someone or something looks like"
+    }
+  ]
+}

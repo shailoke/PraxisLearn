@@ -28,6 +28,15 @@ export default async function Page({
 
   const data = JSON.parse(fs.readFileSync(pageFile, 'utf-8'));
 
+  // Load questions if available
+  let questions: any[] = [];
+  try {
+    const qFile = path.join(process.cwd(), `public/data/questions/page_${pageId}.json`);
+    if (fs.existsSync(qFile)) {
+      questions = JSON.parse(fs.readFileSync(qFile, 'utf-8')).questions || [];
+    }
+  } catch(e) {}
+
   // Load index to find next/prev
   let nextId = null;
   let prevId = null;
@@ -68,7 +77,7 @@ export default async function Page({
         </div>
 
         {/* MAIN TABBED LEARNING INTERFACE */}
-        <TabsView data={data} />
+        <TabsView data={data} questions={questions} />
 
         {/* Bottom Navigation */}
         <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-8 border-t border-slate-200/50 mt-8 mb-8 lg:mb-0 px-4 lg:px-0">

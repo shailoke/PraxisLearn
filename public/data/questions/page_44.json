@@ -1,0 +1,61 @@
+{
+  "topic": "Expressing Feelings with Figurative Language and Sun Mythology",
+  "title": "Expressing Feelings with Figurative Language",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"figurative expressions\" mean?",
+      "options": [
+        "easily made angry.",
+        "feeling extremely happy.",
+        "phrases that use figurative language to describe something, often feelings (e.g., 'over the moon').",
+        "feeling very angry or annoyed."
+      ],
+      "correct_answer": "phrases that use figurative language to describe something, often feelings (e.g., 'over the moon').",
+      "explanation": "\"figurative expressions\" means: phrases that use figurative language to describe something, often feelings (e.g., 'over the moon')."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"on cloud nine\" mean?",
+      "options": [
+        "feeling very angry or annoyed.",
+        "easily made angry.",
+        "feeling extremely happy.",
+        "phrases that use figurative language to describe something, often feelings (e.g., 'over the moon')."
+      ],
+      "correct_answer": "feeling extremely happy.",
+      "explanation": "\"on cloud nine\" means: feeling extremely happy."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Recognize and use common ______ expressions for emotions.",
+      "options": null,
+      "correct_answer": "figurative",
+      "explanation": "The full sentence is: \"Recognize and use common figurative expressions for emotions.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Create short poems or rhyming lines using these expressions.",
+        "Recognize and use common figurative expressions for emotions.",
+        "Explore ancient myths about the sun and rewrite them using personification.",
+        "Perform poems expressively, using voice to convey mood."
+      ],
+      "correct_answer": "Create short poems or rhyming lines using these expressions.",
+      "explanation": "Correct! \"Create short poems or rhyming lines using these expressions.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"as cross as two sticks\" mean?",
+      "options": [
+        "phrases that use figurative language to describe something, often feelings (e.g., 'over the moon').",
+        "feeling extremely happy.",
+        "easily made angry.",
+        "feeling very angry or annoyed."
+      ],
+      "correct_answer": "feeling very angry or annoyed.",
+      "explanation": "\"as cross as two sticks\" means: feeling very angry or annoyed."
+    }
+  ]
+}

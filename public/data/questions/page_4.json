@@ -1,0 +1,61 @@
+{
+  "topic": "Overview of English Learning Topics",
+  "title": "Your English Journey Map: What You'll Learn This Year!",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"Contents\" mean?",
+      "options": [
+        "A list of the chapters or topics in a book, usually found at the beginning.",
+        "Stories that are invented and not based on real events or facts.",
+        "A period of time in the school year during which classes are held.",
+        "A section of the book focusing on a particular topic or skill."
+      ],
+      "correct_answer": "A list of the chapters or topics in a book, usually found at the beginning.",
+      "explanation": "\"Contents\" means: A list of the chapters or topics in a book, usually found at the beginning."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"Term\" mean?",
+      "options": [
+        "A section of the book focusing on a particular topic or skill.",
+        "A period of time in the school year during which classes are held.",
+        "A list of the chapters or topics in a book, usually found at the beginning.",
+        "Stories that are invented and not based on real events or facts."
+      ],
+      "correct_answer": "A period of time in the school year during which classes are held.",
+      "explanation": "\"Term\" means: A period of time in the school year during which classes are held."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: The Contents page is your complete ______ to the entire book.",
+      "options": null,
+      "correct_answer": "guide",
+      "explanation": "The full sentence is: \"The Contents page is your complete guide to the entire book.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Units cover different areas of English: fiction, non-fiction, and poetry.",
+        "Review sections are included to help you assess your understanding and progress.",
+        "The Contents page is your complete guide to the entire book.",
+        "The book is organised into three terms, each with specific units of study."
+      ],
+      "correct_answer": "The book is organised into three terms, each with specific units of study.",
+      "explanation": "Correct! \"The book is organised into three terms, each with specific units of study.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"Unit\" mean?",
+      "options": [
+        "A section of the book focusing on a particular topic or skill.",
+        "A period of time in the school year during which classes are held.",
+        "Stories that are invented and not based on real events or facts.",
+        "A list of the chapters or topics in a book, usually found at the beginning."
+      ],
+      "correct_answer": "A section of the book focusing on a particular topic or skill.",
+      "explanation": "\"Unit\" means: A section of the book focusing on a particular topic or skill."
+    }
+  ]
+}

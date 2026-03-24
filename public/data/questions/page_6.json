@@ -1,0 +1,61 @@
+{
+  "topic": "Fiction: Stories with flashbacks",
+  "title": "Welcome to Flashbacks and Sentence Power!",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"flashback\" mean?",
+      "options": [
+        "A sentence made from two or more simple ideas joined together.",
+        "A part of a sentence that has a subject and a verb and forms a complete thought or part of one.",
+        "A sentence with one main idea.",
+        "A part of a story that takes you back to an earlier time."
+      ],
+      "correct_answer": "A part of a story that takes you back to an earlier time.",
+      "explanation": "\"flashback\" means: A part of a story that takes you back to an earlier time."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"simple sentence\" mean?",
+      "options": [
+        "A part of a story that takes you back to an earlier time.",
+        "A part of a sentence that has a subject and a verb and forms a complete thought or part of one.",
+        "A sentence made from two or more simple ideas joined together.",
+        "A sentence with one main idea."
+      ],
+      "correct_answer": "A sentence with one main idea.",
+      "explanation": "\"simple sentence\" means: A sentence with one main idea."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Flashbacks are parts of a ______ that show past events.",
+      "options": null,
+      "correct_answer": "story",
+      "explanation": "The full sentence is: \"Flashbacks are parts of a story that show past events.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Compound sentences combine two or more main ideas (clauses) using words like 'and', 'but', 'or', 'so', 'since'.",
+        "Simple sentences have one main idea (clause).",
+        "Flashbacks are parts of a story that show past events.",
+        "Writers choose different sentence types for dramatic effect, description, or to show multiple actions."
+      ],
+      "correct_answer": "Simple sentences have one main idea (clause).",
+      "explanation": "Correct! \"Simple sentences have one main idea (clause).\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"compound sentence\" mean?",
+      "options": [
+        "A sentence with one main idea.",
+        "A sentence made from two or more simple ideas joined together.",
+        "A part of a sentence that has a subject and a verb and forms a complete thought or part of one.",
+        "A part of a story that takes you back to an earlier time."
+      ],
+      "correct_answer": "A sentence made from two or more simple ideas joined together.",
+      "explanation": "\"compound sentence\" means: A sentence made from two or more simple ideas joined together."
+    }
+  ]
+}

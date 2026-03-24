@@ -1,0 +1,61 @@
+{
+  "topic": "Developing Sentences and Proofreading for Impact",
+  "title": "Crafting Powerful Sentences and Polishing Your Writing",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"adverbial phrase\" mean?",
+      "options": [
+        "A group of words that tells you more about the verb, such as where, when, or how something happened.",
+        "A sentence that contains one main clause (a subject and a verb).",
+        "The repetition of the same initial consonant sound in words close together.",
+        "To read text and mark any errors."
+      ],
+      "correct_answer": "A group of words that tells you more about the verb, such as where, when, or how something happened.",
+      "explanation": "\"adverbial phrase\" means: A group of words that tells you more about the verb, such as where, when, or how something happened."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"alliteration\" mean?",
+      "options": [
+        "A sentence that contains one main clause (a subject and a verb).",
+        "To read text and mark any errors.",
+        "The repetition of the same initial consonant sound in words close together.",
+        "A group of words that tells you more about the verb, such as where, when, or how something happened."
+      ],
+      "correct_answer": "The repetition of the same initial consonant sound in words close together.",
+      "explanation": "\"alliteration\" means: The repetition of the same initial consonant sound in words close together."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Adverbial phrases add important ______ details to sentences.",
+      "options": null,
+      "correct_answer": "setting",
+      "explanation": "The full sentence is: \"Adverbial phrases add important setting details to sentences.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Proofreading is essential to catch and correct mistakes in your writing.",
+        "Reading backwards helps in effective proofreading.",
+        "Combining adverbial phrases with alliteration enhances descriptive writing.",
+        "Adverbial phrases add important setting details to sentences."
+      ],
+      "correct_answer": "Combining adverbial phrases with alliteration enhances descriptive writing.",
+      "explanation": "Correct! \"Combining adverbial phrases with alliteration enhances descriptive writing.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"proofread\" mean?",
+      "options": [
+        "A group of words that tells you more about the verb, such as where, when, or how something happened.",
+        "A sentence that contains one main clause (a subject and a verb).",
+        "The repetition of the same initial consonant sound in words close together.",
+        "To read text and mark any errors."
+      ],
+      "correct_answer": "To read text and mark any errors.",
+      "explanation": "\"proofread\" means: To read text and mark any errors."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "topic": "Alliteration, Adverbial Phrases, and Storyboarding",
+  "title": "Adding Detail and Sound to Your Stories",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"alliteration\" mean?",
+      "options": [
+        "A word that shows the relationship between a noun or pronoun and other words in a sentence, often indicating position, time, or direction (e.g., 'in,' 'on,' 'at').",
+        "A group of words that acts like an adverb, giving more information about a verb, like 'in the morning' or 'under the table'.",
+        "A sequence of drawings, like a comic strip, to plan out a story or scene.",
+        "The repeating of the same starting sound in words that are close to each other, like 'silly snakes'."
+      ],
+      "correct_answer": "The repeating of the same starting sound in words that are close to each other, like 'silly snakes'.",
+      "explanation": "\"alliteration\" means: The repeating of the same starting sound in words that are close to each other, like 'silly snakes'."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"adverbial phrase\" mean?",
+      "options": [
+        "A group of words that acts like an adverb, giving more information about a verb, like 'in the morning' or 'under the table'.",
+        "The repeating of the same starting sound in words that are close to each other, like 'silly snakes'.",
+        "A word that shows the relationship between a noun or pronoun and other words in a sentence, often indicating position, time, or direction (e.g., 'in,' 'on,' 'at').",
+        "A sequence of drawings, like a comic strip, to plan out a story or scene."
+      ],
+      "correct_answer": "A group of words that acts like an adverb, giving more information about a verb, like 'in the morning' or 'under the table'.",
+      "explanation": "\"adverbial phrase\" means: A group of words that acts like an adverb, giving more information about a verb, like 'in the morning' or 'under the table'."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Alliteration repeats initial ______ sounds for effect.",
+      "options": null,
+      "correct_answer": "consonant",
+      "explanation": "The full sentence is: \"Alliteration repeats initial consonant sounds for effect.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Adverbial phrases add details about 'where,' 'when,' 'how,' or 'why' actions happen.",
+        "Alliteration repeats initial consonant sounds for effect.",
+        "Prepositions often start adverbial phrases (e.g., 'in,' 'on,' 'at,' 'under').",
+        "Storyboards help plan the sequence of events in a story."
+      ],
+      "correct_answer": "Adverbial phrases add details about 'where,' 'when,' 'how,' or 'why' actions happen.",
+      "explanation": "Correct! \"Adverbial phrases add details about 'where,' 'when,' 'how,' or 'why' actions happen.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"preposition\" mean?",
+      "options": [
+        "The repeating of the same starting sound in words that are close to each other, like 'silly snakes'.",
+        "A sequence of drawings, like a comic strip, to plan out a story or scene.",
+        "A group of words that acts like an adverb, giving more information about a verb, like 'in the morning' or 'under the table'.",
+        "A word that shows the relationship between a noun or pronoun and other words in a sentence, often indicating position, time, or direction (e.g., 'in,' 'on,' 'at')."
+      ],
+      "correct_answer": "A word that shows the relationship between a noun or pronoun and other words in a sentence, often indicating position, time, or direction (e.g., 'in,' 'on,' 'at').",
+      "explanation": "\"preposition\" means: A word that shows the relationship between a noun or pronoun and other words in a sentence, often indicating position, time, or direction (e.g., 'in,' 'on,' 'at')."
+    }
+  ]
+}

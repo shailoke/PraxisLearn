@@ -1,0 +1,61 @@
+{
+  "topic": "Narrative Poems and Poetic Voice",
+  "title": "Telling Stories with Narrative Poems",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"narrative poem\" mean?",
+      "options": [
+        "a punctuation mark (;) used to join two independent clauses (sentences) that are closely related.",
+        "punctuation marks ( ) used to add extra information or comments into a sentence.",
+        "a poem that tells a story, with characters, a setting, and a plot.",
+        "the person or character who tells the story in a poem or book."
+      ],
+      "correct_answer": "a poem that tells a story, with characters, a setting, and a plot.",
+      "explanation": "\"narrative poem\" means: a poem that tells a story, with characters, a setting, and a plot."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"semi-colon\" mean?",
+      "options": [
+        "punctuation marks ( ) used to add extra information or comments into a sentence.",
+        "a poem that tells a story, with characters, a setting, and a plot.",
+        "a punctuation mark (;) used to join two independent clauses (sentences) that are closely related.",
+        "the person or character who tells the story in a poem or book."
+      ],
+      "correct_answer": "a punctuation mark (;) used to join two independent clauses (sentences) that are closely related.",
+      "explanation": "\"semi-colon\" means: a punctuation mark (;) used to join two independent clauses (sentences) that are closely related."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Narrative poems tell stories, ______ to short stories.",
+      "options": null,
+      "correct_answer": "similar",
+      "explanation": "The full sentence is: \"Narrative poems tell stories, similar to short stories.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Semi-colons connect closely related sentences.",
+        "Brackets add extra information or comments.",
+        "Narrative poems tell stories, similar to short stories.",
+        "The 'narrator' is the voice telling the story in a poem."
+      ],
+      "correct_answer": "Semi-colons connect closely related sentences.",
+      "explanation": "Correct! \"Semi-colons connect closely related sentences.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"brackets\" mean?",
+      "options": [
+        "the person or character who tells the story in a poem or book.",
+        "a punctuation mark (;) used to join two independent clauses (sentences) that are closely related.",
+        "a poem that tells a story, with characters, a setting, and a plot.",
+        "punctuation marks ( ) used to add extra information or comments into a sentence."
+      ],
+      "correct_answer": "punctuation marks ( ) used to add extra information or comments into a sentence.",
+      "explanation": "\"brackets\" means: punctuation marks ( ) used to add extra information or comments into a sentence."
+    }
+  ]
+}

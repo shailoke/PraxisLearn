@@ -1,0 +1,61 @@
+{
+  "topic": "Using Similes and Flashbacks",
+  "title": "Mastering Similes and Flashback Stories",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"simile\" mean?",
+      "options": [
+        "A part of a story that shows something that happened earlier in time.",
+        "Words used in a way that is different from their normal meaning to create a special effect or image (like similes).",
+        "None of the above",
+        "A way to describe something by comparing it to something else, using 'like' or 'as'."
+      ],
+      "correct_answer": "A way to describe something by comparing it to something else, using 'like' or 'as'.",
+      "explanation": "\"simile\" means: A way to describe something by comparing it to something else, using 'like' or 'as'."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"flashback sequence\" mean?",
+      "options": [
+        "A part of a story that shows something that happened earlier in time.",
+        "Words used in a way that is different from their normal meaning to create a special effect or image (like similes).",
+        "None of the above",
+        "A way to describe something by comparing it to something else, using 'like' or 'as'."
+      ],
+      "correct_answer": "A part of a story that shows something that happened earlier in time.",
+      "explanation": "\"flashback sequence\" means: A part of a story that shows something that happened earlier in time."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Similes compare two things ______ 'like' or 'as' to create strong images.",
+      "options": null,
+      "correct_answer": "using",
+      "explanation": "The full sentence is: \"Similes compare two things using 'like' or 'as' to create strong images.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Similes compare two things using 'like' or 'as' to create strong images.",
+        "Always use the past tense when writing flashback sequences.",
+        "Flashbacks are sections of a story that tell about past events.",
+        "Figurative language makes your writing more imaginative and engaging for the reader."
+      ],
+      "correct_answer": "Figurative language makes your writing more imaginative and engaging for the reader.",
+      "explanation": "Correct! \"Figurative language makes your writing more imaginative and engaging for the reader.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"figurative language\" mean?",
+      "options": [
+        "A way to describe something by comparing it to something else, using 'like' or 'as'.",
+        "None of the above",
+        "Words used in a way that is different from their normal meaning to create a special effect or image (like similes).",
+        "A part of a story that shows something that happened earlier in time."
+      ],
+      "correct_answer": "Words used in a way that is different from their normal meaning to create a special effect or image (like similes).",
+      "explanation": "\"figurative language\" means: Words used in a way that is different from their normal meaning to create a special effect or image (like similes)."
+    }
+  ]
+}

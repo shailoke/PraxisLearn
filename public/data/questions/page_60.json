@@ -1,0 +1,61 @@
+{
+  "topic": "Analyzing Non-fiction: Comprehension & Writing",
+  "title": "Exploring Fabrice Muamba's Story and Writing Your Own",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"fact\" mean?",
+      "options": [
+        "A belief or judgment about something, not necessarily based on fact.",
+        "Something that is known to be true or to have happened.",
+        "To give a detailed account of something in words.",
+        "The time and place where a story happens."
+      ],
+      "correct_answer": "Something that is known to be true or to have happened.",
+      "explanation": "\"fact\" means: Something that is known to be true or to have happened."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"opinion\" mean?",
+      "options": [
+        "A belief or judgment about something, not necessarily based on fact.",
+        "The time and place where a story happens.",
+        "To give a detailed account of something in words.",
+        "Something that is known to be true or to have happened."
+      ],
+      "correct_answer": "A belief or judgment about something, not necessarily based on fact.",
+      "explanation": "\"opinion\" means: A belief or judgment about something, not necessarily based on fact."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Distinguish between facts and ______ in non-fiction texts.",
+      "options": null,
+      "correct_answer": "opinions",
+      "explanation": "The full sentence is: \"Distinguish between facts and opinions in non-fiction texts.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Practice writing your own autobiographical paragraph using precise language and varied punctuation.",
+        "Distinguish between facts and opinions in non-fiction texts.",
+        "Analyze how authors convey feelings and describe settings.",
+        "Understand and identify parenthesis as a way to add extra information."
+      ],
+      "correct_answer": "Analyze how authors convey feelings and describe settings.",
+      "explanation": "Correct! \"Analyze how authors convey feelings and describe settings.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"setting\" mean?",
+      "options": [
+        "To give a detailed account of something in words.",
+        "A belief or judgment about something, not necessarily based on fact.",
+        "Something that is known to be true or to have happened.",
+        "The time and place where a story happens."
+      ],
+      "correct_answer": "The time and place where a story happens.",
+      "explanation": "\"setting\" means: The time and place where a story happens."
+    }
+  ]
+}

@@ -2,8 +2,9 @@
 
 import { useState } from 'react';
 import { Lightbulb, Sparkles, BookOpen, Quote, Target, Brain, ArrowRight, CheckCircle2 } from 'lucide-react';
+import PracticeTab from '@/components/PracticeTab';
 
-export default function TabsView({ data }: { data: any }) {
+export default function TabsView({ data, questions }: { data: any; questions: any[] }) {
   const [activeTab, setActiveTab] = useState<'learn' | 'deepDive' | 'practice' | 'challenge'>('learn');
 
   const tabs = [
@@ -21,11 +22,11 @@ export default function TabsView({ data }: { data: any }) {
           <button
             key={tab.id}
             onClick={() => setActiveTab(tab.id)}
-            className={`flex-1 min-w-[120px] flex items-center justify-center gap-2 py-3 px-4 rounded-xl font-bold transition-all duration-300 ${
-              activeTab === tab.id
-                ? 'bg-primary text-white shadow-md transform scale-[1.02]'
-                : 'text-slate-600 hover:bg-slate-100/80 hover:text-slate-900'
-            }`}
+            className={"flex-1 min-w-[120px] flex items-center justify-center gap-2 py-3 px-4 rounded-xl font-bold transition-all duration-300 " + 
+              (activeTab === tab.id
+                ? "bg-primary text-white shadow-md transform scale-[1.02]"
+                : "text-slate-600 hover:bg-slate-100/80 hover:text-slate-900")
+            }
           >
             {tab.icon}
             {tab.label}
@@ -101,33 +102,8 @@ export default function TabsView({ data }: { data: any }) {
 
         {/* PRACTICE TAB */}
         {activeTab === 'practice' && (
-          <div className="animate-in fade-in slide-in-from-bottom-2 duration-500 space-y-6">
-            <div className="glass-card p-6 sm:p-8 bg-emerald-50/50 border border-emerald-100">
-               <h2 className="text-2xl font-black text-slate-800 mb-6 flex items-center gap-3">
-                 <Target className="text-emerald-500" size={28} /> Guided Practice
-               </h2>
-               <div className="space-y-4">
-                 {data.guided_practice?.map((task: string, i: number) => (
-                   <div key={i} className="flex gap-4 p-5 rounded-2xl bg-white shadow-sm border border-slate-100 hover:shadow-md transition-shadow">
-                     <div className="w-8 h-8 rounded-full bg-emerald-100 text-emerald-600 flex items-center justify-center font-black shrink-0">
-                       {i+1}
-                     </div>
-                     <p className="text-lg text-slate-700 font-medium pt-1">{task}</p>
-                   </div>
-                 ))}
-               </div>
-            </div>
-
-            <div className="glass-card p-6 border-t-4 border-t-primary/50">
-               <h3 className="text-xl font-bold text-slate-800 mb-4 flex items-center gap-2">
-                 <ArrowRight className="text-primary" /> Applying What You Learned
-               </h3>
-               <ul className="space-y-4 px-2">
-                 {data.application_tasks?.map((task: string, i: number) => (
-                    <li key={i} className="text-lg text-slate-700 font-medium list-disc ml-6">{task}</li>
-                 ))}
-               </ul>
-            </div>
+          <div className="animate-in fade-in slide-in-from-bottom-2 duration-500">
+            <PracticeTab questions={questions} />
           </div>
         )}
 

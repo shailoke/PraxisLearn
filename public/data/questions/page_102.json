@@ -1,0 +1,61 @@
+{
+  "topic": "Refining Poetry with Poetic Devices",
+  "title": "Making Your Dragon Tankas Even Better!",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"thesaurus\" mean?",
+      "options": [
+        "the repetition of consonant sounds (like 't' or 'd') in nearby words, often at the end of words or in the middle.",
+        "a book or online tool that lists words with similar meanings (synonyms) and opposite meanings (antonyms).",
+        "the use of descriptive words to create vivid pictures or sensations in the reader's mind.",
+        "the repetition of vowel sounds (like 'a' or 'o') in nearby words."
+      ],
+      "correct_answer": "a book or online tool that lists words with similar meanings (synonyms) and opposite meanings (antonyms).",
+      "explanation": "\"thesaurus\" means: a book or online tool that lists words with similar meanings (synonyms) and opposite meanings (antonyms)."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"imagery\" mean?",
+      "options": [
+        "the repetition of consonant sounds (like 't' or 'd') in nearby words, often at the end of words or in the middle.",
+        "the repetition of vowel sounds (like 'a' or 'o') in nearby words.",
+        "a book or online tool that lists words with similar meanings (synonyms) and opposite meanings (antonyms).",
+        "the use of descriptive words to create vivid pictures or sensations in the reader's mind."
+      ],
+      "correct_answer": "the use of descriptive words to create vivid pictures or sensations in the reader's mind.",
+      "explanation": "\"imagery\" means: the use of descriptive words to create vivid pictures or sensations in the reader's mind."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Good vocabulary choices ______ the 'imagery' of a poem.",
+      "options": null,
+      "correct_answer": "improve",
+      "explanation": "The full sentence is: \"Good vocabulary choices improve the 'imagery' of a poem.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Good vocabulary choices improve the 'imagery' of a poem.",
+        "Planning a story helps when writing longer poems like tankas.",
+        "Poetic devices like consonance, assonance, and sibilance add musicality and impact to your writing.",
+        "Performing your poems helps you understand how sound and expression affect the audience."
+      ],
+      "correct_answer": "Poetic devices like consonance, assonance, and sibilance add musicality and impact to your writing.",
+      "explanation": "Correct! \"Poetic devices like consonance, assonance, and sibilance add musicality and impact to your writing.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"consonance\" mean?",
+      "options": [
+        "a book or online tool that lists words with similar meanings (synonyms) and opposite meanings (antonyms).",
+        "the repetition of vowel sounds (like 'a' or 'o') in nearby words.",
+        "the use of descriptive words to create vivid pictures or sensations in the reader's mind.",
+        "the repetition of consonant sounds (like 't' or 'd') in nearby words, often at the end of words or in the middle."
+      ],
+      "correct_answer": "the repetition of consonant sounds (like 't' or 'd') in nearby words, often at the end of words or in the middle.",
+      "explanation": "\"consonance\" means: the repetition of consonant sounds (like 't' or 'd') in nearby words, often at the end of words or in the middle."
+    }
+  ]
+}

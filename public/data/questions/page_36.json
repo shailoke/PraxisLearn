@@ -1,0 +1,61 @@
+{
+  "topic": "Biography and Autobiography",
+  "title": "Presenting a Clear Personality",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"Adverbial phrases of time\" mean?",
+      "options": [
+        "Books or stories written by someone about their own life.",
+        "Groups of words that tell you when something happens (e.g., 'in the beginning', 'soon afterwards').",
+        "A condition where it's hard to recognize familiar human faces.",
+        "Words taken directly from a text, used as evidence and shown with quotation marks."
+      ],
+      "correct_answer": "Groups of words that tell you when something happens (e.g., 'in the beginning', 'soon afterwards').",
+      "explanation": "\"Adverbial phrases of time\" means: Groups of words that tell you when something happens (e.g., 'in the beginning', 'soon afterwards')."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"Autobiographies\" mean?",
+      "options": [
+        "Words taken directly from a text, used as evidence and shown with quotation marks.",
+        "Books or stories written by someone about their own life.",
+        "Groups of words that tell you when something happens (e.g., 'in the beginning', 'soon afterwards').",
+        "A condition where it's hard to recognize familiar human faces."
+      ],
+      "correct_answer": "Books or stories written by someone about their own life.",
+      "explanation": "\"Autobiographies\" means: Books or stories written by someone about their own life."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Adverbial phrases of time ______ show when events happen.",
+      "options": null,
+      "correct_answer": "clearly",
+      "explanation": "The full sentence is: \"Adverbial phrases of time clearly show when events happen.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Break down difficult words into sound units for easier reading.",
+        "Quotations are direct words from a text used as evidence.",
+        "Autobiographies use details and language to reveal the writer's personality.",
+        "Adverbial phrases of time clearly show when events happen."
+      ],
+      "correct_answer": "Autobiographies use details and language to reveal the writer's personality.",
+      "explanation": "Correct! \"Autobiographies use details and language to reveal the writer's personality.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"Quotations\" mean?",
+      "options": [
+        "A condition where it's hard to recognize familiar human faces.",
+        "Books or stories written by someone about their own life.",
+        "Groups of words that tell you when something happens (e.g., 'in the beginning', 'soon afterwards').",
+        "Words taken directly from a text, used as evidence and shown with quotation marks."
+      ],
+      "correct_answer": "Words taken directly from a text, used as evidence and shown with quotation marks.",
+      "explanation": "\"Quotations\" means: Words taken directly from a text, used as evidence and shown with quotation marks."
+    }
+  ]
+}

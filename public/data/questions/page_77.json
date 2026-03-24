@@ -1,0 +1,61 @@
+{
+  "topic": "Using Parenthesis and Mastering Homophones",
+  "title": "Adding Parenthesis for Excitement and Practising Homophones",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"Parenthesis\" mean?",
+      "options": [
+        "None of the above",
+        "None of the above",
+        "To read a text carefully to find and correct any mistakes in spelling, grammar, or punctuation.",
+        "Extra information added to a sentence, usually set off by dashes, brackets, or commas."
+      ],
+      "correct_answer": "Extra information added to a sentence, usually set off by dashes, brackets, or commas.",
+      "explanation": "\"Parenthesis\" means: Extra information added to a sentence, usually set off by dashes, brackets, or commas."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"Proofread\" mean?",
+      "options": [
+        "Extra information added to a sentence, usually set off by dashes, brackets, or commas.",
+        "To read a text carefully to find and correct any mistakes in spelling, grammar, or punctuation.",
+        "None of the above",
+        "None of the above"
+      ],
+      "correct_answer": "To read a text carefully to find and correct any mistakes in spelling, grammar, or punctuation.",
+      "explanation": "\"Proofread\" means: To read a text carefully to find and correct any mistakes in spelling, grammar, or punctuation."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Parenthesis adds extra information to a sentence, ______ dashes, brackets, or commas.",
+      "options": null,
+      "correct_answer": "using",
+      "explanation": "The full sentence is: \"Parenthesis adds extra information to a sentence, using dashes, brackets, or commas.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Parenthesis adds extra information to a sentence, using dashes, brackets, or commas.",
+        "Parenthesis can create excitement or reveal a character's thoughts.",
+        "Always check the meanings of homophones to choose the correct word.",
+        "Proofreading, especially by reading backwards, helps catch spelling mistakes."
+      ],
+      "correct_answer": "Parenthesis can create excitement or reveal a character's thoughts.",
+      "explanation": "Correct! \"Parenthesis can create excitement or reveal a character's thoughts.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Parenthesis can create excitement or reveal a character's thoughts.",
+        "Proofreading, especially by reading backwards, helps catch spelling mistakes.",
+        "Always check the meanings of homophones to choose the correct word.",
+        "Parenthesis adds extra information to a sentence, using dashes, brackets, or commas."
+      ],
+      "correct_answer": "Proofreading, especially by reading backwards, helps catch spelling mistakes.",
+      "explanation": "Correct! \"Proofreading, especially by reading backwards, helps catch spelling mistakes.\" is one of the key things to remember."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "topic": "Using Language to Affect Readers",
+  "title": "Making Your Writing Impactful with Adverbial Phrases and Sentence Length",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"chronology\" mean?",
+      "options": [
+        "A strong effect or impression.",
+        "Groups of words telling when something happens (e.g., 'immediately').",
+        "The order in which a series of events happened.",
+        "Groups of words telling where something happens (e.g., 'in front of me')."
+      ],
+      "correct_answer": "The order in which a series of events happened.",
+      "explanation": "\"chronology\" means: The order in which a series of events happened."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"adverbial phrases of time\" mean?",
+      "options": [
+        "A strong effect or impression.",
+        "Groups of words telling when something happens (e.g., 'immediately').",
+        "Groups of words telling where something happens (e.g., 'in front of me').",
+        "The order in which a series of events happened."
+      ],
+      "correct_answer": "Groups of words telling when something happens (e.g., 'immediately').",
+      "explanation": "\"adverbial phrases of time\" means: Groups of words telling when something happens (e.g., 'immediately')."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Adverbial phrases of place tell the ______ where an action happens.",
+      "options": null,
+      "correct_answer": "reader",
+      "explanation": "The full sentence is: \"Adverbial phrases of place tell the reader where an action happens.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Use sound effects sparingly to maintain their impact.",
+        "Adverbial phrases of place tell the reader where an action happens.",
+        "Choosing precise words and describing sounds vividly helps create a strong atmosphere.",
+        "Varying sentence length, especially using short sentences, can create drama and urgency."
+      ],
+      "correct_answer": "Varying sentence length, especially using short sentences, can create drama and urgency.",
+      "explanation": "Correct! \"Varying sentence length, especially using short sentences, can create drama and urgency.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"adverbial phrases of place\" mean?",
+      "options": [
+        "The order in which a series of events happened.",
+        "Groups of words telling when something happens (e.g., 'immediately').",
+        "Groups of words telling where something happens (e.g., 'in front of me').",
+        "A strong effect or impression."
+      ],
+      "correct_answer": "Groups of words telling where something happens (e.g., 'in front of me').",
+      "explanation": "\"adverbial phrases of place\" means: Groups of words telling where something happens (e.g., 'in front of me')."
+    }
+  ]
+}

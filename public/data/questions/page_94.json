@@ -1,0 +1,61 @@
+{
+  "topic": "Understanding Active and Passive Voice",
+  "title": "Exploring the Passive Voice in Sentences",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"active voice\" mean?",
+      "options": [
+        "The person or thing that receives the action in a sentence.",
+        "A sentence structure where the subject performs the action of the verb (e.g., 'The boy kicked the ball').",
+        "A sentence structure where the subject receives the action of the verb (e.g., 'The ball was kicked by the boy').",
+        "The person or thing that performs the action in a sentence."
+      ],
+      "correct_answer": "A sentence structure where the subject performs the action of the verb (e.g., 'The boy kicked the ball').",
+      "explanation": "\"active voice\" means: A sentence structure where the subject performs the action of the verb (e.g., 'The boy kicked the ball')."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"passive voice\" mean?",
+      "options": [
+        "A sentence structure where the subject performs the action of the verb (e.g., 'The boy kicked the ball').",
+        "The person or thing that performs the action in a sentence.",
+        "A sentence structure where the subject receives the action of the verb (e.g., 'The ball was kicked by the boy').",
+        "The person or thing that receives the action in a sentence."
+      ],
+      "correct_answer": "A sentence structure where the subject receives the action of the verb (e.g., 'The ball was kicked by the boy').",
+      "explanation": "\"passive voice\" means: A sentence structure where the subject receives the action of the verb (e.g., 'The ball was kicked by the boy')."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: The active voice focuses on the ______ doing the action.",
+      "options": null,
+      "correct_answer": "subject",
+      "explanation": "The full sentence is: \"The active voice focuses on the subject doing the action.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "The passive voice focuses on the object receiving the action.",
+        "The active voice focuses on the subject doing the action.",
+        "Passive voice is useful when the doer of the action is unknown or less important.",
+        "Passive voice can make writing more formal."
+      ],
+      "correct_answer": "The passive voice focuses on the object receiving the action.",
+      "explanation": "Correct! \"The passive voice focuses on the object receiving the action.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"subject\" mean?",
+      "options": [
+        "A sentence structure where the subject receives the action of the verb (e.g., 'The ball was kicked by the boy').",
+        "A sentence structure where the subject performs the action of the verb (e.g., 'The boy kicked the ball').",
+        "The person or thing that receives the action in a sentence.",
+        "The person or thing that performs the action in a sentence."
+      ],
+      "correct_answer": "The person or thing that performs the action in a sentence.",
+      "explanation": "\"subject\" means: The person or thing that performs the action in a sentence."
+    }
+  ]
+}

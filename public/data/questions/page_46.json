@@ -1,0 +1,61 @@
+{
+  "topic": "Exploring Figurative Language in Poetry",
+  "title": "Understanding Poems and Figurative Language",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"shift\" mean?",
+      "options": [
+        "the tough outer skin of a fruit like an orange, or the outside of cheese",
+        "the part of the road where water flows, next to the sidewalk",
+        "words that sound the same but have different spellings and meanings",
+        "the time you spend working, like a morning shift at a shop"
+      ],
+      "correct_answer": "the time you spend working, like a morning shift at a shop",
+      "explanation": "\"shift\" means: the time you spend working, like a morning shift at a shop"
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"rind\" mean?",
+      "options": [
+        "the tough outer skin of a fruit like an orange, or the outside of cheese",
+        "words that sound the same but have different spellings and meanings",
+        "the time you spend working, like a morning shift at a shop",
+        "the part of the road where water flows, next to the sidewalk"
+      ],
+      "correct_answer": "the tough outer skin of a fruit like an orange, or the outside of cheese",
+      "explanation": "\"rind\" means: the tough outer skin of a fruit like an orange, or the outside of cheese"
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Poems use homophones and different ______ of figurative language to be interesting.",
+      "options": null,
+      "correct_answer": "kinds",
+      "explanation": "The full sentence is: \"Poems use homophones and different kinds of figurative language to be interesting.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Personification gives human qualities to things that aren't human.",
+        "Poems use homophones and different kinds of figurative language to be interesting.",
+        "Metaphors compare two different things by saying one IS the other.",
+        "Homophones are words that sound alike but have different meanings and spellings."
+      ],
+      "correct_answer": "Homophones are words that sound alike but have different meanings and spellings.",
+      "explanation": "Correct! \"Homophones are words that sound alike but have different meanings and spellings.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"gutter\" mean?",
+      "options": [
+        "words that sound the same but have different spellings and meanings",
+        "the time you spend working, like a morning shift at a shop",
+        "the part of the road where water flows, next to the sidewalk",
+        "the tough outer skin of a fruit like an orange, or the outside of cheese"
+      ],
+      "correct_answer": "the part of the road where water flows, next to the sidewalk",
+      "explanation": "\"gutter\" means: the part of the road where water flows, next to the sidewalk"
+    }
+  ]
+}

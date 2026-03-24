@@ -1,0 +1,61 @@
+{
+  "topic": "Describing Science Fiction Characters",
+  "title": "Bringing Robots to Life with Vivid Descriptions",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"tremulous\" mean?",
+      "options": [
+        "The name of the new robot character in the story.",
+        "Something that is known to be true or proved.",
+        "To figure something out using reasoning and clues from the text, rather than it being directly stated.",
+        "Shaking slightly, often from nervousness or excitement."
+      ],
+      "correct_answer": "Shaking slightly, often from nervousness or excitement.",
+      "explanation": "\"tremulous\" means: Shaking slightly, often from nervousness or excitement."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"EGR3\" mean?",
+      "options": [
+        "To figure something out using reasoning and clues from the text, rather than it being directly stated.",
+        "Something that is known to be true or proved.",
+        "The name of the new robot character in the story.",
+        "Shaking slightly, often from nervousness or excitement."
+      ],
+      "correct_answer": "The name of the new robot character in the story.",
+      "explanation": "\"EGR3\" means: The name of the new robot character in the story."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Use precise words to ______ characters and settings.",
+      "options": null,
+      "correct_answer": "describe",
+      "explanation": "The full sentence is: \"Use precise words to describe characters and settings.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Practice descriptive writing by imagining your own robot.",
+        "Always proofread for spelling and legibility.",
+        "Differentiate between facts (stated directly) and inferences (concluded from clues).",
+        "Use precise words to describe characters and settings."
+      ],
+      "correct_answer": "Differentiate between facts (stated directly) and inferences (concluded from clues).",
+      "explanation": "Correct! \"Differentiate between facts (stated directly) and inferences (concluded from clues).\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"fact\" mean?",
+      "options": [
+        "To figure something out using reasoning and clues from the text, rather than it being directly stated.",
+        "Shaking slightly, often from nervousness or excitement.",
+        "The name of the new robot character in the story.",
+        "Something that is known to be true or proved."
+      ],
+      "correct_answer": "Something that is known to be true or proved.",
+      "explanation": "\"fact\" means: Something that is known to be true or proved."
+    }
+  ]
+}

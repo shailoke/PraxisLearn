@@ -1,0 +1,61 @@
+{
+  "topic": "Deepening Our Understanding of Poetic Devices and Writing",
+  "title": "More on Poetic Language and Writing Your Own Poem",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"personification\" mean?",
+      "options": [
+        "giving human qualities or actions to something that is not human",
+        "words spelled the same but with different meanings, and sometimes different pronunciations",
+        "an adjective made of two or more words, often joined by a hyphen, to describe something",
+        "moving around quietly and secretly, often looking for something"
+      ],
+      "correct_answer": "giving human qualities or actions to something that is not human",
+      "explanation": "\"personification\" means: giving human qualities or actions to something that is not human"
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"compound adjective\" mean?",
+      "options": [
+        "giving human qualities or actions to something that is not human",
+        "words spelled the same but with different meanings, and sometimes different pronunciations",
+        "an adjective made of two or more words, often joined by a hyphen, to describe something",
+        "moving around quietly and secretly, often looking for something"
+      ],
+      "correct_answer": "an adjective made of two or more words, often joined by a hyphen, to describe something",
+      "explanation": "\"compound adjective\" means: an adjective made of two or more words, often joined by a hyphen, to describe something"
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Personification makes non-human things ______ by giving them human actions or qualities.",
+      "options": null,
+      "correct_answer": "relatable",
+      "explanation": "The full sentence is: \"Personification makes non-human things relatable by giving them human actions or qualities.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Homographs are words spelled identically but have different meanings and sometimes pronunciations.",
+        "Compound adjectives create vivid and imaginative descriptions, often comparing without using 'like' or 'as'.",
+        "Personification makes non-human things relatable by giving them human actions or qualities.",
+        "Planning your poem, including ideas for images and poetic devices, helps you write a better story."
+      ],
+      "correct_answer": "Compound adjectives create vivid and imaginative descriptions, often comparing without using 'like' or 'as'.",
+      "explanation": "Correct! \"Compound adjectives create vivid and imaginative descriptions, often comparing without using 'like' or 'as'.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"homograph\" mean?",
+      "options": [
+        "moving around quietly and secretly, often looking for something",
+        "words spelled the same but with different meanings, and sometimes different pronunciations",
+        "an adjective made of two or more words, often joined by a hyphen, to describe something",
+        "giving human qualities or actions to something that is not human"
+      ],
+      "correct_answer": "words spelled the same but with different meanings, and sometimes different pronunciations",
+      "explanation": "\"homograph\" means: words spelled the same but with different meanings, and sometimes different pronunciations"
+    }
+  ]
+}

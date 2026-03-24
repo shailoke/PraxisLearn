@@ -1,0 +1,61 @@
+{
+  "topic": "Crafting Your Own Balanced Argument",
+  "title": "Practising Your Argument Writing Skills",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"connectives\" mean?",
+      "options": [
+        "Required by law or rule; something you must do.",
+        "To read text and mark any errors in spelling, grammar, or punctuation.",
+        "A question asked for effect or to make a point, rather than to get a real answer.",
+        "Words or phrases that link clauses, sentences, or paragraphs together, helping the text flow smoothly (e.g., 'however', 'therefore', 'in addition')."
+      ],
+      "correct_answer": "Words or phrases that link clauses, sentences, or paragraphs together, helping the text flow smoothly (e.g., 'however', 'therefore', 'in addition').",
+      "explanation": "\"connectives\" means: Words or phrases that link clauses, sentences, or paragraphs together, helping the text flow smoothly (e.g., 'however', 'therefore', 'in addition')."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"compulsory\" mean?",
+      "options": [
+        "Words or phrases that link clauses, sentences, or paragraphs together, helping the text flow smoothly (e.g., 'however', 'therefore', 'in addition').",
+        "Required by law or rule; something you must do.",
+        "A question asked for effect or to make a point, rather than to get a real answer.",
+        "To read text and mark any errors in spelling, grammar, or punctuation."
+      ],
+      "correct_answer": "Required by law or rule; something you must do.",
+      "explanation": "\"compulsory\" means: Required by law or rule; something you must do."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Choose a clear ______ for your argument.",
+      "options": null,
+      "correct_answer": "topic",
+      "explanation": "The full sentence is: \"Choose a clear topic for your argument.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Brainstorm points both for and against the topic.",
+        "Organize points logically, from strongest to weakest.",
+        "Use connectives (like 'However', 'Therefore', 'In addition') to link ideas smoothly.",
+        "Choose a clear topic for your argument."
+      ],
+      "correct_answer": "Brainstorm points both for and against the topic.",
+      "explanation": "Correct! \"Brainstorm points both for and against the topic.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"rhetorical question\" mean?",
+      "options": [
+        "Required by law or rule; something you must do.",
+        "A question asked for effect or to make a point, rather than to get a real answer.",
+        "To read text and mark any errors in spelling, grammar, or punctuation.",
+        "Words or phrases that link clauses, sentences, or paragraphs together, helping the text flow smoothly (e.g., 'however', 'therefore', 'in addition')."
+      ],
+      "correct_answer": "A question asked for effect or to make a point, rather than to get a real answer.",
+      "explanation": "\"rhetorical question\" means: A question asked for effect or to make a point, rather than to get a real answer."
+    }
+  ]
+}

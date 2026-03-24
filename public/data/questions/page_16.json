@@ -1,0 +1,61 @@
+{
+  "topic": "Analyzing Character and Viewpoint",
+  "title": "Understanding Characters and Their Actions",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"sidling\" mean?",
+      "options": [
+        "lacking in kindness, sympathy, or compassion",
+        "a tiny flash of light, often used to describe a spark in someone's eye that shows an emotion",
+        "a person who looks after a group of sheep or goats",
+        "moving slowly and secretly, often sideways"
+      ],
+      "correct_answer": "moving slowly and secretly, often sideways",
+      "explanation": "\"sidling\" means: moving slowly and secretly, often sideways"
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"glint\" mean?",
+      "options": [
+        "a tiny flash of light, often used to describe a spark in someone's eye that shows an emotion",
+        "a person who looks after a group of sheep or goats",
+        "moving slowly and secretly, often sideways",
+        "lacking in kindness, sympathy, or compassion"
+      ],
+      "correct_answer": "a tiny flash of light, often used to describe a spark in someone's eye that shows an emotion",
+      "explanation": "\"glint\" means: a tiny flash of light, often used to describe a spark in someone's eye that shows an emotion"
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Characters are revealed by ______ actions and words.",
+      "options": null,
+      "correct_answer": "their",
+      "explanation": "The full sentence is: \"Characters are revealed by their actions and words.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Emotions play a big part in how we connect with characters and understand their story.",
+        "We can infer a character's personality by looking for specific examples of their behaviour.",
+        "Different viewpoints can change how you experience a story.",
+        "Characters are revealed by their actions and words."
+      ],
+      "correct_answer": "Different viewpoints can change how you experience a story.",
+      "explanation": "Correct! \"Different viewpoints can change how you experience a story.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"shepherd\" mean?",
+      "options": [
+        "moving slowly and secretly, often sideways",
+        "lacking in kindness, sympathy, or compassion",
+        "a person who looks after a group of sheep or goats",
+        "a tiny flash of light, often used to describe a spark in someone's eye that shows an emotion"
+      ],
+      "correct_answer": "a person who looks after a group of sheep or goats",
+      "explanation": "\"shepherd\" means: a person who looks after a group of sheep or goats"
+    }
+  ]
+}

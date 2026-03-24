@@ -1,0 +1,61 @@
+{
+  "topic": "Non-fiction: Biography and Autobiography",
+  "title": "Understanding Biographies and Autobiographies",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"fact\" mean?",
+      "options": [
+        "Writing based on facts, real events, and real people.",
+        "Stories that are invented or made up.",
+        "Information that can be proven to be true.",
+        "A personal belief or judgment that cannot be proven."
+      ],
+      "correct_answer": "Information that can be proven to be true.",
+      "explanation": "\"fact\" means: Information that can be proven to be true."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"opinion\" mean?",
+      "options": [
+        "Writing based on facts, real events, and real people.",
+        "A personal belief or judgment that cannot be proven.",
+        "Information that can be proven to be true.",
+        "Stories that are invented or made up."
+      ],
+      "correct_answer": "A personal belief or judgment that cannot be proven.",
+      "explanation": "\"opinion\" means: A personal belief or judgment that cannot be proven."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Facts can be proven true; ______ are personal beliefs.",
+      "options": null,
+      "correct_answer": "opinions",
+      "explanation": "The full sentence is: \"Facts can be proven true; opinions are personal beliefs.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "An autobiography is written by someone *about themselves* (first person: I).",
+        "A biography is written by someone *about* another person (third person: he/she).",
+        "Facts can be proven true; opinions are personal beliefs.",
+        "Fiction is imaginary; non-fiction is real."
+      ],
+      "correct_answer": "Fiction is imaginary; non-fiction is real.",
+      "explanation": "Correct! \"Fiction is imaginary; non-fiction is real.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"fiction\" mean?",
+      "options": [
+        "Information that can be proven to be true.",
+        "A personal belief or judgment that cannot be proven.",
+        "Stories that are invented or made up.",
+        "Writing based on facts, real events, and real people."
+      ],
+      "correct_answer": "Stories that are invented or made up.",
+      "explanation": "\"fiction\" means: Stories that are invented or made up."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "topic": "Analyzing a Poem and Crafting Vivid Descriptions",
+  "title": "Uncovering Meaning in 'How to Cut a Pomegranate'",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"pomegranate\" mean?",
+      "options": [
+        "carefully and gently",
+        "a round fruit with a golden-orange skin and many sweet red seeds inside",
+        "an evergreen shrub with sweet-smelling flowers and leaves",
+        "full, shapely, or curvaceous; suggesting richness or luxury"
+      ],
+      "correct_answer": "a round fruit with a golden-orange skin and many sweet red seeds inside",
+      "explanation": "\"pomegranate\" means: a round fruit with a golden-orange skin and many sweet red seeds inside"
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"delicately\" mean?",
+      "options": [
+        "full, shapely, or curvaceous; suggesting richness or luxury",
+        "a round fruit with a golden-orange skin and many sweet red seeds inside",
+        "carefully and gently",
+        "an evergreen shrub with sweet-smelling flowers and leaves"
+      ],
+      "correct_answer": "carefully and gently",
+      "explanation": "\"delicately\" means: carefully and gently"
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Asking questions helps us ______ the different layers of a poem.",
+      "options": null,
+      "correct_answer": "understand",
+      "explanation": "The full sentence is: \"Asking questions helps us understand the different layers of a poem.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Poets use powerful imagery and specific words to create strong sensory experiences.",
+        "Descriptive words, like 'crimson' or 'lustrous', are more impactful than simple colour names.",
+        "Asking questions helps us understand the different layers of a poem.",
+        "The 'viewpoint' in a poem tells us who is experiencing or sharing the story."
+      ],
+      "correct_answer": "The 'viewpoint' in a poem tells us who is experiencing or sharing the story.",
+      "explanation": "Correct! \"The 'viewpoint' in a poem tells us who is experiencing or sharing the story.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"voluptuous\" mean?",
+      "options": [
+        "carefully and gently",
+        "an evergreen shrub with sweet-smelling flowers and leaves",
+        "full, shapely, or curvaceous; suggesting richness or luxury",
+        "a round fruit with a golden-orange skin and many sweet red seeds inside"
+      ],
+      "correct_answer": "full, shapely, or curvaceous; suggesting richness or luxury",
+      "explanation": "\"voluptuous\" means: full, shapely, or curvaceous; suggesting richness or luxury"
+    }
+  ]
+}

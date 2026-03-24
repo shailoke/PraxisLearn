@@ -1,0 +1,61 @@
+{
+  "topic": "Arguments",
+  "title": "Writing a Balanced Argument",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"Balanced argument\" mean?",
+      "options": [
+        "An essay or discussion that presents both sides of an issue fairly and equally.",
+        "Words or groups of words that describe verbs, adjectives, or other adverbs, often used to connect ideas or show relationships between them (e.g., 'In contrast', 'However').",
+        "A question asked to make a point, not to get an answer (e.g., 'Do you really want to miss out?').",
+        "Serious and proper language, suitable for academic writing or important discussions, without slang or contractions."
+      ],
+      "correct_answer": "An essay or discussion that presents both sides of an issue fairly and equally.",
+      "explanation": "\"Balanced argument\" means: An essay or discussion that presents both sides of an issue fairly and equally."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"Rhetorical question\" mean?",
+      "options": [
+        "A question asked to make a point, not to get an answer (e.g., 'Do you really want to miss out?').",
+        "An essay or discussion that presents both sides of an issue fairly and equally.",
+        "Words or groups of words that describe verbs, adjectives, or other adverbs, often used to connect ideas or show relationships between them (e.g., 'In contrast', 'However').",
+        "Serious and proper language, suitable for academic writing or important discussions, without slang or contractions."
+      ],
+      "correct_answer": "A question asked to make a point, not to get an answer (e.g., 'Do you really want to miss out?').",
+      "explanation": "\"Rhetorical question\" means: A question asked to make a point, not to get an answer (e.g., 'Do you really want to miss out?')."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: A balanced argument presents both ______ of a topic fairly.",
+      "options": null,
+      "correct_answer": "sides",
+      "explanation": "The full sentence is: \"A balanced argument presents both sides of a topic fairly.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Employ formal language and passive voice for a more authoritative tone.",
+        "A balanced argument presents both sides of a topic fairly.",
+        "Use rhetorical questions and signposting language to guide your reader.",
+        "It requires a clear introduction, supporting arguments with evidence, and a strong conclusion."
+      ],
+      "correct_answer": "It requires a clear introduction, supporting arguments with evidence, and a strong conclusion.",
+      "explanation": "Correct! \"It requires a clear introduction, supporting arguments with evidence, and a strong conclusion.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"Adverbs and adverbial phrases\" mean?",
+      "options": [
+        "Serious and proper language, suitable for academic writing or important discussions, without slang or contractions.",
+        "An essay or discussion that presents both sides of an issue fairly and equally.",
+        "Words or groups of words that describe verbs, adjectives, or other adverbs, often used to connect ideas or show relationships between them (e.g., 'In contrast', 'However').",
+        "A question asked to make a point, not to get an answer (e.g., 'Do you really want to miss out?')."
+      ],
+      "correct_answer": "Words or groups of words that describe verbs, adjectives, or other adverbs, often used to connect ideas or show relationships between them (e.g., 'In contrast', 'However').",
+      "explanation": "\"Adverbs and adverbial phrases\" means: Words or groups of words that describe verbs, adjectives, or other adverbs, often used to connect ideas or show relationships between them (e.g., 'In contrast', 'However')."
+    }
+  ]
+}

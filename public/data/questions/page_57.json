@@ -1,0 +1,61 @@
+{
+  "topic": "Analyzing a Story Extract",
+  "title": "Story Time: An Adventure in Tibet",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"fiction\" mean?",
+      "options": [
+        "Fields where barley, a type of grain, is grown.",
+        "A story that is made up and not based on real events.",
+        "A small part or section taken from a larger text, like a book.",
+        "Covered with small stones and pebbles."
+      ],
+      "correct_answer": "A story that is made up and not based on real events.",
+      "explanation": "\"fiction\" means: A story that is made up and not based on real events."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"extract\" mean?",
+      "options": [
+        "Fields where barley, a type of grain, is grown.",
+        "A small part or section taken from a larger text, like a book.",
+        "A story that is made up and not based on real events.",
+        "Covered with small stones and pebbles."
+      ],
+      "correct_answer": "A small part or section taken from a larger text, like a book.",
+      "explanation": "\"extract\" means: A small part or section taken from a larger text, like a book."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Stories use descriptive language to ______ vivid pictures in your mind.",
+      "options": null,
+      "correct_answer": "create",
+      "explanation": "The full sentence is: \"Stories use descriptive language to create vivid pictures in your mind.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Setting details help you understand where and when a story takes place.",
+        "Stories use descriptive language to create vivid pictures in your mind.",
+        "Characters in fiction often have strong feelings and reactions.",
+        "An exciting beginning can make readers want to know more."
+      ],
+      "correct_answer": "Characters in fiction often have strong feelings and reactions.",
+      "explanation": "Correct! \"Characters in fiction often have strong feelings and reactions.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"gravelly\" mean?",
+      "options": [
+        "A story that is made up and not based on real events.",
+        "Covered with small stones and pebbles.",
+        "Fields where barley, a type of grain, is grown.",
+        "A small part or section taken from a larger text, like a book."
+      ],
+      "correct_answer": "Covered with small stones and pebbles.",
+      "explanation": "\"gravelly\" means: Covered with small stones and pebbles."
+    }
+  ]
+}

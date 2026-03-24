@@ -1,0 +1,61 @@
+{
+  "topic": "Analyzing a Science Fiction Extract and Building Vocabulary",
+  "title": "Reading a Science Fiction Adventure and Discovering New Words",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"pitch\" mean?",
+      "options": [
+        "Very dark, completely black (like tar).",
+        "A specific radio signal or wave (like a radio station's number).",
+        "Very sharp or sensitive (e.g., acute hearing means very good hearing).",
+        "A specific radio signal or pathway for communication."
+      ],
+      "correct_answer": "Very dark, completely black (like tar).",
+      "explanation": "\"pitch\" means: Very dark, completely black (like tar)."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"acute\" mean?",
+      "options": [
+        "Very sharp or sensitive (e.g., acute hearing means very good hearing).",
+        "A specific radio signal or wave (like a radio station's number).",
+        "A specific radio signal or pathway for communication.",
+        "Very dark, completely black (like tar)."
+      ],
+      "correct_answer": "Very sharp or sensitive (e.g., acute hearing means very good hearing).",
+      "explanation": "\"acute\" means: Very sharp or sensitive (e.g., acute hearing means very good hearing)."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Science fiction stories use imaginative ______ to describe futuristic settings and actions.",
+      "options": null,
+      "correct_answer": "language",
+      "explanation": "The full sentence is: \"Science fiction stories use imaginative language to describe futuristic settings and actions.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Strong descriptive words help create a vivid and engaging story.",
+        "Highlighted words are important vocabulary that enhance understanding.",
+        "Science fiction stories use imaginative language to describe futuristic settings and actions.",
+        "Adding new words to a spelling log and discussing them improves vocabulary and writing skills."
+      ],
+      "correct_answer": "Strong descriptive words help create a vivid and engaging story.",
+      "explanation": "Correct! \"Strong descriptive words help create a vivid and engaging story.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"frequency\" mean?",
+      "options": [
+        "A specific radio signal or pathway for communication.",
+        "A specific radio signal or wave (like a radio station's number).",
+        "Very sharp or sensitive (e.g., acute hearing means very good hearing).",
+        "Very dark, completely black (like tar)."
+      ],
+      "correct_answer": "A specific radio signal or wave (like a radio station's number).",
+      "explanation": "\"frequency\" means: A specific radio signal or wave (like a radio station's number)."
+    }
+  ]
+}

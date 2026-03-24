@@ -1,0 +1,61 @@
+{
+  "topic": "Science Fiction Stories",
+  "title": "Exploring Science Fiction and Describing Actions",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"verb\" mean?",
+      "options": [
+        "An action word.",
+        "Stories about future or imaginary science and technology.",
+        "Words that tell you how much or how many of something there is.",
+        "Words that add extra information about verbs, like when or how something is done."
+      ],
+      "correct_answer": "An action word.",
+      "explanation": "\"verb\" means: An action word."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"adverbial phrases\" mean?",
+      "options": [
+        "An action word.",
+        "Words that tell you how much or how many of something there is.",
+        "Stories about future or imaginary science and technology.",
+        "Words that add extra information about verbs, like when or how something is done."
+      ],
+      "correct_answer": "Words that add extra information about verbs, like when or how something is done.",
+      "explanation": "\"adverbial phrases\" means: Words that add extra information about verbs, like when or how something is done."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Adverbial phrases add ______ to actions.",
+      "options": null,
+      "correct_answer": "detail",
+      "explanation": "The full sentence is: \"Adverbial phrases add detail to actions.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Science fiction explores future or advanced technology.",
+        "Quantifiers help describe amounts of things.",
+        "Use 'fewer' for countable nouns and 'less' for uncountable nouns.",
+        "Adverbial phrases add detail to actions."
+      ],
+      "correct_answer": "Science fiction explores future or advanced technology.",
+      "explanation": "Correct! \"Science fiction explores future or advanced technology.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"science fiction\" mean?",
+      "options": [
+        "An action word.",
+        "Stories about future or imaginary science and technology.",
+        "Words that add extra information about verbs, like when or how something is done.",
+        "Words that tell you how much or how many of something there is."
+      ],
+      "correct_answer": "Stories about future or imaginary science and technology.",
+      "explanation": "\"science fiction\" means: Stories about future or imaginary science and technology."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "topic": "Narrative Techniques",
+  "title": "Telling a Story: Narration, Direct Speech, and Reported Speech",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"explicit\" mean?",
+      "options": [
+        "The exact words a character says, shown inside speech marks.",
+        "Information that is suggested or hinted at, requiring the reader to infer.",
+        "The parts of a story where the author tells what is happening.",
+        "Information that is clearly and directly stated."
+      ],
+      "correct_answer": "Information that is clearly and directly stated.",
+      "explanation": "\"explicit\" means: Information that is clearly and directly stated."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"implicit\" mean?",
+      "options": [
+        "Information that is suggested or hinted at, requiring the reader to infer.",
+        "The exact words a character says, shown inside speech marks.",
+        "The parts of a story where the author tells what is happening.",
+        "Information that is clearly and directly stated."
+      ],
+      "correct_answer": "Information that is suggested or hinted at, requiring the reader to infer.",
+      "explanation": "\"implicit\" means: Information that is suggested or hinted at, requiring the reader to infer."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Explicit information is ______ directly.",
+      "options": null,
+      "correct_answer": "stated",
+      "explanation": "The full sentence is: \"Explicit information is stated directly.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Start a new line for each new speaker in dialogue.",
+        "Writers mix narration, direct speech, and reported speech for smooth storytelling.",
+        "Explicit information is stated directly.",
+        "Implicit information is inferred by the reader."
+      ],
+      "correct_answer": "Implicit information is inferred by the reader.",
+      "explanation": "Correct! \"Implicit information is inferred by the reader.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"narration\" mean?",
+      "options": [
+        "The parts of a story where the author tells what is happening.",
+        "Information that is suggested or hinted at, requiring the reader to infer.",
+        "The exact words a character says, shown inside speech marks.",
+        "Information that is clearly and directly stated."
+      ],
+      "correct_answer": "The parts of a story where the author tells what is happening.",
+      "explanation": "\"narration\" means: The parts of a story where the author tells what is happening."
+    }
+  ]
+}

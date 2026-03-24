@@ -1,0 +1,49 @@
+{
+  "topic": "Crafting Strong Introductions and Planning Arguments",
+  "title": "Making Your Arguments Start Smart",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"rhetorical question\" mean?",
+      "options": [
+        "None of the above",
+        "None of the above",
+        "a question asked to make a point or make someone think, rather than to get an answer",
+        "None of the above"
+      ],
+      "correct_answer": "a question asked to make a point or make someone think, rather than to get an answer",
+      "explanation": "\"rhetorical question\" means: a question asked to make a point or make someone think, rather than to get an answer"
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Use rhetorical questions to make your ______ interesting and thought-provoking.",
+      "options": null,
+      "correct_answer": "introduction",
+      "explanation": "The full sentence is: \"Use rhetorical questions to make your introduction interesting and thought-provoking.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Plan your arguments by listing points 'for' and 'against' your topic.",
+        "Use rhetorical questions to make your introduction interesting and thought-provoking.",
+        "Ensure your introduction clearly states what the argument will cover.",
+        "It has no special meaning in writing."
+      ],
+      "correct_answer": "Plan your arguments by listing points 'for' and 'against' your topic.",
+      "explanation": "Correct! \"Plan your arguments by listing points 'for' and 'against' your topic.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Use rhetorical questions to make your introduction interesting and thought-provoking.",
+        "Plan your arguments by listing points 'for' and 'against' your topic.",
+        "Ensure your introduction clearly states what the argument will cover.",
+        "It has no special meaning in writing."
+      ],
+      "correct_answer": "Ensure your introduction clearly states what the argument will cover.",
+      "explanation": "Correct! \"Ensure your introduction clearly states what the argument will cover.\" is one of the key things to remember."
+    }
+  ]
+}

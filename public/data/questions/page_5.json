@@ -1,0 +1,61 @@
+{
+  "topic": "Understanding Textbook Features",
+  "title": "How to Be a Textbook Explorer: Your Guide to This Book!",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"Theme\" mean?",
+      "options": [
+        "Online materials, such as audio files or videos, that accompany the textbook.",
+        "The main subject or idea in a piece of writing or a lesson.",
+        "Abilities or proficiencies that you develop, like reading, writing, or speaking well.",
+        "Things shown as a typical instance or model to illustrate a point."
+      ],
+      "correct_answer": "The main subject or idea in a piece of writing or a lesson.",
+      "explanation": "\"Theme\" means: The main subject or idea in a piece of writing or a lesson."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"Skills\" mean?",
+      "options": [
+        "The main subject or idea in a piece of writing or a lesson.",
+        "Abilities or proficiencies that you develop, like reading, writing, or speaking well.",
+        "Online materials, such as audio files or videos, that accompany the textbook.",
+        "Things shown as a typical instance or model to illustrate a point."
+      ],
+      "correct_answer": "Abilities or proficiencies that you develop, like reading, writing, or speaking well.",
+      "explanation": "\"Skills\" means: Abilities or proficiencies that you develop, like reading, writing, or speaking well."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Each page has different sections to help you ______ and learn effectively.",
+      "options": null,
+      "correct_answer": "understand",
+      "explanation": "The full sentence is: \"Each page has different sections to help you understand and learn effectively.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Identify the theme to grasp the main topic of a section.",
+        "Pay attention to new skills, examples, and reminders of previous learning.",
+        "Each page has different sections to help you understand and learn effectively.",
+        "Utilize 'interesting facts' and 'challenge tasks' for extended learning."
+      ],
+      "correct_answer": "Identify the theme to grasp the main topic of a section.",
+      "explanation": "Correct! \"Identify the theme to grasp the main topic of a section.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"Examples\" mean?",
+      "options": [
+        "Things shown as a typical instance or model to illustrate a point.",
+        "The main subject or idea in a piece of writing or a lesson.",
+        "Abilities or proficiencies that you develop, like reading, writing, or speaking well.",
+        "Online materials, such as audio files or videos, that accompany the textbook."
+      ],
+      "correct_answer": "Things shown as a typical instance or model to illustrate a point.",
+      "explanation": "\"Examples\" means: Things shown as a typical instance or model to illustrate a point."
+    }
+  ]
+}

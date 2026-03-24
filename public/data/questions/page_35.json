@@ -1,0 +1,61 @@
+{
+  "topic": "Writing Your Own Autobiography",
+  "title": "Your Story, Your Way: Writing an Autobiography",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"tone\" mean?",
+      "options": [
+        "the arrangement of events in the order in which they happened.",
+        "a very strong feeling of enthusiasm or love for something.",
+        "the qualities that make a person unique, like being kind, brave, or funny.",
+        "the general attitude or feeling of a piece of writing, like friendly, serious, or excited."
+      ],
+      "correct_answer": "the general attitude or feeling of a piece of writing, like friendly, serious, or excited.",
+      "explanation": "\"tone\" means: the general attitude or feeling of a piece of writing, like friendly, serious, or excited."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"personality\" mean?",
+      "options": [
+        "the general attitude or feeling of a piece of writing, like friendly, serious, or excited.",
+        "the qualities that make a person unique, like being kind, brave, or funny.",
+        "the arrangement of events in the order in which they happened.",
+        "a very strong feeling of enthusiasm or love for something."
+      ],
+      "correct_answer": "the qualities that make a person unique, like being kind, brave, or funny.",
+      "explanation": "\"personality\" means: the qualities that make a person unique, like being kind, brave, or funny."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: An autobiography is your personal life story, told from your ______ of view, full of your unique tone and personality.",
+      "options": null,
+      "correct_answer": "point",
+      "explanation": "The full sentence is: \"An autobiography is your personal life story, told from your point of view, full of your unique tone and personality.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Use a timeline to help organize your autobiography into clear, chronological sections.",
+        "Autobiographies often contain more personal feelings, thoughts, and vivid details than biographies.",
+        "An autobiography is your personal life story, told from your point of view, full of your unique tone and personality.",
+        "Starting your autobiography with a passion or an exciting event can make it engaging."
+      ],
+      "correct_answer": "Autobiographies often contain more personal feelings, thoughts, and vivid details than biographies.",
+      "explanation": "Correct! \"Autobiographies often contain more personal feelings, thoughts, and vivid details than biographies.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"passion\" mean?",
+      "options": [
+        "a very strong feeling of enthusiasm or love for something.",
+        "the general attitude or feeling of a piece of writing, like friendly, serious, or excited.",
+        "the qualities that make a person unique, like being kind, brave, or funny.",
+        "the arrangement of events in the order in which they happened."
+      ],
+      "correct_answer": "a very strong feeling of enthusiasm or love for something.",
+      "explanation": "\"passion\" means: a very strong feeling of enthusiasm or love for something."
+    }
+  ]
+}

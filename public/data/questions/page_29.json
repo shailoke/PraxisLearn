@@ -1,0 +1,61 @@
+{
+  "topic": "Drafting and Redrafting Life Stories",
+  "title": "Creating Our Own Biographies and Autobiographies",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"interview\" mean?",
+      "options": [
+        "To ask questions of a person to get information from them.",
+        "To revise and rewrite a draft, making improvements.",
+        "The way in which something is built, arranged, or organized.",
+        "A first version of a piece of writing, not yet final."
+      ],
+      "correct_answer": "To ask questions of a person to get information from them.",
+      "explanation": "\"interview\" means: To ask questions of a person to get information from them."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"structure\" mean?",
+      "options": [
+        "The way in which something is built, arranged, or organized.",
+        "A first version of a piece of writing, not yet final.",
+        "To ask questions of a person to get information from them.",
+        "To revise and rewrite a draft, making improvements."
+      ],
+      "correct_answer": "The way in which something is built, arranged, or organized.",
+      "explanation": "\"structure\" means: The way in which something is built, arranged, or organized."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Practice interviewing skills to ______ biographical information.",
+      "options": null,
+      "correct_answer": "gather",
+      "explanation": "The full sentence is: \"Practice interviewing skills to gather biographical information.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Learn to organize information logically, starting with key details.",
+        "Understand and apply the difference between first-person (autobiography) and third-person (biography) narration.",
+        "Draft and redraft a biography, focusing on standard English, correct spelling, and punctuation (semi-colons, colons, direct speech).",
+        "Practice interviewing skills to gather biographical information."
+      ],
+      "correct_answer": "Learn to organize information logically, starting with key details.",
+      "explanation": "Correct! \"Learn to organize information logically, starting with key details.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"draft\" mean?",
+      "options": [
+        "To ask questions of a person to get information from them.",
+        "To revise and rewrite a draft, making improvements.",
+        "A first version of a piece of writing, not yet final.",
+        "The way in which something is built, arranged, or organized."
+      ],
+      "correct_answer": "A first version of a piece of writing, not yet final.",
+      "explanation": "\"draft\" means: A first version of a piece of writing, not yet final."
+    }
+  ]
+}

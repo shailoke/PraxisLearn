@@ -1,0 +1,61 @@
+{
+  "topic": "Inferring Personality and Writing Development",
+  "title": "Discovering Character and Crafting Your Own Autobiography",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"infer\" mean?",
+      "options": [
+        "To figure something out based on clues, rather than being told directly.",
+        "Showing great interest or excitement.",
+        "Good at noticing things.",
+        "Able to wait calmly without getting annoyed."
+      ],
+      "correct_answer": "To figure something out based on clues, rather than being told directly.",
+      "explanation": "\"infer\" means: To figure something out based on clues, rather than being told directly."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"observant\" mean?",
+      "options": [
+        "To figure something out based on clues, rather than being told directly.",
+        "Good at noticing things.",
+        "Showing great interest or excitement.",
+        "Able to wait calmly without getting annoyed."
+      ],
+      "correct_answer": "Good at noticing things.",
+      "explanation": "\"observant\" means: Good at noticing things."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: You can infer a writer's personality from their ______ by analyzing their words and actions.",
+      "options": null,
+      "correct_answer": "autobiography",
+      "explanation": "The full sentence is: \"You can infer a writer's personality from their autobiography by analyzing their words and actions.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "You can infer a writer's personality from their autobiography by analyzing their words and actions.",
+        "A good autobiography chapter includes facts, opinions, precise language, and a reflective comment.",
+        "Improve your writing by using more details and stronger, more precise verbs.",
+        "Always use quotations as evidence to support your opinions about a text."
+      ],
+      "correct_answer": "Always use quotations as evidence to support your opinions about a text.",
+      "explanation": "Correct! \"Always use quotations as evidence to support your opinions about a text.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"patient\" mean?",
+      "options": [
+        "Able to wait calmly without getting annoyed.",
+        "Showing great interest or excitement.",
+        "Good at noticing things.",
+        "To figure something out based on clues, rather than being told directly."
+      ],
+      "correct_answer": "Able to wait calmly without getting annoyed.",
+      "explanation": "\"patient\" means: Able to wait calmly without getting annoyed."
+    }
+  ]
+}

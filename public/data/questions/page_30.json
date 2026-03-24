@@ -1,0 +1,61 @@
+{
+  "topic": "Adding Extra Information to Sentences",
+  "title": "Making Sentences Richer with Extra Details",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"nouns\" mean?",
+      "options": [
+        "Specific names of people, places, or things, always capitalized (e.g., Sarah, Paris, Christmas).",
+        "Words like 'who', 'which', 'where', 'that' used to introduce extra information about a noun.",
+        "Words that replace nouns to avoid repetition (e.g., he, she, it, they, we).",
+        "Words that name a person, place, thing, or idea (e.g., table, London, happiness)."
+      ],
+      "correct_answer": "Words that name a person, place, thing, or idea (e.g., table, London, happiness).",
+      "explanation": "\"nouns\" means: Words that name a person, place, thing, or idea (e.g., table, London, happiness)."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"proper nouns\" mean?",
+      "options": [
+        "Words like 'who', 'which', 'where', 'that' used to introduce extra information about a noun.",
+        "Words that name a person, place, thing, or idea (e.g., table, London, happiness).",
+        "Words that replace nouns to avoid repetition (e.g., he, she, it, they, we).",
+        "Specific names of people, places, or things, always capitalized (e.g., Sarah, Paris, Christmas)."
+      ],
+      "correct_answer": "Specific names of people, places, or things, always capitalized (e.g., Sarah, Paris, Christmas).",
+      "explanation": "\"proper nouns\" means: Specific names of people, places, or things, always capitalized (e.g., Sarah, Paris, Christmas)."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Review the use of nouns, ______ nouns, and pronouns.",
+      "options": null,
+      "correct_answer": "proper",
+      "explanation": "The full sentence is: \"Review the use of nouns, proper nouns, and pronouns.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Use relative pronouns (who, whom, whose, that, which, where) to add more detail about nouns or pronouns.",
+        "Correctly punctuate relative clauses using commas.",
+        "Review the use of nouns, proper nouns, and pronouns.",
+        "Use brackets for parenthesis to insert extra information or comments that are not essential to the sentence's main meaning."
+      ],
+      "correct_answer": "Use relative pronouns (who, whom, whose, that, which, where) to add more detail about nouns or pronouns.",
+      "explanation": "Correct! \"Use relative pronouns (who, whom, whose, that, which, where) to add more detail about nouns or pronouns.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"pronouns\" mean?",
+      "options": [
+        "Words like 'who', 'which', 'where', 'that' used to introduce extra information about a noun.",
+        "Words that name a person, place, thing, or idea (e.g., table, London, happiness).",
+        "Words that replace nouns to avoid repetition (e.g., he, she, it, they, we).",
+        "Specific names of people, places, or things, always capitalized (e.g., Sarah, Paris, Christmas)."
+      ],
+      "correct_answer": "Words that replace nouns to avoid repetition (e.g., he, she, it, they, we).",
+      "explanation": "\"pronouns\" means: Words that replace nouns to avoid repetition (e.g., he, she, it, they, we)."
+    }
+  ]
+}

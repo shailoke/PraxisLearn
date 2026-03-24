@@ -1,0 +1,61 @@
+{
+  "topic": "Introduction to Figurative Language: Personification, Rhyme, and Alliteration",
+  "title": "What is Figurative Language? (Part 1)",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"figurative language\" mean?",
+      "options": [
+        "giving human qualities or actions to animals or objects (e.g., 'the grumpy sun').",
+        "using words in a creative way to mean something other than their literal meaning, to make writing more vivid.",
+        "words that have the same ending sound (e.g., 'bed' and 'head').",
+        "when words close together start with the same sound (e.g., 'happy house')."
+      ],
+      "correct_answer": "using words in a creative way to mean something other than their literal meaning, to make writing more vivid.",
+      "explanation": "\"figurative language\" means: using words in a creative way to mean something other than their literal meaning, to make writing more vivid."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"personification\" mean?",
+      "options": [
+        "using words in a creative way to mean something other than their literal meaning, to make writing more vivid.",
+        "when words close together start with the same sound (e.g., 'happy house').",
+        "giving human qualities or actions to animals or objects (e.g., 'the grumpy sun').",
+        "words that have the same ending sound (e.g., 'bed' and 'head')."
+      ],
+      "correct_answer": "giving human qualities or actions to animals or objects (e.g., 'the grumpy sun').",
+      "explanation": "\"personification\" means: giving human qualities or actions to animals or objects (e.g., 'the grumpy sun')."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Figurative language ______ poetry engaging.",
+      "options": null,
+      "correct_answer": "makes",
+      "explanation": "The full sentence is: \"Figurative language makes poetry engaging.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Analyzing how poets use language helps us understand their message.",
+        "Figurative language makes poetry engaging.",
+        "Rhyme creates musicality, and alliteration adds a pleasing sound effect.",
+        "Personification gives human traits to non-human things."
+      ],
+      "correct_answer": "Personification gives human traits to non-human things.",
+      "explanation": "Correct! \"Personification gives human traits to non-human things.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"rhyme\" mean?",
+      "options": [
+        "when words close together start with the same sound (e.g., 'happy house').",
+        "words that have the same ending sound (e.g., 'bed' and 'head').",
+        "using words in a creative way to mean something other than their literal meaning, to make writing more vivid.",
+        "giving human qualities or actions to animals or objects (e.g., 'the grumpy sun')."
+      ],
+      "correct_answer": "words that have the same ending sound (e.g., 'bed' and 'head').",
+      "explanation": "\"rhyme\" means: words that have the same ending sound (e.g., 'bed' and 'head')."
+    }
+  ]
+}

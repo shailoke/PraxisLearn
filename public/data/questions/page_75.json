@@ -1,0 +1,61 @@
+{
+  "topic": "Science fiction stories",
+  "title": "Using Parenthesis to Enhance Your Story",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"recollection\" mean?",
+      "options": [
+        "fictional technology or devices in this story",
+        "yellow flowers, often with a trumpet-shaped central part",
+        "a specific type of robot mentioned in the story",
+        "a memory or the act of remembering something"
+      ],
+      "correct_answer": "a memory or the act of remembering something",
+      "explanation": "\"recollection\" means: a memory or the act of remembering something"
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"daffodils\" mean?",
+      "options": [
+        "yellow flowers, often with a trumpet-shaped central part",
+        "a specific type of robot mentioned in the story",
+        "fictional technology or devices in this story",
+        "a memory or the act of remembering something"
+      ],
+      "correct_answer": "yellow flowers, often with a trumpet-shaped central part",
+      "explanation": "\"daffodils\" means: yellow flowers, often with a trumpet-shaped central part"
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Parenthesis is a way to add extra, ______ information into a sentence.",
+      "options": null,
+      "correct_answer": "nonessential",
+      "explanation": "The full sentence is: \"Parenthesis is a way to add extra, non-essential information into a sentence.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Dashes are one type of punctuation used for parenthesis.",
+        "Using parenthesis can make your writing more detailed and interesting.",
+        "It can also influence the tone of a character's voice in a story.",
+        "Parenthesis is a way to add extra, non-essential information into a sentence."
+      ],
+      "correct_answer": "Dashes are one type of punctuation used for parenthesis.",
+      "explanation": "Correct! \"Dashes are one type of punctuation used for parenthesis.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"jinn / gobey\" mean?",
+      "options": [
+        "a memory or the act of remembering something",
+        "fictional technology or devices in this story",
+        "yellow flowers, often with a trumpet-shaped central part",
+        "a specific type of robot mentioned in the story"
+      ],
+      "correct_answer": "fictional technology or devices in this story",
+      "explanation": "\"jinn / gobey\" means: fictional technology or devices in this story"
+    }
+  ]
+}

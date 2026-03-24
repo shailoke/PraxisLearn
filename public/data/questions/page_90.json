@@ -1,0 +1,61 @@
+{
+  "topic": "Practising Formal Language and Noun Endings (-ance/-ence)",
+  "title": "Making Sentences More Formal: Practice with -ance and -ence",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"magnificence\" mean?",
+      "options": [
+        "the quality or state of being urgent; a need for immediate action",
+        "the ability to learn and apply knowledge and skills",
+        "the quality of being magnificent; grandeur",
+        "the way that someone or something looks"
+      ],
+      "correct_answer": "the quality of being magnificent; grandeur",
+      "explanation": "\"magnificence\" means: the quality of being magnificent; grandeur"
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"appearance\" mean?",
+      "options": [
+        "the ability to learn and apply knowledge and skills",
+        "the quality of being magnificent; grandeur",
+        "the way that someone or something looks",
+        "the quality or state of being urgent; a need for immediate action"
+      ],
+      "correct_answer": "the way that someone or something looks",
+      "explanation": "\"appearance\" means: the way that someone or something looks"
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Practice converting adjectives to ______ using '-ance' and '-ence' for more formal writing.",
+      "options": null,
+      "correct_answer": "nouns",
+      "explanation": "The full sentence is: \"Practice converting adjectives to nouns using '-ance' and '-ence' for more formal writing.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Practice converting adjectives to nouns using '-ance' and '-ence' for more formal writing.",
+        "Use spelling strategies like 'look, cover, write, check' to master these challenging words.",
+        "It has no special meaning in writing.",
+        "Identify words with '-ance' and '-ence' endings in context."
+      ],
+      "correct_answer": "Identify words with '-ance' and '-ence' endings in context.",
+      "explanation": "Correct! \"Identify words with '-ance' and '-ence' endings in context.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"urgency\" mean?",
+      "options": [
+        "the quality or state of being urgent; a need for immediate action",
+        "the way that someone or something looks",
+        "the ability to learn and apply knowledge and skills",
+        "the quality of being magnificent; grandeur"
+      ],
+      "correct_answer": "the quality or state of being urgent; a need for immediate action",
+      "explanation": "\"urgency\" means: the quality or state of being urgent; a need for immediate action"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "topic": "Argument text structure and audience",
+  "title": "Crafting Your Argument: Structure, Types, and Talking to Your Audience",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"one-sided argument\" mean?",
+      "options": [
+        "an argument that only presents one point of view or side of an issue.",
+        "an argument that presents both the 'for' (pros) and 'against' (cons) points of view on a topic.",
+        "serious and official language, avoiding slang or overly casual words.",
+        "a way of writing that uses pronouns like 'he', 'she', 'it', or 'they', rather than 'I' or 'you'."
+      ],
+      "correct_answer": "an argument that only presents one point of view or side of an issue.",
+      "explanation": "\"one-sided argument\" means: an argument that only presents one point of view or side of an issue."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"balanced argument\" mean?",
+      "options": [
+        "an argument that presents both the 'for' (pros) and 'against' (cons) points of view on a topic.",
+        "serious and official language, avoiding slang or overly casual words.",
+        "an argument that only presents one point of view or side of an issue.",
+        "a way of writing that uses pronouns like 'he', 'she', 'it', or 'they', rather than 'I' or 'you'."
+      ],
+      "correct_answer": "an argument that presents both the 'for' (pros) and 'against' (cons) points of view on a topic.",
+      "explanation": "\"balanced argument\" means: an argument that presents both the 'for' (pros) and 'against' (cons) points of view on a topic."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Argument texts aim to inform and ______ with a clear point of view.",
+      "options": null,
+      "correct_answer": "persuade",
+      "explanation": "The full sentence is: \"Argument texts aim to inform and persuade with a clear point of view.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Use formal language, third-person perspective, and effective connectives.",
+        "A strong argument has a clear structure: title, introduction, body paragraphs, and conclusion.",
+        "Argument texts aim to inform and persuade with a clear point of view.",
+        "Arguments can be one-sided (one view) or balanced (for and against)."
+      ],
+      "correct_answer": "Arguments can be one-sided (one view) or balanced (for and against).",
+      "explanation": "Correct! \"Arguments can be one-sided (one view) or balanced (for and against).\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"third person\" mean?",
+      "options": [
+        "a way of writing that uses pronouns like 'he', 'she', 'it', or 'they', rather than 'I' or 'you'.",
+        "an argument that presents both the 'for' (pros) and 'against' (cons) points of view on a topic.",
+        "an argument that only presents one point of view or side of an issue.",
+        "serious and official language, avoiding slang or overly casual words."
+      ],
+      "correct_answer": "a way of writing that uses pronouns like 'he', 'she', 'it', or 'they', rather than 'I' or 'you'.",
+      "explanation": "\"third person\" means: a way of writing that uses pronouns like 'he', 'she', 'it', or 'they', rather than 'I' or 'you'."
+    }
+  ]
+}

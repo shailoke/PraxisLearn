@@ -1,0 +1,61 @@
+{
+  "topic": "Science fiction stories",
+  "title": "Exploring Rights, Society, and Persuasion",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"responsibility\" mean?",
+      "options": [
+        "the power to influence or direct people's behaviour or the course of events",
+        "the power or right to act, speak, or think as one wants without hindrance or restraint",
+        "the state or fact of having a duty to deal with something or of having control over someone",
+        "lack of justice or impartiality; bias"
+      ],
+      "correct_answer": "the state or fact of having a duty to deal with something or of having control over someone",
+      "explanation": "\"responsibility\" means: the state or fact of having a duty to deal with something or of having control over someone"
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"control\" mean?",
+      "options": [
+        "the power to influence or direct people's behaviour or the course of events",
+        "the state or fact of having a duty to deal with something or of having control over someone",
+        "lack of justice or impartiality; bias",
+        "the power or right to act, speak, or think as one wants without hindrance or restraint"
+      ],
+      "correct_answer": "the power to influence or direct people's behaviour or the course of events",
+      "explanation": "\"control\" means: the power to influence or direct people's behaviour or the course of events"
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Analyze and discuss story ______ like freedom and control.",
+      "options": null,
+      "correct_answer": "themes",
+      "explanation": "The full sentence is: \"Analyze and discuss story themes like freedom and control.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Practice public speaking skills (volume, pace, expression, gestures) to deliver persuasive speeches.",
+        "Develop critical thinking by designing rules for a fair society for children.",
+        "Understand the importance of the UN Convention on the Rights of the Child.",
+        "Analyze and discuss story themes like freedom and control."
+      ],
+      "correct_answer": "Understand the importance of the UN Convention on the Rights of the Child.",
+      "explanation": "Correct! \"Understand the importance of the UN Convention on the Rights of the Child.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"freedom\" mean?",
+      "options": [
+        "lack of justice or impartiality; bias",
+        "the state or fact of having a duty to deal with something or of having control over someone",
+        "the power or right to act, speak, or think as one wants without hindrance or restraint",
+        "the power to influence or direct people's behaviour or the course of events"
+      ],
+      "correct_answer": "the power or right to act, speak, or think as one wants without hindrance or restraint",
+      "explanation": "\"freedom\" means: the power or right to act, speak, or think as one wants without hindrance or restraint"
+    }
+  ]
+}

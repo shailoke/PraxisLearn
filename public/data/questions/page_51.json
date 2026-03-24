@@ -1,0 +1,61 @@
+{
+  "topic": "Developing Metaphors and Imperative Verbs",
+  "title": "Making Your Comparisons Shine",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"Imperative verbs\" mean?",
+      "options": [
+        "Specific and exact information that helps to explain or describe something clearly.",
+        "When words or phrases don't mean exactly what they say, but something more imaginative or symbolic.",
+        "A way to compare two different things by saying one *is* the other, to create a strong image or idea.",
+        "Verbs that give commands or instructions, like 'Run!' or 'Stop!'"
+      ],
+      "correct_answer": "Verbs that give commands or instructions, like 'Run!' or 'Stop!'",
+      "explanation": "\"Imperative verbs\" means: Verbs that give commands or instructions, like 'Run!' or 'Stop!'"
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"Metaphors\" mean?",
+      "options": [
+        "When words or phrases don't mean exactly what they say, but something more imaginative or symbolic.",
+        "Specific and exact information that helps to explain or describe something clearly.",
+        "A way to compare two different things by saying one *is* the other, to create a strong image or idea.",
+        "Verbs that give commands or instructions, like 'Run!' or 'Stop!'"
+      ],
+      "correct_answer": "A way to compare two different things by saying one *is* the other, to create a strong image or idea.",
+      "explanation": "\"Metaphors\" means: A way to compare two different things by saying one *is* the other, to create a strong image or idea."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Imperative verbs are used for ______ and instructions.",
+      "options": null,
+      "correct_answer": "commands",
+      "explanation": "The full sentence is: \"Imperative verbs are used for commands and instructions.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Imperative verbs are used for commands and instructions.",
+        "Adding precise details can make a simple metaphor much more powerful.",
+        "Metaphors compare two unlike things directly, without 'like' or 'as'.",
+        "Poems often use metaphors to create vivid images and express deep feelings."
+      ],
+      "correct_answer": "Metaphors compare two unlike things directly, without 'like' or 'as'.",
+      "explanation": "Correct! \"Metaphors compare two unlike things directly, without 'like' or 'as'.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"Non-literal meanings\" mean?",
+      "options": [
+        "When words or phrases don't mean exactly what they say, but something more imaginative or symbolic.",
+        "Specific and exact information that helps to explain or describe something clearly.",
+        "Verbs that give commands or instructions, like 'Run!' or 'Stop!'",
+        "A way to compare two different things by saying one *is* the other, to create a strong image or idea."
+      ],
+      "correct_answer": "When words or phrases don't mean exactly what they say, but something more imaginative or symbolic.",
+      "explanation": "\"Non-literal meanings\" means: When words or phrases don't mean exactly what they say, but something more imaginative or symbolic."
+    }
+  ]
+}

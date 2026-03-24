@@ -1,0 +1,61 @@
+{
+  "topic": "Haikus and Tankas",
+  "title": "Exploring Dragon Poems and Poetic Forms",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"lurking\" mean?",
+      "options": [
+        "English that follows all the usual grammar rules and forms complete sentences.",
+        "hiding and waiting for someone or something, often in a secret or sneaky way.",
+        "None of the above",
+        "None of the above"
+      ],
+      "correct_answer": "hiding and waiting for someone or something, often in a secret or sneaky way.",
+      "explanation": "\"lurking\" means: hiding and waiting for someone or something, often in a secret or sneaky way."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"Standard English\" mean?",
+      "options": [
+        "hiding and waiting for someone or something, often in a secret or sneaky way.",
+        "English that follows all the usual grammar rules and forms complete sentences.",
+        "None of the above",
+        "None of the above"
+      ],
+      "correct_answer": "English that follows all the usual grammar rules and forms complete sentences.",
+      "explanation": "\"Standard English\" means: English that follows all the usual grammar rules and forms complete sentences."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Poems can create vivid impressions of ______ (like dragons) using just a few words.",
+      "options": null,
+      "correct_answer": "characters",
+      "explanation": "The full sentence is: \"Poems can create vivid impressions of characters (like dragons) using just a few words.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Haikus are very short poems, often focusing on a single image.",
+        "Tankas are a bit longer than haikus and can tell more of a story.",
+        "Poems can create vivid impressions of characters (like dragons) using just a few words.",
+        "Standard English means using proper grammar and complete sentences, even when expanding poetry."
+      ],
+      "correct_answer": "Haikus are very short poems, often focusing on a single image.",
+      "explanation": "Correct! \"Haikus are very short poems, often focusing on a single image.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Standard English means using proper grammar and complete sentences, even when expanding poetry.",
+        "Haikus are very short poems, often focusing on a single image.",
+        "Tankas are a bit longer than haikus and can tell more of a story.",
+        "Poems can create vivid impressions of characters (like dragons) using just a few words."
+      ],
+      "correct_answer": "Tankas are a bit longer than haikus and can tell more of a story.",
+      "explanation": "Correct! \"Tankas are a bit longer than haikus and can tell more of a story.\" is one of the key things to remember."
+    }
+  ]
+}

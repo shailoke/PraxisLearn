@@ -1,0 +1,61 @@
+{
+  "topic": "Introductions and conclusions for arguments",
+  "title": "Making a Strong First and Last Impression: Introductions and Conclusions",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"balanced argument\" mean?",
+      "options": [
+        "questions asked to make a point or create a thought, rather than to get a direct answer.",
+        "the opening part of an argument that sets the scene for the topic.",
+        "an argument that presents more than one point of view, discussing both 'for' and 'against' sides.",
+        "the final part of an argument that summarizes the main points and gives a closing statement."
+      ],
+      "correct_answer": "an argument that presents more than one point of view, discussing both 'for' and 'against' sides.",
+      "explanation": "\"balanced argument\" means: an argument that presents more than one point of view, discussing both 'for' and 'against' sides."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"rhetorical questions\" mean?",
+      "options": [
+        "the opening part of an argument that sets the scene for the topic.",
+        "questions asked to make a point or create a thought, rather than to get a direct answer.",
+        "an argument that presents more than one point of view, discussing both 'for' and 'against' sides.",
+        "the final part of an argument that summarizes the main points and gives a closing statement."
+      ],
+      "correct_answer": "questions asked to make a point or create a thought, rather than to get a direct answer.",
+      "explanation": "\"rhetorical questions\" means: questions asked to make a point or create a thought, rather than to get a direct answer."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Introductions and conclusions frame your ______ making it impactful.",
+      "options": null,
+      "correct_answer": "argument",
+      "explanation": "The full sentence is: \"Introductions and conclusions frame your argument, making it impactful.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "A good introduction sets the scene and introduces the topic fairly.",
+        "Introductions and conclusions frame your argument, making it impactful.",
+        "A conclusion summarizes both sides of a balanced argument and provides a final thought.",
+        "Rhetorical questions engage the reader and make them think."
+      ],
+      "correct_answer": "A good introduction sets the scene and introduces the topic fairly.",
+      "explanation": "Correct! \"A good introduction sets the scene and introduces the topic fairly.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"introduction\" mean?",
+      "options": [
+        "the opening part of an argument that sets the scene for the topic.",
+        "questions asked to make a point or create a thought, rather than to get a direct answer.",
+        "the final part of an argument that summarizes the main points and gives a closing statement.",
+        "an argument that presents more than one point of view, discussing both 'for' and 'against' sides."
+      ],
+      "correct_answer": "the opening part of an argument that sets the scene for the topic.",
+      "explanation": "\"introduction\" means: the opening part of an argument that sets the scene for the topic."
+    }
+  ]
+}

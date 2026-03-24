@@ -1,0 +1,61 @@
+{
+  "topic": "What is an argument text? / Connectives",
+  "title": "Making Your Points Clear with Connectives in Argument Texts",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"rocketed\" mean?",
+      "options": [
+        "increased very quickly and sharply, like a rocket flying upwards.",
+        "tiny pieces or bits of something, often used for very small bits of dust or pollution.",
+        "a breathing condition that makes it hard to breathe sometimes, causing wheezing and coughing.",
+        "the scientific term for burning something, like fuel in an engine."
+      ],
+      "correct_answer": "increased very quickly and sharply, like a rocket flying upwards.",
+      "explanation": "\"rocketed\" means: increased very quickly and sharply, like a rocket flying upwards."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"combustion\" mean?",
+      "options": [
+        "increased very quickly and sharply, like a rocket flying upwards.",
+        "the scientific term for burning something, like fuel in an engine.",
+        "a breathing condition that makes it hard to breathe sometimes, causing wheezing and coughing.",
+        "tiny pieces or bits of something, often used for very small bits of dust or pollution."
+      ],
+      "correct_answer": "the scientific term for burning something, like fuel in an engine.",
+      "explanation": "\"combustion\" means: the scientific term for burning something, like fuel in an engine."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Argument texts present a ______ of view to persuade the reader.",
+      "options": null,
+      "correct_answer": "point",
+      "explanation": "The full sentence is: \"Argument texts present a point of view to persuade the reader.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Connectives are vital for organizing and linking ideas in an argument.",
+        "Argument texts present a point of view to persuade the reader.",
+        "Different connectives serve different purposes: sequencing, showing connections, or introducing contrasts.",
+        "Arguments often involve discussing problems and potential solutions, supported by reasons and evidence."
+      ],
+      "correct_answer": "Connectives are vital for organizing and linking ideas in an argument.",
+      "explanation": "Correct! \"Connectives are vital for organizing and linking ideas in an argument.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"particles\" mean?",
+      "options": [
+        "tiny pieces or bits of something, often used for very small bits of dust or pollution.",
+        "the scientific term for burning something, like fuel in an engine.",
+        "a breathing condition that makes it hard to breathe sometimes, causing wheezing and coughing.",
+        "increased very quickly and sharply, like a rocket flying upwards."
+      ],
+      "correct_answer": "tiny pieces or bits of something, often used for very small bits of dust or pollution.",
+      "explanation": "\"particles\" means: tiny pieces or bits of something, often used for very small bits of dust or pollution."
+    }
+  ]
+}

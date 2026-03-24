@@ -1,0 +1,61 @@
+{
+  "topic": "Creating Mood and Using Context Clues",
+  "title": "Using Techniques to Create Mood and Understanding New Words with Context",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"Context\" mean?",
+      "options": [
+        "A figure of speech where you compare two unlike things by saying one *is* the other, without using 'like' or 'as'.",
+        "The feeling or atmosphere that a writer creates in a story, like scary, happy, or tense.",
+        "The words or sentences around an unfamiliar word that help you understand its meaning.",
+        "To figure something out or reach a conclusion using reasoning and clues."
+      ],
+      "correct_answer": "The words or sentences around an unfamiliar word that help you understand its meaning.",
+      "explanation": "\"Context\" means: The words or sentences around an unfamiliar word that help you understand its meaning."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"Deduce\" mean?",
+      "options": [
+        "To figure something out or reach a conclusion using reasoning and clues.",
+        "The words or sentences around an unfamiliar word that help you understand its meaning.",
+        "The feeling or atmosphere that a writer creates in a story, like scary, happy, or tense.",
+        "A figure of speech where you compare two unlike things by saying one *is* the other, without using 'like' or 'as'."
+      ],
+      "correct_answer": "To figure something out or reach a conclusion using reasoning and clues.",
+      "explanation": "\"Deduce\" means: To figure something out or reach a conclusion using reasoning and clues."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Use context (surrounding words) to ______ the meaning of unfamiliar words.",
+      "options": null,
+      "correct_answer": "deduce",
+      "explanation": "The full sentence is: \"Use context (surrounding words) to deduce the meaning of unfamiliar words.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Writers use various techniques to create a specific 'mood' or feeling in their stories.",
+        "Use context (surrounding words) to deduce the meaning of unfamiliar words.",
+        "Techniques include metaphors, personification, repetition, lists, and precise verbs.",
+        "Metaphors compare two things, and personification gives human traits to non-human things."
+      ],
+      "correct_answer": "Writers use various techniques to create a specific 'mood' or feeling in their stories.",
+      "explanation": "Correct! \"Writers use various techniques to create a specific 'mood' or feeling in their stories.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"Mood\" mean?",
+      "options": [
+        "To figure something out or reach a conclusion using reasoning and clues.",
+        "A figure of speech where you compare two unlike things by saying one *is* the other, without using 'like' or 'as'.",
+        "The feeling or atmosphere that a writer creates in a story, like scary, happy, or tense.",
+        "The words or sentences around an unfamiliar word that help you understand its meaning."
+      ],
+      "correct_answer": "The feeling or atmosphere that a writer creates in a story, like scary, happy, or tense.",
+      "explanation": "\"Mood\" means: The feeling or atmosphere that a writer creates in a story, like scary, happy, or tense."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "topic": "Fiction: Stories with flashbacks",
+  "title": "Deep Dive into Flashbacks: How They Unfold and Planning Your Own",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"harvest moon\" mean?",
+      "options": [
+        "The black centre of the eye that lets light in.",
+        "A large, bright moon that appears close to the horizon around the time of the autumn harvest.",
+        "A small mark or spot.",
+        "The coloured part of the eye around the pupil."
+      ],
+      "correct_answer": "A large, bright moon that appears close to the horizon around the time of the autumn harvest.",
+      "explanation": "\"harvest moon\" means: A large, bright moon that appears close to the horizon around the time of the autumn harvest."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"pupil\" mean?",
+      "options": [
+        "A large, bright moon that appears close to the horizon around the time of the autumn harvest.",
+        "The black centre of the eye that lets light in.",
+        "A small mark or spot.",
+        "The coloured part of the eye around the pupil."
+      ],
+      "correct_answer": "The black centre of the eye that lets light in.",
+      "explanation": "\"pupil\" means: The black centre of the eye that lets light in."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Flashbacks can be triggered by unusual ______ or sensory details in the main story.",
+      "options": null,
+      "correct_answer": "events",
+      "explanation": "The full sentence is: \"Flashbacks can be triggered by unusual events or sensory details in the main story.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Writers use vivid descriptions to show how a flashback progresses and what is seen.",
+        "Planning a flashback sequence involves thinking about what's normal, the trigger, and the past details.",
+        "Stories can belong to one or more genres (e.g., fantasy, mystery, adventure).",
+        "Flashbacks can be triggered by unusual events or sensory details in the main story."
+      ],
+      "correct_answer": "Writers use vivid descriptions to show how a flashback progresses and what is seen.",
+      "explanation": "Correct! \"Writers use vivid descriptions to show how a flashback progresses and what is seen.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"fleck\" mean?",
+      "options": [
+        "A small mark or spot.",
+        "The black centre of the eye that lets light in.",
+        "The coloured part of the eye around the pupil.",
+        "A large, bright moon that appears close to the horizon around the time of the autumn harvest."
+      ],
+      "correct_answer": "A small mark or spot.",
+      "explanation": "\"fleck\" means: A small mark or spot."
+    }
+  ]
+}

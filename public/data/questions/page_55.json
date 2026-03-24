@@ -1,0 +1,61 @@
+{
+  "topic": "Exploring Themes and Creating Original Poems",
+  "title": "Creating Your Own Masterpiece and Sharing It!",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"Theme\" mean?",
+      "options": [
+        "A comparison between two different things using 'like' or 'as' (e.g., 'as brave as a lion').",
+        "A diagram used to visually organize information, with ideas branching out from a central topic.",
+        "Words or phrases that use comparisons or imaginative ideas to express something beyond its literal meaning.",
+        "The main idea or message in a poem."
+      ],
+      "correct_answer": "The main idea or message in a poem.",
+      "explanation": "\"Theme\" means: The main idea or message in a poem."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"Mind map\" mean?",
+      "options": [
+        "The main idea or message in a poem.",
+        "Words or phrases that use comparisons or imaginative ideas to express something beyond its literal meaning.",
+        "A diagram used to visually organize information, with ideas branching out from a central topic.",
+        "A comparison between two different things using 'like' or 'as' (e.g., 'as brave as a lion')."
+      ],
+      "correct_answer": "A diagram used to visually organize information, with ideas branching out from a central topic.",
+      "explanation": "\"Mind map\" means: A diagram used to visually organize information, with ideas branching out from a central topic."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: You can draw inspiration for your poems from ______ themes.",
+      "options": null,
+      "correct_answer": "common",
+      "explanation": "The full sentence is: \"You can draw inspiration for your poems from common themes.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Planning your poem with a mind map helps organize your creative ideas.",
+        "You can draw inspiration for your poems from common themes.",
+        "Using figurative language (metaphors, similes, personification) makes your poetry vivid.",
+        "Poetic devices like alliteration and rhyme add to the beauty and rhythm of your poem."
+      ],
+      "correct_answer": "Planning your poem with a mind map helps organize your creative ideas.",
+      "explanation": "Correct! \"Planning your poem with a mind map helps organize your creative ideas.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"Figurative language\" mean?",
+      "options": [
+        "The main idea or message in a poem.",
+        "Words or phrases that use comparisons or imaginative ideas to express something beyond its literal meaning.",
+        "A comparison between two different things using 'like' or 'as' (e.g., 'as brave as a lion').",
+        "A diagram used to visually organize information, with ideas branching out from a central topic."
+      ],
+      "correct_answer": "Words or phrases that use comparisons or imaginative ideas to express something beyond its literal meaning.",
+      "explanation": "\"Figurative language\" means: Words or phrases that use comparisons or imaginative ideas to express something beyond its literal meaning."
+    }
+  ]
+}

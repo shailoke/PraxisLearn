@@ -1,0 +1,61 @@
+{
+  "topic": "Science Fiction Story Details",
+  "title": "Diving into a Science Fiction House",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"alerted\" mean?",
+      "options": [
+        "A soft, warm bed covering.",
+        "A fictional piece of technology in the story that provides information.",
+        "Warned or informed.",
+        "The people living in a house or building."
+      ],
+      "correct_answer": "Warned or informed.",
+      "explanation": "\"alerted\" means: Warned or informed."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"occupants\" mean?",
+      "options": [
+        "Warned or informed.",
+        "A soft, warm bed covering.",
+        "The people living in a house or building.",
+        "A fictional piece of technology in the story that provides information."
+      ],
+      "correct_answer": "The people living in a house or building.",
+      "explanation": "\"occupants\" means: The people living in a house or building."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Science fiction stories ______ detailed, imaginative settings.",
+      "options": null,
+      "correct_answer": "create",
+      "explanation": "The full sentence is: \"Science fiction stories create detailed, imaginative settings.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Using 'less' and 'fewer' correctly helps describe amounts.",
+        "Imagining new gadgets is a fun way to explore science fiction ideas.",
+        "Science fiction stories create detailed, imaginative settings.",
+        "Future technology can have advanced roles in daily life."
+      ],
+      "correct_answer": "Future technology can have advanced roles in daily life.",
+      "explanation": "Correct! \"Future technology can have advanced roles in daily life.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"gobetween\" mean?",
+      "options": [
+        "A fictional piece of technology in the story that provides information.",
+        "A soft, warm bed covering.",
+        "Warned or informed.",
+        "The people living in a house or building."
+      ],
+      "correct_answer": "A fictional piece of technology in the story that provides information.",
+      "explanation": "\"gobetween\" means: A fictional piece of technology in the story that provides information."
+    }
+  ]
+}

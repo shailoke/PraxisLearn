@@ -1,0 +1,61 @@
+{
+  "topic": "Writing Character Interactions and Viewpoints",
+  "title": "Mixing Speech and Narration: A Robot's Story",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"direct speech\" mean?",
+      "options": [
+        "The exact words a character says, usually inside quotation marks.",
+        "The part of the story told by the writer, describing actions, thoughts, and background.",
+        "Using exact, strong words to describe things, rather than vague or common ones.",
+        "Whose eyes the story is seen through, or whose thoughts we hear (e.g., the robot's viewpoint)."
+      ],
+      "correct_answer": "The exact words a character says, usually inside quotation marks.",
+      "explanation": "\"direct speech\" means: The exact words a character says, usually inside quotation marks."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"narration\" mean?",
+      "options": [
+        "Whose eyes the story is seen through, or whose thoughts we hear (e.g., the robot's viewpoint).",
+        "The exact words a character says, usually inside quotation marks.",
+        "Using exact, strong words to describe things, rather than vague or common ones.",
+        "The part of the story told by the writer, describing actions, thoughts, and background."
+      ],
+      "correct_answer": "The part of the story told by the writer, describing actions, thoughts, and background.",
+      "explanation": "\"narration\" means: The part of the story told by the writer, describing actions, thoughts, and background."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Combine direct speech (what characters say) with ______ (what the writer tells us about actions/thoughts).",
+      "options": null,
+      "correct_answer": "narration",
+      "explanation": "The full sentence is: \"Combine direct speech (what characters say) with narration (what the writer tells us about actions/thoughts).\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Combine direct speech (what characters say) with narration (what the writer tells us about actions/thoughts).",
+        "Proofread your writing carefully, especially the punctuation for direct speech.",
+        "Use precise words to 'show' feelings and actions, not just 'tell' them.",
+        "Practise writing from a character's viewpoint to make the story come alive."
+      ],
+      "correct_answer": "Practise writing from a character's viewpoint to make the story come alive.",
+      "explanation": "Correct! \"Practise writing from a character's viewpoint to make the story come alive.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"viewpoint\" mean?",
+      "options": [
+        "Using exact, strong words to describe things, rather than vague or common ones.",
+        "The exact words a character says, usually inside quotation marks.",
+        "Whose eyes the story is seen through, or whose thoughts we hear (e.g., the robot's viewpoint).",
+        "The part of the story told by the writer, describing actions, thoughts, and background."
+      ],
+      "correct_answer": "Whose eyes the story is seen through, or whose thoughts we hear (e.g., the robot's viewpoint).",
+      "explanation": "\"viewpoint\" means: Whose eyes the story is seen through, or whose thoughts we hear (e.g., the robot's viewpoint)."
+    }
+  ]
+}

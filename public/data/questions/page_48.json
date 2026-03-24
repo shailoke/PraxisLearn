@@ -1,0 +1,61 @@
+{
+  "topic": "Unpacking Metaphors and Sound Words",
+  "title": "Metaphors, Onomatopoeia, and Powerful Imagery",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"onomatopoeia\" mean?",
+      "options": [
+        "not meaning exactly what it says; imaginative or symbolic",
+        "a word that sounds like the noise it is describing, like 'buzz' or 'splash'",
+        "a figure of speech where you say one thing IS another to show a comparison",
+        "forceful or hostile, ready to attack"
+      ],
+      "correct_answer": "a word that sounds like the noise it is describing, like 'buzz' or 'splash'",
+      "explanation": "\"onomatopoeia\" means: a word that sounds like the noise it is describing, like 'buzz' or 'splash'"
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"metaphor\" mean?",
+      "options": [
+        "forceful or hostile, ready to attack",
+        "a word that sounds like the noise it is describing, like 'buzz' or 'splash'",
+        "not meaning exactly what it says; imaginative or symbolic",
+        "a figure of speech where you say one thing IS another to show a comparison"
+      ],
+      "correct_answer": "a figure of speech where you say one thing IS another to show a comparison",
+      "explanation": "\"metaphor\" means: a figure of speech where you say one thing IS another to show a comparison"
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Onomatopoeia are words that ______ the sounds they describe.",
+      "options": null,
+      "correct_answer": "imitate",
+      "explanation": "The full sentence is: \"Onomatopoeia are words that imitate the sounds they describe.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Metaphors make descriptions stronger and can suggest a mood.",
+        "Onomatopoeia are words that imitate the sounds they describe.",
+        "Imagery uses words to create vivid pictures and sensory experiences in the reader's mind.",
+        "Metaphors compare two unlike things directly, giving deeper meaning or feeling."
+      ],
+      "correct_answer": "Metaphors compare two unlike things directly, giving deeper meaning or feeling.",
+      "explanation": "Correct! \"Metaphors compare two unlike things directly, giving deeper meaning or feeling.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"non-literal\" mean?",
+      "options": [
+        "a figure of speech where you say one thing IS another to show a comparison",
+        "forceful or hostile, ready to attack",
+        "not meaning exactly what it says; imaginative or symbolic",
+        "a word that sounds like the noise it is describing, like 'buzz' or 'splash'"
+      ],
+      "correct_answer": "not meaning exactly what it says; imaginative or symbolic",
+      "explanation": "\"non-literal\" means: not meaning exactly what it says; imaginative or symbolic"
+    }
+  ]
+}

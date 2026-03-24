@@ -1,0 +1,61 @@
+{
+  "topic": "Science fiction stories: Review and Practice",
+  "title": "Refining Your Science Fiction Story Writing Skills",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"precise verbs\" mean?",
+      "options": [
+        "None of the above",
+        "strong, specific action words that give a clear picture of what's happening, like 'stomped' instead of 'walked'.",
+        "words or phrases that don't mean exactly what they say, but create a picture in your mind, like 'the car was a rocket' (metaphor) or 'slept like a log' (simile).",
+        "to carefully check your written work for mistakes in spelling, grammar, and punctuation before it's finished."
+      ],
+      "correct_answer": "strong, specific action words that give a clear picture of what's happening, like 'stomped' instead of 'walked'.",
+      "explanation": "\"precise verbs\" means: strong, specific action words that give a clear picture of what's happening, like 'stomped' instead of 'walked'."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"figurative language\" mean?",
+      "options": [
+        "None of the above",
+        "strong, specific action words that give a clear picture of what's happening, like 'stomped' instead of 'walked'.",
+        "words or phrases that don't mean exactly what they say, but create a picture in your mind, like 'the car was a rocket' (metaphor) or 'slept like a log' (simile).",
+        "to carefully check your written work for mistakes in spelling, grammar, and punctuation before it's finished."
+      ],
+      "correct_answer": "words or phrases that don't mean exactly what they say, but create a picture in your mind, like 'the car was a rocket' (metaphor) or 'slept like a log' (simile).",
+      "explanation": "\"figurative language\" means: words or phrases that don't mean exactly what they say, but create a picture in your mind, like 'the car was a rocket' (metaphor) or 'slept like a log' (simile)."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Add detail to your ______ to make them vivid.",
+      "options": null,
+      "correct_answer": "stories",
+      "explanation": "The full sentence is: \"Add detail to your stories to make them vivid.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Use precise verbs and figurative language to enhance descriptions.",
+        "Add detail to your stories to make them vivid.",
+        "Vary sentence length to control the pace of your writing.",
+        "Always proofread your work for errors."
+      ],
+      "correct_answer": "Use precise verbs and figurative language to enhance descriptions.",
+      "explanation": "Correct! \"Use precise verbs and figurative language to enhance descriptions.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"proofread\" mean?",
+      "options": [
+        "strong, specific action words that give a clear picture of what's happening, like 'stomped' instead of 'walked'.",
+        "words or phrases that don't mean exactly what they say, but create a picture in your mind, like 'the car was a rocket' (metaphor) or 'slept like a log' (simile).",
+        "to carefully check your written work for mistakes in spelling, grammar, and punctuation before it's finished.",
+        "None of the above"
+      ],
+      "correct_answer": "to carefully check your written work for mistakes in spelling, grammar, and punctuation before it's finished.",
+      "explanation": "\"proofread\" means: to carefully check your written work for mistakes in spelling, grammar, and punctuation before it's finished."
+    }
+  ]
+}

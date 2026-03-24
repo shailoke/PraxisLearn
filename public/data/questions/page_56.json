@@ -1,0 +1,61 @@
+{
+  "topic": "Exploring Figurative Language and Communication",
+  "title": "Reviewing Figurative Language and Communication Skills",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"rhyme\" mean?",
+      "options": [
+        "When words that are close together start with the same sound.",
+        "Compares two different things using 'like' or 'as'.",
+        "Words that have the same ending sound.",
+        "A word that sounds like the noise it describes."
+      ],
+      "correct_answer": "Words that have the same ending sound.",
+      "explanation": "\"rhyme\" means: Words that have the same ending sound."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"alliteration\" mean?",
+      "options": [
+        "When words that are close together start with the same sound.",
+        "A word that sounds like the noise it describes.",
+        "Words that have the same ending sound.",
+        "Compares two different things using 'like' or 'as'."
+      ],
+      "correct_answer": "When words that are close together start with the same sound.",
+      "explanation": "\"alliteration\" means: When words that are close together start with the same sound."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Figurative language makes ______ vivid and engaging.",
+      "options": null,
+      "correct_answer": "poetry",
+      "explanation": "The full sentence is: \"Figurative language makes poetry vivid and engaging.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Giving constructive feedback on poems helps others improve.",
+        "You can identify and explain different types of figurative language.",
+        "Figurative language makes poetry vivid and engaging.",
+        "Effective communication is key to achieving personal and community goals."
+      ],
+      "correct_answer": "You can identify and explain different types of figurative language.",
+      "explanation": "Correct! \"You can identify and explain different types of figurative language.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"onomatopoeia\" mean?",
+      "options": [
+        "Words that have the same ending sound.",
+        "A word that sounds like the noise it describes.",
+        "Compares two different things using 'like' or 'as'.",
+        "When words that are close together start with the same sound."
+      ],
+      "correct_answer": "A word that sounds like the noise it describes.",
+      "explanation": "\"onomatopoeia\" means: A word that sounds like the noise it describes."
+    }
+  ]
+}

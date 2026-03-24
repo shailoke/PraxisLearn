@@ -1,0 +1,61 @@
+{
+  "topic": "Text Features and Prefixes",
+  "title": "Becoming a Word Detective: Understanding Prefixes",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"prefix\" mean?",
+      "options": [
+        "a serious, official way of writing or speaking.",
+        "the basic part of a word to which prefixes or suffixes are added.",
+        "a group of letters added to the beginning of a word to change its meaning.",
+        "a relaxed, friendly way of writing or speaking."
+      ],
+      "correct_answer": "a group of letters added to the beginning of a word to change its meaning.",
+      "explanation": "\"prefix\" means: a group of letters added to the beginning of a word to change its meaning."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"root word\" mean?",
+      "options": [
+        "a relaxed, friendly way of writing or speaking.",
+        "a serious, official way of writing or speaking.",
+        "a group of letters added to the beginning of a word to change its meaning.",
+        "the basic part of a word to which prefixes or suffixes are added."
+      ],
+      "correct_answer": "the basic part of a word to which prefixes or suffixes are added.",
+      "explanation": "\"root word\" means: the basic part of a word to which prefixes or suffixes are added."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Different types of writing (timelines, biographies, ______ have specific features like facts, opinions, and tone.",
+      "options": null,
+      "correct_answer": "autobiographies",
+      "explanation": "The full sentence is: \"Different types of writing (timelines, biographies, autobiographies) have specific features like facts, opinions, and tone.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Creating a personal timeline helps you practice organizing events in chronological order.",
+        "Different types of writing (timelines, biographies, autobiographies) have specific features like facts, opinions, and tone.",
+        "A prefix is a group of letters added to the start of a word to change its meaning.",
+        "Learning common prefixes helps you understand new words and expand your vocabulary."
+      ],
+      "correct_answer": "A prefix is a group of letters added to the start of a word to change its meaning.",
+      "explanation": "Correct! \"A prefix is a group of letters added to the start of a word to change its meaning.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"formal tone\" mean?",
+      "options": [
+        "the basic part of a word to which prefixes or suffixes are added.",
+        "a group of letters added to the beginning of a word to change its meaning.",
+        "a relaxed, friendly way of writing or speaking.",
+        "a serious, official way of writing or speaking."
+      ],
+      "correct_answer": "a serious, official way of writing or speaking.",
+      "explanation": "\"formal tone\" means: a serious, official way of writing or speaking."
+    }
+  ]
+}

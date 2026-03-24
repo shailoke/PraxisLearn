@@ -1,0 +1,61 @@
+{
+  "topic": "Mastering Metaphors, Onomatopoeia, and Poem Creation",
+  "title": "Deep Diving into Metaphors and Crafting Your Own Poetry",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"metaphor\" mean?",
+      "options": [
+        "a word that sounds like the noise it is describing, like 'buzz' or 'splash'",
+        "the plain, factual meaning of words, without any imaginative comparisons",
+        "the repetition of the same initial consonant sound in words close together, like 'bouncing baby boy'",
+        "a figure of speech that compares two unlike things by saying one IS the other"
+      ],
+      "correct_answer": "a figure of speech that compares two unlike things by saying one IS the other",
+      "explanation": "\"metaphor\" means: a figure of speech that compares two unlike things by saying one IS the other"
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"literal meaning\" mean?",
+      "options": [
+        "the repetition of the same initial consonant sound in words close together, like 'bouncing baby boy'",
+        "the plain, factual meaning of words, without any imaginative comparisons",
+        "a word that sounds like the noise it is describing, like 'buzz' or 'splash'",
+        "a figure of speech that compares two unlike things by saying one IS the other"
+      ],
+      "correct_answer": "the plain, factual meaning of words, without any imaginative comparisons",
+      "explanation": "\"literal meaning\" means: the plain, factual meaning of words, without any imaginative comparisons"
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: To understand metaphors, compare their imaginative ______ to their basic, literal meaning.",
+      "options": null,
+      "correct_answer": "meaning",
+      "explanation": "The full sentence is: \"To understand metaphors, compare their imaginative meaning to their basic, literal meaning.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Onomatopoeia adds sound and realism to your writing; practice saying them aloud.",
+        "Planning is crucial for writing a strong poem, especially when combining different poetic devices.",
+        "To understand metaphors, compare their imaginative meaning to their basic, literal meaning.",
+        "When writing about memories, use detailed descriptions of sensory experiences and feelings."
+      ],
+      "correct_answer": "Onomatopoeia adds sound and realism to your writing; practice saying them aloud.",
+      "explanation": "Correct! \"Onomatopoeia adds sound and realism to your writing; practice saying them aloud.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"onomatopoeia\" mean?",
+      "options": [
+        "a figure of speech that compares two unlike things by saying one IS the other",
+        "the plain, factual meaning of words, without any imaginative comparisons",
+        "the repetition of the same initial consonant sound in words close together, like 'bouncing baby boy'",
+        "a word that sounds like the noise it is describing, like 'buzz' or 'splash'"
+      ],
+      "correct_answer": "a word that sounds like the noise it is describing, like 'buzz' or 'splash'",
+      "explanation": "\"onomatopoeia\" means: a word that sounds like the noise it is describing, like 'buzz' or 'splash'"
+    }
+  ]
+}

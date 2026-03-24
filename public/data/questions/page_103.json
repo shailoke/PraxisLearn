@@ -1,0 +1,61 @@
+{
+  "topic": "Cinquains and Poetry Comparison",
+  "title": "Discovering Cinquain Poems",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"cinquain\" mean?",
+      "options": [
+        "a five-line poem with a specific syllable count for each line (2, 4, 6, 8, 2) and a set structure for its content.",
+        "a unit of sound in a word, usually containing a vowel sound. For example, 'dragon' has two syllables: dra-gon.",
+        "None of the above",
+        "None of the above"
+      ],
+      "correct_answer": "a five-line poem with a specific syllable count for each line (2, 4, 6, 8, 2) and a set structure for its content.",
+      "explanation": "\"cinquain\" means: a five-line poem with a specific syllable count for each line (2, 4, 6, 8, 2) and a set structure for its content."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"syllable\" mean?",
+      "options": [
+        "None of the above",
+        "a five-line poem with a specific syllable count for each line (2, 4, 6, 8, 2) and a set structure for its content.",
+        "None of the above",
+        "a unit of sound in a word, usually containing a vowel sound. For example, 'dragon' has two syllables: dra-gon."
+      ],
+      "correct_answer": "a unit of sound in a word, usually containing a vowel sound. For example, 'dragon' has two syllables: dra-gon.",
+      "explanation": "\"syllable\" means: a unit of sound in a word, usually containing a vowel sound. For example, 'dragon' has two syllables: dra-gon."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Cinquains are five-line poems with a ______ syllable count per line (2, 4, 6, 8, 2).",
+      "options": null,
+      "correct_answer": "specific",
+      "explanation": "The full sentence is: \"Cinquains are five-line poems with a specific syllable count per line (2, 4, 6, 8, 2).\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Cinquains are five-line poems with a specific syllable count per line (2, 4, 6, 8, 2).",
+        "Reflecting on your favourite poem style can help you understand your own creativity.",
+        "Each line of a cinquain has a different descriptive purpose.",
+        "Writing different types of poems helps you explore various ways to express ideas."
+      ],
+      "correct_answer": "Each line of a cinquain has a different descriptive purpose.",
+      "explanation": "Correct! \"Each line of a cinquain has a different descriptive purpose.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Reflecting on your favourite poem style can help you understand your own creativity.",
+        "Cinquains are five-line poems with a specific syllable count per line (2, 4, 6, 8, 2).",
+        "Each line of a cinquain has a different descriptive purpose.",
+        "Writing different types of poems helps you explore various ways to express ideas."
+      ],
+      "correct_answer": "Writing different types of poems helps you explore various ways to express ideas.",
+      "explanation": "Correct! \"Writing different types of poems helps you explore various ways to express ideas.\" is one of the key things to remember."
+    }
+  ]
+}

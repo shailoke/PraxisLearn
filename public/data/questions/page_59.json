@@ -1,0 +1,61 @@
+{
+  "topic": "Analyzing an Autobiography",
+  "title": "Fabrice Muamba's 'Judgement Day'",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"non-fiction\" mean?",
+      "options": [
+        "A true story of a person's life, written by that person.",
+        "A person who plays football for a living.",
+        "Writing that is based on facts, real events, and real people, not imaginary ones.",
+        "A small part or section taken from a larger text, like a book."
+      ],
+      "correct_answer": "Writing that is based on facts, real events, and real people, not imaginary ones.",
+      "explanation": "\"non-fiction\" means: Writing that is based on facts, real events, and real people, not imaginary ones."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"autobiography\" mean?",
+      "options": [
+        "A small part or section taken from a larger text, like a book.",
+        "A true story of a person's life, written by that person.",
+        "A person who plays football for a living.",
+        "Writing that is based on facts, real events, and real people, not imaginary ones."
+      ],
+      "correct_answer": "A true story of a person's life, written by that person.",
+      "explanation": "\"autobiography\" means: A true story of a person's life, written by that person."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Autobiographies are true stories ______ by the person themselves.",
+      "options": null,
+      "correct_answer": "written",
+      "explanation": "The full sentence is: \"Autobiographies are true stories written by the person themselves.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Autobiographies are true stories written by the person themselves.",
+        "Non-fiction writing shares real events, facts, and personal experiences.",
+        "Authors in non-fiction can express strong feelings and opinions.",
+        "Descriptive language helps readers imagine the setting and atmosphere of real events."
+      ],
+      "correct_answer": "Non-fiction writing shares real events, facts, and personal experiences.",
+      "explanation": "Correct! \"Non-fiction writing shares real events, facts, and personal experiences.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"extract\" mean?",
+      "options": [
+        "A small part or section taken from a larger text, like a book.",
+        "A person who plays football for a living.",
+        "Writing that is based on facts, real events, and real people, not imaginary ones.",
+        "A true story of a person's life, written by that person."
+      ],
+      "correct_answer": "A small part or section taken from a larger text, like a book.",
+      "explanation": "\"extract\" means: A small part or section taken from a larger text, like a book."
+    }
+  ]
+}

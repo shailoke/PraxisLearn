@@ -1,0 +1,61 @@
+{
+  "topic": "Analyzing imagery and poetic devices",
+  "title": "Unpacking the Dragon's Description",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"Embers\" mean?",
+      "options": [
+        "Evergreen trees with needle-like leaves and a conical shape, often found in mountains.",
+        "A person who travels and mends metal utensils, often living a nomadic life.",
+        "Small pieces of wood or coal that are still glowing and hot after a fire.",
+        "Various types of flowers, often chosen for their specific colours and forms in poetry."
+      ],
+      "correct_answer": "Small pieces of wood or coal that are still glowing and hot after a fire.",
+      "explanation": "\"Embers\" means: Small pieces of wood or coal that are still glowing and hot after a fire."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"Tinker\" mean?",
+      "options": [
+        "Evergreen trees with needle-like leaves and a conical shape, often found in mountains.",
+        "A person who travels and mends metal utensils, often living a nomadic life.",
+        "Various types of flowers, often chosen for their specific colours and forms in poetry.",
+        "Small pieces of wood or coal that are still glowing and hot after a fire."
+      ],
+      "correct_answer": "A person who travels and mends metal utensils, often living a nomadic life.",
+      "explanation": "\"Tinker\" means: A person who travels and mends metal utensils, often living a nomadic life."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Poets use precise details and comparisons to ______ vivid and meaningful imagery.",
+      "options": null,
+      "correct_answer": "create",
+      "explanation": "The full sentence is: \"Poets use precise details and comparisons to create vivid and meaningful imagery.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Analyzing a poem involves thinking about how each image and word choice makes you feel and what it suggests.",
+        "Similes (comparing using 'like' or 'as') are powerful for making descriptions relatable and impactful.",
+        "Poets use precise details and comparisons to create vivid and meaningful imagery.",
+        "Poetic devices like consonance, alliteration, assonance, and sibilance contribute to the poem's sound and enhance imagery."
+      ],
+      "correct_answer": "Similes (comparing using 'like' or 'as') are powerful for making descriptions relatable and impactful.",
+      "explanation": "Correct! \"Similes (comparing using 'like' or 'as') are powerful for making descriptions relatable and impactful.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"Crocus, saffron, marigold, peony, poppy, geranium, cyclamen, rose\" mean?",
+      "options": [
+        "A person who travels and mends metal utensils, often living a nomadic life.",
+        "Small pieces of wood or coal that are still glowing and hot after a fire.",
+        "Evergreen trees with needle-like leaves and a conical shape, often found in mountains.",
+        "Various types of flowers, often chosen for their specific colours and forms in poetry."
+      ],
+      "correct_answer": "Various types of flowers, often chosen for their specific colours and forms in poetry.",
+      "explanation": "\"Crocus, saffron, marigold, peony, poppy, geranium, cyclamen, rose\" means: Various types of flowers, often chosen for their specific colours and forms in poetry."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "topic": "Using Relative Pronouns and Writing Biographies",
+  "title": "Connecting Ideas with Relative Pronouns",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"relative pronoun\" mean?",
+      "options": [
+        "a part of a sentence that starts with a relative pronoun and gives extra information.",
+        "None of the above",
+        "a word (like who, which, where) that connects a clause to a noun or pronoun, giving more information about it.",
+        "a detailed description of a person's life, written by someone else."
+      ],
+      "correct_answer": "a word (like who, which, where) that connects a clause to a noun or pronoun, giving more information about it.",
+      "explanation": "\"relative pronoun\" means: a word (like who, which, where) that connects a clause to a noun or pronoun, giving more information about it."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"relative clause\" mean?",
+      "options": [
+        "a detailed description of a person's life, written by someone else.",
+        "a part of a sentence that starts with a relative pronoun and gives extra information.",
+        "None of the above",
+        "a word (like who, which, where) that connects a clause to a noun or pronoun, giving more information about it."
+      ],
+      "correct_answer": "a part of a sentence that starts with a relative pronoun and gives extra information.",
+      "explanation": "\"relative clause\" means: a part of a sentence that starts with a relative pronoun and gives extra information."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Relative pronouns (who, which, ______ help join sentences and add more descriptive details.",
+      "options": null,
+      "correct_answer": "where",
+      "explanation": "The full sentence is: \"Relative pronouns (who, which, where) help join sentences and add more descriptive details.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "It has no special meaning in writing.",
+        "Relative pronouns (who, which, where) help join sentences and add more descriptive details.",
+        "When writing a biography, remember to include important facts, events, and personality traits, using past tense and clear paragraphs.",
+        "Using relative pronouns makes writing more interesting and easier to read."
+      ],
+      "correct_answer": "Using relative pronouns makes writing more interesting and easier to read.",
+      "explanation": "Correct! \"Using relative pronouns makes writing more interesting and easier to read.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"biography\" mean?",
+      "options": [
+        "None of the above",
+        "a part of a sentence that starts with a relative pronoun and gives extra information.",
+        "a detailed description of a person's life, written by someone else.",
+        "a word (like who, which, where) that connects a clause to a noun or pronoun, giving more information about it."
+      ],
+      "correct_answer": "a detailed description of a person's life, written by someone else.",
+      "explanation": "\"biography\" means: a detailed description of a person's life, written by someone else."
+    }
+  ]
+}

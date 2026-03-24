@@ -1,0 +1,61 @@
+{
+  "topic": "Fiction: Stories with flashbacks",
+  "title": "Exploring 'The Eye of the Wolf': Reading from a Character's Viewpoint",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"viewpoint\" mean?",
+      "options": [
+        "To move slightly or change position.",
+        "The way a story is told, usually from a character's perspective.",
+        "Stated very clearly and directly, leaving no doubt.",
+        "A fenced area where an animal is kept."
+      ],
+      "correct_answer": "The way a story is told, usually from a character's perspective.",
+      "explanation": "\"viewpoint\" means: The way a story is told, usually from a character's perspective."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"enclosure\" mean?",
+      "options": [
+        "A fenced area where an animal is kept.",
+        "Stated very clearly and directly, leaving no doubt.",
+        "To move slightly or change position.",
+        "The way a story is told, usually from a character's perspective."
+      ],
+      "correct_answer": "A fenced area where an animal is kept.",
+      "explanation": "\"enclosure\" means: A fenced area where an animal is kept."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Understanding a story from a character's ______ helps us connect with them.",
+      "options": null,
+      "correct_answer": "viewpoint",
+      "explanation": "The full sentence is: \"Understanding a story from a character's viewpoint helps us connect with them.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Sentence length can create different effects: long for detail, short for drama or emphasis.",
+        "Writers use descriptions and internal thoughts to reveal a character's viewpoint.",
+        "Questions in a story can show what a character is thinking or feeling.",
+        "Understanding a story from a character's viewpoint helps us connect with them."
+      ],
+      "correct_answer": "Writers use descriptions and internal thoughts to reveal a character's viewpoint.",
+      "explanation": "Correct! \"Writers use descriptions and internal thoughts to reveal a character's viewpoint.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"shift\" mean?",
+      "options": [
+        "Stated very clearly and directly, leaving no doubt.",
+        "A fenced area where an animal is kept.",
+        "To move slightly or change position.",
+        "The way a story is told, usually from a character's perspective."
+      ],
+      "correct_answer": "To move slightly or change position.",
+      "explanation": "\"shift\" means: To move slightly or change position."
+    }
+  ]
+}

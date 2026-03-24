@@ -1,0 +1,61 @@
+{
+  "topic": "Planning and Structuring Arguments",
+  "title": "How to Plan a Balanced Argument",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"balanced argument\" mean?",
+      "options": [
+        "Words or phrases that help guide the reader through the text, indicating new points, contrasts, or conclusions (e.g., 'Therefore', 'On the other hand', 'In addition').",
+        "Punctuation mark (:) used to introduce a list, explanation, or example, or to show a strong link between two parts of a sentence.",
+        "A point of view that goes against the first point of view being discussed.",
+        "An argument that considers and presents both sides of an issue fairly."
+      ],
+      "correct_answer": "An argument that considers and presents both sides of an issue fairly.",
+      "explanation": "\"balanced argument\" means: An argument that considers and presents both sides of an issue fairly."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"counter-argument\" mean?",
+      "options": [
+        "Punctuation mark (:) used to introduce a list, explanation, or example, or to show a strong link between two parts of a sentence.",
+        "A point of view that goes against the first point of view being discussed.",
+        "Words or phrases that help guide the reader through the text, indicating new points, contrasts, or conclusions (e.g., 'Therefore', 'On the other hand', 'In addition').",
+        "An argument that considers and presents both sides of an issue fairly."
+      ],
+      "correct_answer": "A point of view that goes against the first point of view being discussed.",
+      "explanation": "\"counter-argument\" means: A point of view that goes against the first point of view being discussed."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: A balanced argument presents ______ for and against a topic.",
+      "options": null,
+      "correct_answer": "reasons",
+      "explanation": "The full sentence is: \"A balanced argument presents reasons for and against a topic.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "A balanced argument presents reasons for and against a topic.",
+        "Use signposting adverbs to guide the reader through your argument.",
+        "Plan by listing points, ordering them logically, and adding evidence.",
+        "A counter-argument provides an opposing viewpoint."
+      ],
+      "correct_answer": "Plan by listing points, ordering them logically, and adding evidence.",
+      "explanation": "Correct! \"Plan by listing points, ordering them logically, and adding evidence.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"signposting adverbs\" mean?",
+      "options": [
+        "An argument that considers and presents both sides of an issue fairly.",
+        "Words or phrases that help guide the reader through the text, indicating new points, contrasts, or conclusions (e.g., 'Therefore', 'On the other hand', 'In addition').",
+        "A point of view that goes against the first point of view being discussed.",
+        "Punctuation mark (:) used to introduce a list, explanation, or example, or to show a strong link between two parts of a sentence."
+      ],
+      "correct_answer": "Words or phrases that help guide the reader through the text, indicating new points, contrasts, or conclusions (e.g., 'Therefore', 'On the other hand', 'In addition').",
+      "explanation": "\"signposting adverbs\" means: Words or phrases that help guide the reader through the text, indicating new points, contrasts, or conclusions (e.g., 'Therefore', 'On the other hand', 'In addition')."
+    }
+  ]
+}

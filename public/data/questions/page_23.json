@@ -1,0 +1,61 @@
+{
+  "topic": "Applying Colons and Story Planning",
+  "title": "Using Colons and Predicting Story Events",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"clause\" mean?",
+      "options": [
+        "A group of words that contains a subject and a verb.",
+        "A series of drawings or pictures that shows the order of events in a story, like a comic strip plan.",
+        "A part of a story that goes back in time to show something that happened earlier, which helps explain the present.",
+        "A sentence made up of two or more independent clauses (complete thoughts) joined together, usually by 'and', 'but', or 'or'."
+      ],
+      "correct_answer": "A group of words that contains a subject and a verb.",
+      "explanation": "\"clause\" means: A group of words that contains a subject and a verb."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"flashback\" mean?",
+      "options": [
+        "A series of drawings or pictures that shows the order of events in a story, like a comic strip plan.",
+        "A sentence made up of two or more independent clauses (complete thoughts) joined together, usually by 'and', 'but', or 'or'.",
+        "A group of words that contains a subject and a verb.",
+        "A part of a story that goes back in time to show something that happened earlier, which helps explain the present."
+      ],
+      "correct_answer": "A part of a story that goes back in time to show something that happened earlier, which helps explain the present.",
+      "explanation": "\"flashback\" means: A part of a story that goes back in time to show something that happened earlier, which helps explain the present."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Colons are used to introduce ______ or strongly link clauses.",
+      "options": null,
+      "correct_answer": "explanations",
+      "explanation": "The full sentence is: \"Colons are used to introduce explanations or strongly link clauses.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Flashbacks reveal past events to add depth to characters and plot.",
+        "Predicting future events relies on understanding past patterns in a story.",
+        "Colons are used to introduce explanations or strongly link clauses.",
+        "Storyboards are visual tools for planning the sequence of events in a narrative."
+      ],
+      "correct_answer": "Predicting future events relies on understanding past patterns in a story.",
+      "explanation": "Correct! \"Predicting future events relies on understanding past patterns in a story.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"storyboard\" mean?",
+      "options": [
+        "A part of a story that goes back in time to show something that happened earlier, which helps explain the present.",
+        "A series of drawings or pictures that shows the order of events in a story, like a comic strip plan.",
+        "A sentence made up of two or more independent clauses (complete thoughts) joined together, usually by 'and', 'but', or 'or'.",
+        "A group of words that contains a subject and a verb."
+      ],
+      "correct_answer": "A series of drawings or pictures that shows the order of events in a story, like a comic strip plan.",
+      "explanation": "\"storyboard\" means: A series of drawings or pictures that shows the order of events in a story, like a comic strip plan."
+    }
+  ]
+}

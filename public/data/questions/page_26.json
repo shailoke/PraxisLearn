@@ -1,0 +1,61 @@
+{
+  "topic": "Fiction: Stories with Flashbacks",
+  "title": "Reviewing and Improving Our Narrative Writing",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"evaluate\" mean?",
+      "options": [
+        "A scene in a story that takes the reader back to an earlier time.",
+        "Tools writers use to make their language more creative and impactful, like similes or metaphors.",
+        "Organized or arranged in a particular way.",
+        "To judge or assess something carefully."
+      ],
+      "correct_answer": "To judge or assess something carefully.",
+      "explanation": "\"evaluate\" means: To judge or assess something carefully."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"structured\" mean?",
+      "options": [
+        "Tools writers use to make their language more creative and impactful, like similes or metaphors.",
+        "A scene in a story that takes the reader back to an earlier time.",
+        "To judge or assess something carefully.",
+        "Organized or arranged in a particular way."
+      ],
+      "correct_answer": "Organized or arranged in a particular way.",
+      "explanation": "\"structured\" means: Organized or arranged in a particular way."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Learn to give and receive ______ feedback on stories.",
+      "options": null,
+      "correct_answer": "constructive",
+      "explanation": "The full sentence is: \"Learn to give and receive constructive feedback on stories.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Practice writing critical reviews of stories, focusing on plot, characters, language, and themes.",
+        "Learn to give and receive constructive feedback on stories.",
+        "Understand how to evaluate story structure, flashbacks, and figurative language.",
+        "Develop skills in visual storytelling through cover design and collage."
+      ],
+      "correct_answer": "Understand how to evaluate story structure, flashbacks, and figurative language.",
+      "explanation": "Correct! \"Understand how to evaluate story structure, flashbacks, and figurative language.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"flashback\" mean?",
+      "options": [
+        "Organized or arranged in a particular way.",
+        "To judge or assess something carefully.",
+        "A scene in a story that takes the reader back to an earlier time.",
+        "Tools writers use to make their language more creative and impactful, like similes or metaphors."
+      ],
+      "correct_answer": "A scene in a story that takes the reader back to an earlier time.",
+      "explanation": "\"flashback\" means: A scene in a story that takes the reader back to an earlier time."
+    }
+  ]
+}

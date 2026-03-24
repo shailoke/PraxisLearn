@@ -1,0 +1,61 @@
+{
+  "topic": "Predictions and Punctuation",
+  "title": "Predictions and Punctuation Basics",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"inverted commas\" mean?",
+      "options": [
+        "A part of a sentence that tells you who is speaking and sometimes how they are speaking (e.g., 'said John', 'whispered Emily').",
+        "The punctuation marks (' ') or (\" \") used to show the exact words spoken by someone.",
+        "The punctuation mark (:) used to introduce a list or an explanation, or to link two closely related independent clauses.",
+        "To guess what will happen next in a story based on the clues and information the writer gives you."
+      ],
+      "correct_answer": "The punctuation marks (' ') or (\" \") used to show the exact words spoken by someone.",
+      "explanation": "\"inverted commas\" means: The punctuation marks (' ') or (\" \") used to show the exact words spoken by someone."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"reporting clause\" mean?",
+      "options": [
+        "The punctuation mark (:) used to introduce a list or an explanation, or to link two closely related independent clauses.",
+        "The punctuation marks (' ') or (\" \") used to show the exact words spoken by someone.",
+        "A part of a sentence that tells you who is speaking and sometimes how they are speaking (e.g., 'said John', 'whispered Emily').",
+        "To guess what will happen next in a story based on the clues and information the writer gives you."
+      ],
+      "correct_answer": "A part of a sentence that tells you who is speaking and sometimes how they are speaking (e.g., 'said John', 'whispered Emily').",
+      "explanation": "\"reporting clause\" means: A part of a sentence that tells you who is speaking and sometimes how they are speaking (e.g., 'said John', 'whispered Emily')."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Direct speech uses ______ commas.",
+      "options": null,
+      "correct_answer": "inverted",
+      "explanation": "The full sentence is: \"Direct speech uses inverted commas.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Colons introduce lists or connect two strongly related independent clauses.",
+        "Direct speech uses inverted commas.",
+        "Reporting clauses tell us who spoke and how, and are separated by appropriate punctuation.",
+        "Use a new line for each new speaker in dialogue."
+      ],
+      "correct_answer": "Reporting clauses tell us who spoke and how, and are separated by appropriate punctuation.",
+      "explanation": "Correct! \"Reporting clauses tell us who spoke and how, and are separated by appropriate punctuation.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"colon\" mean?",
+      "options": [
+        "The punctuation mark (:) used to introduce a list or an explanation, or to link two closely related independent clauses.",
+        "To guess what will happen next in a story based on the clues and information the writer gives you.",
+        "The punctuation marks (' ') or (\" \") used to show the exact words spoken by someone.",
+        "A part of a sentence that tells you who is speaking and sometimes how they are speaking (e.g., 'said John', 'whispered Emily')."
+      ],
+      "correct_answer": "The punctuation mark (:) used to introduce a list or an explanation, or to link two closely related independent clauses.",
+      "explanation": "\"colon\" means: The punctuation mark (:) used to introduce a list or an explanation, or to link two closely related independent clauses."
+    }
+  ]
+}

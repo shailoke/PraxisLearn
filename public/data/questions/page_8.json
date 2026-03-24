@@ -1,0 +1,61 @@
+{
+  "topic": "Fiction: Stories with flashbacks",
+  "title": "Crafting Your Own Animal Story: Verbs and Sentence Variety",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"verbs\" mean?",
+      "options": [
+        "Words that describe nouns (e.g., small, sad, wild).",
+        "To carefully judge or assess something.",
+        "The particular way a story is seen or told, usually from a character's perspective.",
+        "Words that describe an action, state, or occurrence (e.g., jump, run, see)."
+      ],
+      "correct_answer": "Words that describe an action, state, or occurrence (e.g., jump, run, see).",
+      "explanation": "\"verbs\" means: Words that describe an action, state, or occurrence (e.g., jump, run, see)."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"adjectives\" mean?",
+      "options": [
+        "The particular way a story is seen or told, usually from a character's perspective.",
+        "Words that describe an action, state, or occurrence (e.g., jump, run, see).",
+        "To carefully judge or assess something.",
+        "Words that describe nouns (e.g., small, sad, wild)."
+      ],
+      "correct_answer": "Words that describe nouns (e.g., small, sad, wild).",
+      "explanation": "\"adjectives\" means: Words that describe nouns (e.g., small, sad, wild)."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Use long sentences for ______ descriptions.",
+      "options": null,
+      "correct_answer": "detailed",
+      "explanation": "The full sentence is: \"Use long sentences for detailed descriptions.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Use long sentences for detailed descriptions.",
+        "Use short, simple sentences to create drama or show a sudden change.",
+        "Include questions to reveal character thoughts and feelings.",
+        "Plan your story carefully, thinking about viewpoint and sentence variety."
+      ],
+      "correct_answer": "Use short, simple sentences to create drama or show a sudden change.",
+      "explanation": "Correct! \"Use short, simple sentences to create drama or show a sudden change.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"evaluate\" mean?",
+      "options": [
+        "Words that describe an action, state, or occurrence (e.g., jump, run, see).",
+        "To carefully judge or assess something.",
+        "The particular way a story is seen or told, usually from a character's perspective.",
+        "Words that describe nouns (e.g., small, sad, wild)."
+      ],
+      "correct_answer": "To carefully judge or assess something.",
+      "explanation": "\"evaluate\" means: To carefully judge or assess something."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "topic": "Character Description and Compound Sentences",
+  "title": "Your First English Adventure: Character Creation!",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"Character\" mean?",
+      "options": [
+        "To read through your own or someone else's writing to find and correct mistakes in spelling, grammar, or punctuation.",
+        "A sentence made of two or more simple sentences joined by a coordinating conjunction (like 'and', 'but', 'or').",
+        "A section of writing that usually focuses on one main idea, made up of several sentences.",
+        "A person or animal in a story, play, or film."
+      ],
+      "correct_answer": "A person or animal in a story, play, or film.",
+      "explanation": "\"Character\" means: A person or animal in a story, play, or film."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"Paragraph\" mean?",
+      "options": [
+        "A section of writing that usually focuses on one main idea, made up of several sentences.",
+        "A sentence made of two or more simple sentences joined by a coordinating conjunction (like 'and', 'but', 'or').",
+        "To read through your own or someone else's writing to find and correct mistakes in spelling, grammar, or punctuation.",
+        "A person or animal in a story, play, or film."
+      ],
+      "correct_answer": "A section of writing that usually focuses on one main idea, made up of several sentences.",
+      "explanation": "\"Paragraph\" means: A section of writing that usually focuses on one main idea, made up of several sentences."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Use your imagination to create a fictional ______ based on an image.",
+      "options": null,
+      "correct_answer": "character",
+      "explanation": "The full sentence is: \"Use your imagination to create a fictional character based on an image.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Always proofread your writing to correct mistakes and improve vocabulary.",
+        "Practice writing descriptive paragraphs about your character.",
+        "Learn to construct compound sentences using conjunctions (joining words).",
+        "Use your imagination to create a fictional character based on an image."
+      ],
+      "correct_answer": "Practice writing descriptive paragraphs about your character.",
+      "explanation": "Correct! \"Practice writing descriptive paragraphs about your character.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"Compound sentence\" mean?",
+      "options": [
+        "To read through your own or someone else's writing to find and correct mistakes in spelling, grammar, or punctuation.",
+        "A person or animal in a story, play, or film.",
+        "A section of writing that usually focuses on one main idea, made up of several sentences.",
+        "A sentence made of two or more simple sentences joined by a coordinating conjunction (like 'and', 'but', 'or')."
+      ],
+      "correct_answer": "A sentence made of two or more simple sentences joined by a coordinating conjunction (like 'and', 'but', 'or').",
+      "explanation": "\"Compound sentence\" means: A sentence made of two or more simple sentences joined by a coordinating conjunction (like 'and', 'but', 'or')."
+    }
+  ]
+}

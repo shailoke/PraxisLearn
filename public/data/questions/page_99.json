@@ -1,0 +1,61 @@
+{
+  "topic": "Developing imagery and understanding poem structure",
+  "title": "Making Your Own Poetry Shine!",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"Precise imagery\" mean?",
+      "options": [
+        "Language that uses words or expressions with a meaning that is different from the literal interpretation (e.g., similes, metaphors).",
+        "Very detailed and specific mental pictures created by careful word choice.",
+        "The way a poem is organized, including its verses, line breaks, and rhythm.",
+        "A group of lines in a poem, often called a stanza."
+      ],
+      "correct_answer": "Very detailed and specific mental pictures created by careful word choice.",
+      "explanation": "\"Precise imagery\" means: Very detailed and specific mental pictures created by careful word choice."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"Figurative language\" mean?",
+      "options": [
+        "Very detailed and specific mental pictures created by careful word choice.",
+        "A group of lines in a poem, often called a stanza.",
+        "The way a poem is organized, including its verses, line breaks, and rhythm.",
+        "Language that uses words or expressions with a meaning that is different from the literal interpretation (e.g., similes, metaphors)."
+      ],
+      "correct_answer": "Language that uses words or expressions with a meaning that is different from the literal interpretation (e.g., similes, metaphors).",
+      "explanation": "\"Figurative language\" means: Language that uses words or expressions with a meaning that is different from the literal interpretation (e.g., similes, metaphors)."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Using precise imagery and strong ______ makes your poetic descriptions more vivid.",
+      "options": null,
+      "correct_answer": "verbs",
+      "explanation": "The full sentence is: \"Using precise imagery and strong verbs makes your poetic descriptions more vivid.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Using precise imagery and strong verbs makes your poetic descriptions more vivid.",
+        "Effective oral presentation brings poetry to life and helps an audience appreciate its imagery.",
+        "Incorporating poetic devices like alliteration, sibilance, assonance, and consonance enhances the sound and impact of your poetry.",
+        "Poem structure, including line breaks and verse length, plays a crucial role in how a poem is read and understood."
+      ],
+      "correct_answer": "Incorporating poetic devices like alliteration, sibilance, assonance, and consonance enhances the sound and impact of your poetry.",
+      "explanation": "Correct! \"Incorporating poetic devices like alliteration, sibilance, assonance, and consonance enhances the sound and impact of your poetry.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"Structure (of a poem)\" mean?",
+      "options": [
+        "The way a poem is organized, including its verses, line breaks, and rhythm.",
+        "A group of lines in a poem, often called a stanza.",
+        "Language that uses words or expressions with a meaning that is different from the literal interpretation (e.g., similes, metaphors).",
+        "Very detailed and specific mental pictures created by careful word choice."
+      ],
+      "correct_answer": "The way a poem is organized, including its verses, line breaks, and rhythm.",
+      "explanation": "\"Structure (of a poem)\" means: The way a poem is organized, including its verses, line breaks, and rhythm."
+    }
+  ]
+}

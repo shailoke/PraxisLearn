@@ -1,0 +1,61 @@
+{
+  "topic": "Reading a Biography: Commander Abhilash Tomy",
+  "title": "Commander Abhilash Tomy's Incredible Journey and Parenthesis",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"circumnavigation\" mean?",
+      "options": [
+        "a non-fiction story about someone else's life.",
+        "an exact copy of something, like a model boat.",
+        "travel all the way around something, like the Earth.",
+        "unable to move, often because of an injury."
+      ],
+      "correct_answer": "travel all the way around something, like the Earth.",
+      "explanation": "\"circumnavigation\" means: travel all the way around something, like the Earth."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"replica\" mean?",
+      "options": [
+        "a non-fiction story about someone else's life.",
+        "travel all the way around something, like the Earth.",
+        "unable to move, often because of an injury.",
+        "an exact copy of something, like a model boat."
+      ],
+      "correct_answer": "an exact copy of something, like a model boat.",
+      "explanation": "\"replica\" means: an exact copy of something, like a model boat."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Commander Abhilash Tomy completed an ______ solo journey around the world.",
+      "options": null,
+      "correct_answer": "amazing",
+      "explanation": "The full sentence is: \"Commander Abhilash Tomy completed an amazing solo journey around the world.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Brackets are used for parenthesis, which adds extra, non-essential information to a sentence.",
+        "It has no special meaning in writing.",
+        "A biography tells the factual story of a real person's life, written by someone else.",
+        "Commander Abhilash Tomy completed an amazing solo journey around the world."
+      ],
+      "correct_answer": "A biography tells the factual story of a real person's life, written by someone else.",
+      "explanation": "Correct! \"A biography tells the factual story of a real person's life, written by someone else.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"immobilised\" mean?",
+      "options": [
+        "an exact copy of something, like a model boat.",
+        "travel all the way around something, like the Earth.",
+        "a non-fiction story about someone else's life.",
+        "unable to move, often because of an injury."
+      ],
+      "correct_answer": "unable to move, often because of an injury.",
+      "explanation": "\"immobilised\" means: unable to move, often because of an injury."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "topic": "Identifying Features of Biography and Autobiography",
+  "title": "Practising with Biographies and Autobiographies",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"extracts\" mean?",
+      "options": [
+        "A noticeable quality or characteristic of something.",
+        "Using 'he', 'she', 'it', or 'they' to tell a story, as if someone else is observing the characters.",
+        "Using 'I' or 'we' to tell a story, as if the writer is the character.",
+        "Short passages or sections taken from a larger piece of writing."
+      ],
+      "correct_answer": "Short passages or sections taken from a larger piece of writing.",
+      "explanation": "\"extracts\" means: Short passages or sections taken from a larger piece of writing."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"feature\" mean?",
+      "options": [
+        "Short passages or sections taken from a larger piece of writing.",
+        "Using 'he', 'she', 'it', or 'they' to tell a story, as if someone else is observing the characters.",
+        "A noticeable quality or characteristic of something.",
+        "Using 'I' or 'we' to tell a story, as if the writer is the character."
+      ],
+      "correct_answer": "A noticeable quality or characteristic of something.",
+      "explanation": "\"feature\" means: A noticeable quality or characteristic of something."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Distinguish between biography and autobiography by ______ first-person ('I') vs. third-person ('he/she') narration.",
+      "options": null,
+      "correct_answer": "identifying",
+      "explanation": "The full sentence is: \"Distinguish between biography and autobiography by identifying first-person ('I') vs. third-person ('he/she') narration.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Distinguish between biography and autobiography by identifying first-person ('I') vs. third-person ('he/she') narration.",
+        "Recognize key features like dates, direct speech, reported speech, and standard English in texts.",
+        "Understand that practice helps in quickly classifying different types of non-fiction.",
+        "Identify whether a text contains only facts, only opinions, or a combination of both."
+      ],
+      "correct_answer": "Recognize key features like dates, direct speech, reported speech, and standard English in texts.",
+      "explanation": "Correct! \"Recognize key features like dates, direct speech, reported speech, and standard English in texts.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"first person\" mean?",
+      "options": [
+        "Using 'I' or 'we' to tell a story, as if the writer is the character.",
+        "Short passages or sections taken from a larger piece of writing.",
+        "Using 'he', 'she', 'it', or 'they' to tell a story, as if someone else is observing the characters.",
+        "A noticeable quality or characteristic of something."
+      ],
+      "correct_answer": "Using 'I' or 'we' to tell a story, as if the writer is the character.",
+      "explanation": "\"first person\" means: Using 'I' or 'we' to tell a story, as if the writer is the character."
+    }
+  ]
+}

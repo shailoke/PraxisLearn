@@ -1,0 +1,61 @@
+{
+  "topic": "Using Adverbs and Register in Dialogue",
+  "title": "Making Characters Speak: Adverbs and Register in Action",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"officious\" mean?",
+      "options": [
+        "Like someone who acts like an expert and is helpful, but also a bit bossy or formal, especially about rules.",
+        "Dirty or stained.",
+        "A conversation between two or more characters in a story.",
+        "A chemical liquid or powder used for washing and cleaning."
+      ],
+      "correct_answer": "Like someone who acts like an expert and is helpful, but also a bit bossy or formal, especially about rules.",
+      "explanation": "\"officious\" means: Like someone who acts like an expert and is helpful, but also a bit bossy or formal, especially about rules."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"soiled\" mean?",
+      "options": [
+        "Dirty or stained.",
+        "A chemical liquid or powder used for washing and cleaning.",
+        "A conversation between two or more characters in a story.",
+        "Like someone who acts like an expert and is helpful, but also a bit bossy or formal, especially about rules."
+      ],
+      "correct_answer": "Dirty or stained.",
+      "explanation": "\"soiled\" means: Dirty or stained."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Adverbs and adverbial phrases are powerful ______ to show character emotions and how they speak.",
+      "options": null,
+      "correct_answer": "tools",
+      "explanation": "The full sentence is: \"Adverbs and adverbial phrases are powerful tools to show character emotions and how they speak.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Different characters will use different registers, which is shown through their vocabulary and how they express themselves.",
+        "Adverbs and adverbial phrases are powerful tools to show character emotions and how they speak.",
+        "Practise creating and using a wide range of adverbs and adverbial phrases to make your dialogue vivid.",
+        "Always remember correct punctuation and layout for dialogue, starting a new line each time a different character speaks."
+      ],
+      "correct_answer": "Different characters will use different registers, which is shown through their vocabulary and how they express themselves.",
+      "explanation": "Correct! \"Different characters will use different registers, which is shown through their vocabulary and how they express themselves.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"detergent\" mean?",
+      "options": [
+        "Like someone who acts like an expert and is helpful, but also a bit bossy or formal, especially about rules.",
+        "A chemical liquid or powder used for washing and cleaning.",
+        "A conversation between two or more characters in a story.",
+        "Dirty or stained."
+      ],
+      "correct_answer": "A chemical liquid or powder used for washing and cleaning.",
+      "explanation": "\"detergent\" means: A chemical liquid or powder used for washing and cleaning."
+    }
+  ]
+}

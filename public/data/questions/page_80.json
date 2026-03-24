@@ -1,0 +1,61 @@
+{
+  "topic": "Deep Dive into Descriptive Writing and Story Creation",
+  "title": "Analyzing Descriptive Language and Planning Your Own Stories",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"thesaurus\" mean?",
+      "options": [
+        "A figure of speech where you compare two unlike things by saying one *is* the other.",
+        "Specific and strong action words that describe exactly what is happening.",
+        "None of the above",
+        "A book or online tool that lists words with similar meanings (synonyms) to help you find more precise vocabulary."
+      ],
+      "correct_answer": "A book or online tool that lists words with similar meanings (synonyms) to help you find more precise vocabulary.",
+      "explanation": "\"thesaurus\" means: A book or online tool that lists words with similar meanings (synonyms) to help you find more precise vocabulary."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"precise verbs\" mean?",
+      "options": [
+        "None of the above",
+        "A book or online tool that lists words with similar meanings (synonyms) to help you find more precise vocabulary.",
+        "Specific and strong action words that describe exactly what is happening.",
+        "A figure of speech where you compare two unlike things by saying one *is* the other."
+      ],
+      "correct_answer": "Specific and strong action words that describe exactly what is happening.",
+      "explanation": "\"precise verbs\" means: Specific and strong action words that describe exactly what is happening."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Practice using context ______ to understand new vocabulary words.",
+      "options": null,
+      "correct_answer": "clues",
+      "explanation": "The full sentence is: \"Practice using context clues to understand new vocabulary words.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Practice using context clues to understand new vocabulary words.",
+        "Analyze how writers describe settings using sensory details (what characters see, hear, etc.).",
+        "Identify various writing techniques: precise verbs, described sounds, character thoughts, metaphors, lists, repetition, and varied sentence lengths.",
+        "These techniques create vivid scenes and impact the reader's experience."
+      ],
+      "correct_answer": "Analyze how writers describe settings using sensory details (what characters see, hear, etc.).",
+      "explanation": "Correct! \"Analyze how writers describe settings using sensory details (what characters see, hear, etc.).\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"metaphor\" mean?",
+      "options": [
+        "None of the above",
+        "A figure of speech where you compare two unlike things by saying one *is* the other.",
+        "A book or online tool that lists words with similar meanings (synonyms) to help you find more precise vocabulary.",
+        "Specific and strong action words that describe exactly what is happening."
+      ],
+      "correct_answer": "A figure of speech where you compare two unlike things by saying one *is* the other.",
+      "explanation": "\"metaphor\" means: A figure of speech where you compare two unlike things by saying one *is* the other."
+    }
+  ]
+}

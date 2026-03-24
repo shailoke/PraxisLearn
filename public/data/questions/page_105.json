@@ -1,0 +1,61 @@
+{
+  "topic": "Analyzing a Narrative Poem",
+  "title": "Understanding 'The Pet' - A Narrative Poem",
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "What does \"rhyming words\" mean?",
+      "options": [
+        "None of the above",
+        "None of the above",
+        "words that have the same ending sound (e.g., cat, hat, sat).",
+        "the repetition of the same sound or letter at the beginning of adjacent or closely connected words (e.g., 'slippery slide')."
+      ],
+      "correct_answer": "words that have the same ending sound (e.g., cat, hat, sat).",
+      "explanation": "\"rhyming words\" means: words that have the same ending sound (e.g., cat, hat, sat)."
+    },
+    {
+      "type": "mcq",
+      "question": "What does \"alliteration\" mean?",
+      "options": [
+        "None of the above",
+        "None of the above",
+        "the repetition of the same sound or letter at the beginning of adjacent or closely connected words (e.g., 'slippery slide').",
+        "words that have the same ending sound (e.g., cat, hat, sat)."
+      ],
+      "correct_answer": "the repetition of the same sound or letter at the beginning of adjacent or closely connected words (e.g., 'slippery slide').",
+      "explanation": "\"alliteration\" means: the repetition of the same sound or letter at the beginning of adjacent or closely connected words (e.g., 'slippery slide')."
+    },
+    {
+      "type": "fill_blank",
+      "question": "Fill in the blank: Narrative poems tell a ______ through verse.",
+      "options": null,
+      "correct_answer": "story",
+      "explanation": "The full sentence is: \"Narrative poems tell a story through verse.\""
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Analyzing a narrator's voice and register helps identify who is telling the story.",
+        "Rhyming words and alliteration are poetic devices that add sound and emphasis.",
+        "Punctuation is crucial for interpreting meaning, pacing, and the narrator's tone in a poem.",
+        "Narrative poems tell a story through verse."
+      ],
+      "correct_answer": "Rhyming words and alliteration are poetic devices that add sound and emphasis.",
+      "explanation": "Correct! \"Rhyming words and alliteration are poetic devices that add sound and emphasis.\" is one of the key things to remember."
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is TRUE about this topic?",
+      "options": [
+        "Analyzing a narrator's voice and register helps identify who is telling the story.",
+        "Punctuation is crucial for interpreting meaning, pacing, and the narrator's tone in a poem.",
+        "Narrative poems tell a story through verse.",
+        "Rhyming words and alliteration are poetic devices that add sound and emphasis."
+      ],
+      "correct_answer": "Punctuation is crucial for interpreting meaning, pacing, and the narrator's tone in a poem.",
+      "explanation": "Correct! \"Punctuation is crucial for interpreting meaning, pacing, and the narrator's tone in a poem.\" is one of the key things to remember."
+    }
+  ]
+}
