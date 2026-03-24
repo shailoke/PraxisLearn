@@ -1,0 +1,43 @@
+{
+  "page_index_in_batch": 1,
+  "term": "Term 1",
+  "unit": "Unit 4: Fiction: Science fiction stories",
+  "topic": "Writing Character Interactions and Viewpoints",
+  "title": "Mixing Speech and Narration: A Robot's Story",
+  "explanation_chunks": [
+    "When you write stories, you use 'direct speech' to show exactly what a character says, like a robot saying 'Can I come home with you?'. You also use 'narration' to describe what characters do or think.",
+    "A good writer mixes these two. For example, after a robot speaks, the narration might tell us 'It offered its arm in a form of handshake,' showing its action without it saying anything.",
+    "It's a fun challenge to write a story from a character's 'viewpoint' – like imagining you are the robot! What would it see, think, and say? This makes the story more interesting.",
+    "When you describe feelings, try to 'show' them rather than just 'telling' them. Instead of 'I was very happy,' you could say 'I beamed' – it helps the reader imagine it better."
+  ],
+  "examples": [
+    "Instead of saying, 'The robot was happy,' you could write, 'The robot's eyes twinkled,' which implies happiness.",
+    "If you're writing from a robot's viewpoint, you might describe how it carefully measures things, even a simple handshake, because that's how a robot might think."
+  ],
+  "key_points": [
+    "Combine direct speech (what characters say) with narration (what the writer tells us about actions/thoughts).",
+    "Practise writing from a character's viewpoint to make the story come alive.",
+    "Use precise words to 'show' feelings and actions, not just 'tell' them.",
+    "Proofread your writing carefully, especially the punctuation for direct speech."
+  ],
+  "vocabulary": [
+    {
+      "word": "direct speech",
+      "definition": "The exact words a character says, usually inside quotation marks."
+    },
+    {
+      "word": "narration",
+      "definition": "The part of the story told by the writer, describing actions, thoughts, and background."
+    },
+    {
+      "word": "viewpoint",
+      "definition": "Whose eyes the story is seen through, or whose thoughts we hear (e.g., the robot's viewpoint)."
+    },
+    {
+      "word": "precise vocabulary",
+      "definition": "Using exact, strong words to describe things, rather than vague or common ones."
+    }
+  ],
+  "explain_again": "Imagine you're telling your friend a story about your new toy robot. You'd say what the robot *said* ('Hello!') and what it *did* ('Then it wiggled its arm'). That's mixing speech and telling! And if you imagine being the robot, how would you describe meeting a person? Maybe you'd notice their soft skin or how their voice made funny noises.",
+  "fun_analogy": "Writing with direct speech and narration is like being a director and an actor at the same time! You direct the scene by narrating what happens, and then you act out what your characters say. It makes the whole story much more exciting than just telling everyone what happened."
+}

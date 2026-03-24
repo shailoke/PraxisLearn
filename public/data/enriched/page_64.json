@@ -1,0 +1,60 @@
+{
+  "page_index_in_batch": 4,
+  "term": "Term 1",
+  "unit": "Unit 4",
+  "topic": "Narrative Techniques",
+  "title": "Telling a Story: Narration, Direct Speech, and Reported Speech",
+  "simple_explanation": "This page teaches us two big things about stories! First, sometimes the story tells you everything straight away, and sometimes you have to be a detective and guess what's really going on. Second, stories are fun because they mix what the author tells you with what the characters *say* out loud!",
+  "detailed_explanation": "Implicit information is when the writer *shows* you something without saying it directly. You have to use clues in the text to figure out what's really happening or how a character feels. It's like guessing what someone thinks by their actions. Good writers cleverly mix narration (the part where the story is told by the writer), direct speech (the exact words characters say, in speech marks), and reported speech (telling what someone said without using their exact words). Mixing these styles makes a story flow nicely. You get to hear the characters' voices directly, but the narration also moves the story along and describes everything else. It's like watching a movie with both action scenes and dialogue. When characters talk, remember that each time a *new* person speaks, you need to start a new line. This makes it super clear who is saying what.",
+  "examples_expanded": [
+    {
+      "text": "Explicit: \"The dog was brown.\" Implicit: \"The dog wagged its tail and licked my hand.\" (You can infer the dog is friendly).",
+      "context": "This example shows how we use the concept of narrative techniques in a real sentence."
+    },
+    {
+      "text": "Narration: \"The robot walked towards them.\" Direct Speech: \"'Hello!' it said.\" Reported Speech: \"I told them I was happy to hear that.\"",
+      "context": "This example shows how we use the concept of narrative techniques in a real sentence."
+    }
+  ],
+  "guided_practice": [
+    "Identify the meaning of 'explicit' in a sentence. Remember it means: Information that is clearly and directly stated.",
+    "Match the word 'implicit' with a similar concept from your own experience.",
+    "Look at the first example again. How would you modify it to make it your own?"
+  ],
+  "application_tasks": [
+    "Create 3 of your own sentences using the core idea of Narrative Techniques.",
+    "Imagine you are teaching this topic to a friend. Write down exactly what you would say."
+  ],
+  "challenge_tasks": [
+    "Combine the concept of 'explicit' with something you learned in a previous chapter to write a short paragraph.",
+    "Can you find an exception to this rule or a creative way to bend it? Explain how."
+  ],
+  "key_points": [
+    "Explicit information is stated directly.",
+    "Implicit information is inferred by the reader.",
+    "Writers mix narration, direct speech, and reported speech for smooth storytelling.",
+    "Start a new line for each new speaker in dialogue."
+  ],
+  "vocabulary": [
+    {
+      "word": "explicit",
+      "definition": "Information that is clearly and directly stated."
+    },
+    {
+      "word": "implicit",
+      "definition": "Information that is suggested or hinted at, requiring the reader to infer."
+    },
+    {
+      "word": "narration",
+      "definition": "The parts of a story where the author tells what is happening."
+    },
+    {
+      "word": "direct speech",
+      "definition": "The exact words a character says, shown inside speech marks."
+    },
+    {
+      "word": "reported speech",
+      "definition": "Telling what someone said without using their exact words (e.g., \"She said that she liked it\")."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "page_index_in_batch": 5,
+  "term": "Term 1",
+  "unit": "Unit 6",
+  "topic": "Different forms of poetry",
+  "title": "Discovering Haiku and Tanka Poems",
+  "simple_explanation": "This page is about special Japanese poems called Haiku and Tanka. They are like short word puzzles where you have to count the 'beats' (syllables) in each line. Haiku has 3 lines (5-7-5 beats), and Tanka has 5 lines (5-7-5-7-7 beats). Every word is super important!",
+  "detailed_explanation": "Some poems have very strict rules about how many syllables are in each line. Two famous examples from Japan are Haiku and Tanka. 'Haiku' poems are super short and sweet, with just three lines. They follow a special syllable pattern: the first line has 5 syllables, the second line has 7, and the third line has 5 (5-7-5). Haikus often describe nature. 'Tanka' poems are a bit longer, with five lines, and they have their own syllable pattern: 5-7-5-7-7. They are sometimes called 'short songs' and often tell a little story or express a feeling. Because Haiku and Tanka are so short, every single word a poet chooses is incredibly important! Each word has to work hard to create a clear image or strong feeling.",
+  "examples_expanded": [
+    {
+      "text": "The word 'ad-ven-tur-ous-ly' has five syllables. Try clapping out the beats as you say it!",
+      "context": "This example shows how we use the concept of different forms of poetry in a real sentence."
+    },
+    {
+      "text": "A famous Haiku: 'An old silent pond... / A frog jumps into the pond, / splash! Silence again.' (5-7-5 syllables) It paints a clear picture of nature.",
+      "context": "This example shows how we use the concept of different forms of poetry in a real sentence."
+    },
+    {
+      "text": "A Tanka might tell a tiny story about finding something on the beach, like 'The speckled shell / half-buried in the soft earth / I stoop to touch it / a clammy foot inches out / I leave it to become grown.' (5-7-5-7-7 syllables)",
+      "context": "This example shows how we use the concept of different forms of poetry in a real sentence."
+    }
+  ],
+  "guided_practice": [
+    "Identify the meaning of 'Syllables' in a sentence. Remember it means: Units of sound in a word, like the distinct 'beats' you hear (e.g., 'wa-ter' has two syllables).",
+    "Match the word 'Monosyllabic' with a similar concept from your own experience.",
+    "Look at the first example again. How would you modify it to make it your own?"
+  ],
+  "application_tasks": [
+    "Create 3 of your own sentences using the core idea of Different forms of poetry.",
+    "Imagine you are teaching this topic to a friend. Write down exactly what you would say."
+  ],
+  "challenge_tasks": [
+    "Combine the concept of 'Syllables' with something you learned in a previous chapter to write a short paragraph.",
+    "Can you find an exception to this rule or a creative way to bend it? Explain how."
+  ],
+  "key_points": [
+    "Syllables are sound units that form words and are crucial for understanding poetic form.",
+    "Haiku is a 3-line Japanese poem with a 5-7-5 syllable structure, often focusing on nature.",
+    "Tanka is a 5-line Japanese poem with a 5-7-5-7-7 syllable structure, often telling a short story.",
+    "Due to their brevity, every word in Haiku and Tanka is carefully chosen for maximum impact and imagery."
+  ],
+  "vocabulary": [
+    {
+      "word": "Syllables",
+      "definition": "Units of sound in a word, like the distinct 'beats' you hear (e.g., 'wa-ter' has two syllables)."
+    },
+    {
+      "word": "Monosyllabic",
+      "definition": "A word that has only one syllable (e.g., 'cat', 'run')."
+    },
+    {
+      "word": "Polysyllabic",
+      "definition": "A word that has more than one syllable (e.g., 'el-e-phant', 'com-pu-ter')."
+    },
+    {
+      "word": "Haiku",
+      "definition": "A short Japanese poem with three lines following a 5, 7, 5 syllable pattern, usually about nature."
+    },
+    {
+      "word": "Tanka",
+      "definition": "A traditional Japanese poem with five lines following a 5, 7, 5, 7, 7 syllable pattern, often a 'short song' telling a story."
+    },
+    {
+      "word": "Stoop",
+      "definition": "To bend your body forward and downward."
+    },
+    {
+      "word": "Clammy",
+      "definition": "Unpleasantly damp, sticky, and cool to the touch."
+    }
+  ]
+}

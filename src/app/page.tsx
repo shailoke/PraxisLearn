@@ -1,65 +1,92 @@
-import Image from "next/image";
+import Link from 'next/link';
+import { Book, Play, Star } from 'lucide-react';
+import fs from 'fs';
+import path from 'path';
 
-export default function Home() {
+// Force dynamic fetching in dev, but build-time mostly
+export const revalidate = 60;
+
+export default async function Home() {
+  let indexData = [];
+  try {
+    const indexPath = path.join(process.cwd(), 'public/data/index.json');
+    if (fs.existsSync(indexPath)) {
+      indexData = JSON.parse(fs.readFileSync(indexPath, 'utf-8'));
+    }
+  } catch (e) {
+    console.error("Failed to load index.json", e);
+  }
+
+  // Group by Unit
+  const unitsMap = new Map();
+  indexData.forEach((page: any) => {
+    if (!unitsMap.has(page.unit)) {
+      unitsMap.set(page.unit, {
+        term: page.term,
+        name: page.unit,
+        topics: new Map()
+      });
+    }
+    const unitObj = unitsMap.get(page.unit);
+    if (!unitObj.topics.has(page.topic)) {
+      unitObj.topics.set(page.topic, []);
+    }
+    unitObj.topics.get(page.topic).push(page);
+  });
+
+  const units = Array.from(unitsMap.values());
+
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
+    <div className="space-y-8">
+      <div className="glass-card p-8 bg-gradient-to-r from-primary/10 to-secondary/10 relative overflow-hidden">
+        <div className="absolute top-0 right-0 p-8 opacity-20">
+          <Star size={120} className="text-primary animate-pulse" />
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
+        <div className="relative z-10">
+          <h2 className="text-4xl font-extrabold text-slate-800 mb-2">Welcome Back! 🚀</h2>
+          <p className="text-lg text-slate-600 max-w-lg mb-6">Ready to learn something new today? Pick a topic below and let's jump right in.</p>
+          <div className="flex gap-4">
+            <span className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white text-primary text-sm font-semibold shadow-sm">
+              <Book size={16} /> {indexData.length} Lessons Available
+            </span>
+          </div>
         </div>
-      </main>
+      </div>
+
+      <div className="grid gap-6">
+        {units.length === 0 ? (
+          <div className="text-center py-12 text-slate-500">Loading lessons... check back in a minute!</div>
+        ) : (
+          units.map((unit, i) => (
+            <div key={i} className="glass-card p-6">
+              <div className="mb-4">
+                 <span className="text-xs font-bold uppercase tracking-wider text-secondary mb-1 block">{unit.term}</span>
+                 <h3 className="text-2xl font-bold text-slate-800">{unit.name}</h3>
+              </div>
+              <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
+                {Array.from(unit.topics.entries()).map(([topicName, pages]: any, j) => {
+                  const firstPageId = pages[0].pageNumber;
+                  const uId = encodeURIComponent(unit.name);
+                  const tId = encodeURIComponent(topicName);
+                  const href = `/term/all/unit/${uId}/topic/${tId}/page/${firstPageId}`;
+                  
+                  return (
+                    <Link key={j} href={href} className="group block">
+                      <div className="h-full bounce-hover bg-slate-50 border border-slate-100/50 rounded-xl p-5 hover:bg-white hover:border-primary/30 transition-colors relative overflow-hidden">
+                        <div className="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center text-primary mb-3 group-hover:scale-110 transition-transform">
+                          <Play size={18} fill="currentColor" />
+                        </div>
+                        <h4 className="font-bold text-slate-800 mb-1">{topicName}</h4>
+                        <p className="text-sm text-slate-500">{pages.length} Pages</p>
+                      </div>
+                    </Link>
+                  );
+                })}
+              </div>
+            </div>
+          ))
+        )}
+      </div>
     </div>
   );
 }

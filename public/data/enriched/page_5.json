@@ -1,0 +1,78 @@
+{
+  "page_index_in_batch": 5,
+  "term": "Getting Started",
+  "unit": "Book Navigation",
+  "topic": "Understanding Textbook Features",
+  "title": "How to Be a Textbook Explorer: Your Guide to This Book!",
+  "simple_explanation": "This page teaches you how to read your English book! It shows you where to find the main idea, new lessons, reminders, fun facts, harder activities, and definitions for new words. It's like having a map for all the secret treasures in your book!",
+  "detailed_explanation": "You'll find clear labels telling you 'what the theme is about' for each section, so you always know the main idea you're focusing on. There are also places where you'll 'learn new English skills' with examples to guide you. Look out for boxes that 'remember a skill you have already learned.' These are helpful reminders that connect new ideas to what you already know. You might also find 'interesting facts' to make learning even more fun! If you love a challenge, there are 'challenge yourself' tasks. And for those tricky new words, there's always a section that 'looks here for the meaning of new words' (that's your vocabulary helper!). Finally, at the end of a unit or term, you'll see sections to 'check the things you have learned' or a full 'review'. These are fantastic ways to see how much you've mastered and celebrate your progress!",
+  "examples_expanded": [
+    {
+      "text": "If a page has a 'theme' of 'Describing characters', you know you'll be focusing on how to write about people in stories.",
+      "context": "This example shows how we use the concept of understanding textbook features in a real sentence."
+    },
+    {
+      "text": "A 'new skill' might teach you how to use powerful adjectives, with an example like: 'The *shaggy*, *energetic* dog barked *loudly*.'",
+      "context": "This example shows how we use the concept of understanding textbook features in a real sentence."
+    },
+    {
+      "text": "A 'challenge' task might ask you to write a poem using a new style you just learned, pushing your creativity further.",
+      "context": "This example shows how we use the concept of understanding textbook features in a real sentence."
+    }
+  ],
+  "guided_practice": [
+    "Identify the meaning of 'Theme' in a sentence. Remember it means: The main subject or idea in a piece of writing or a lesson.",
+    "Match the word 'Skills' with a similar concept from your own experience.",
+    "Look at the first example again. How would you modify it to make it your own?"
+  ],
+  "application_tasks": [
+    "Create 3 of your own sentences using the core idea of Understanding Textbook Features.",
+    "Imagine you are teaching this topic to a friend. Write down exactly what you would say."
+  ],
+  "challenge_tasks": [
+    "Combine the concept of 'Theme' with something you learned in a previous chapter to write a short paragraph.",
+    "Can you find an exception to this rule or a creative way to bend it? Explain how."
+  ],
+  "key_points": [
+    "Each page has different sections to help you understand and learn effectively.",
+    "Identify the theme to grasp the main topic of a section.",
+    "Pay attention to new skills, examples, and reminders of previous learning.",
+    "Utilize 'interesting facts' and 'challenge tasks' for extended learning.",
+    "Always check the 'vocabulary' sections for definitions of new words.",
+    "Use 'review' sections to test your understanding and track your progress."
+  ],
+  "vocabulary": [
+    {
+      "word": "Theme",
+      "definition": "The main subject or idea in a piece of writing or a lesson."
+    },
+    {
+      "word": "Skills",
+      "definition": "Abilities or proficiencies that you develop, like reading, writing, or speaking well."
+    },
+    {
+      "word": "Examples",
+      "definition": "Things shown as a typical instance or model to illustrate a point."
+    },
+    {
+      "word": "Digital resource",
+      "definition": "Online materials, such as audio files or videos, that accompany the textbook."
+    },
+    {
+      "word": "Fact",
+      "definition": "Something that is known to be true or has happened."
+    },
+    {
+      "word": "Practise",
+      "definition": "To do something repeatedly in order to improve a skill."
+    },
+    {
+      "word": "Challenge",
+      "definition": "A difficult task or situation that tests your abilities."
+    },
+    {
+      "word": "Review",
+      "definition": "A re-examination or assessment of something studied, often to check understanding."
+    }
+  ]
+}

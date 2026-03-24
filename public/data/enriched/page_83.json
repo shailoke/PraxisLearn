@@ -1,0 +1,73 @@
+{
+  "page_index_in_batch": 3,
+  "term": "Term 2",
+  "unit": "Unit 5: Non-fiction",
+  "topic": "Features of argument texts",
+  "title": "Dissecting an Argument: Key Parts and Presentation",
+  "simple_explanation": "This page helps you be a super detective for argument texts! You look for the different parts of a text, like the beginning, the reasons (with proof!), and the ending. It's like finding all the different ingredients in a recipe to understand how the whole cake was made. You also learn how to make your own lists of ideas super clear, like a shopping list.",
+  "detailed_explanation": "An argument text has several important 'features' or parts, like an 'introduction' to get started, your main 'opinions' (what you believe), 'evidence' (facts or examples to prove your points), and that final conclusion. You can use these features to break down and understand any argument. You'll often find 'signposting adverbs' and phrases, like 'in addition' or 'to conclude,' that help guide the reader through your arguments. Also, good arguments sometimes include information from 'trustworthy sources' to make their points even stronger. Sometimes, presenting information in a list using 'bullet points' can make it much easier to read and understand, especially if you have several clear reasons or facts. It breaks down complex ideas into simple chunks. This page also encourages you to use connectives when discussing ideas with others, helping you structure your thoughts clearly whether you're speaking or writing.",
+  "examples_expanded": [
+    {
+      "text": "A conclusion might say: 'To conclude, it is clear that banning cars will create a healthier city.'",
+      "context": "This example shows how we use the concept of features of argument texts in a real sentence."
+    },
+    {
+      "text": "Instead of a long sentence, you might use bullet points to list: '- Cars cause pollution. - Cars lead to traffic jams. - Cars make journeys slower.'",
+      "context": "This example shows how we use the concept of features of argument texts in a real sentence."
+    },
+    {
+      "text": "Using connectives in discussion: 'To begin with, I think children should choose their bedtime because it teaches responsibility. Furthermore, they learn about time management.'",
+      "context": "This example shows how we use the concept of features of argument texts in a real sentence."
+    }
+  ],
+  "guided_practice": [
+    "Identify the meaning of 'logical' in a sentence. Remember it means: sensible and reasonable; following a clear and correct way of thinking.",
+    "Match the word 'idle' with a similar concept from your own experience.",
+    "Look at the first example again. How would you modify it to make it your own?"
+  ],
+  "application_tasks": [
+    "Create 3 of your own sentences using the core idea of Features of argument texts.",
+    "Imagine you are teaching this topic to a friend. Write down exactly what you would say."
+  ],
+  "challenge_tasks": [
+    "Combine the concept of 'logical' with something you learned in a previous chapter to write a short paragraph.",
+    "Can you find an exception to this rule or a creative way to bend it? Explain how."
+  ],
+  "key_points": [
+    "A strong conclusion summarizes the argument and often calls for action.",
+    "Argument texts follow a structure: introduction, opinions, evidence, and conclusion.",
+    "Signposting words and trustworthy sources strengthen an argument.",
+    "Bullet points can improve readability for lists of ideas.",
+    "Practicing connectives helps organize thoughts for both speaking and writing arguments."
+  ],
+  "vocabulary": [
+    {
+      "word": "logical",
+      "definition": "sensible and reasonable; following a clear and correct way of thinking."
+    },
+    {
+      "word": "idle",
+      "definition": "when an engine is running but not moving the vehicle, like a car waiting at traffic lights."
+    },
+    {
+      "word": "introduction",
+      "definition": "the beginning part of an argument text that explains the topic."
+    },
+    {
+      "word": "opinion",
+      "definition": "what someone believes or thinks about something."
+    },
+    {
+      "word": "evidence",
+      "definition": "facts, information, or details that support an idea or claim."
+    },
+    {
+      "word": "conclusion",
+      "definition": "the final part of an argument text that summarizes the main points and often states the writer's final thought."
+    },
+    {
+      "word": "subordinate clauses",
+      "definition": "a part of a sentence that adds extra information but can't stand alone as a complete sentence."
+    }
+  ]
+}

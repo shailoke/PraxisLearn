@@ -1,0 +1,77 @@
+{
+  "page_index_in_batch": 5,
+  "term": "Term 1",
+  "unit": "Unit 2",
+  "topic": "Adding Extra Information to Sentences",
+  "title": "Making Sentences Richer with Extra Details",
+  "simple_explanation": "This page teaches you super cool tricks to add more details to your sentences! You can use words like 'who' or 'which' to sneak in extra facts. Or you can put extra notes in little curved lines called brackets (like (this)). It makes your sentences sparkle with more information!",
+  "detailed_explanation": "This page teaches you how to add extra details to your sentences using special words called **relative pronouns**. These words, like 'who', 'which', or 'where', help you connect more information about a noun or pronoun in your sentence. When you add these extra bits of information (called relative clauses), you often need to use **commas** to set them apart. This helps the reader understand that it's extra detail, not the main part of the sentence. Another way to add extra information is by using **brackets** (like these: ( )). You can put extra facts, explanations, or comments inside brackets. The cool thing about information in brackets is that you can remove it, and the sentence will still make perfect sense!",
+  "examples_expanded": [
+    {
+      "text": "Instead of 'Commander Abhilash Tomy is from India. He has won many medals for his sailing,' you can combine them using a relative pronoun: 'Commander Abhilash Tomy, **who** has won many medals for his sailing, is from India.'",
+      "context": "This example shows how we use the concept of adding extra information to sentences in a real sentence."
+    },
+    {
+      "text": "For adding information with brackets: 'The Golden Globe Race (first held in 1968) challenges sailors to sail non-stop around the world.' If you remove the brackets, the sentence 'The Golden Globe Race challenges sailors to sail non-stop around the world' still works perfectly.",
+      "context": "This example shows how we use the concept of adding extra information to sentences in a real sentence."
+    }
+  ],
+  "guided_practice": [
+    "Identify the meaning of 'nouns' in a sentence. Remember it means: Words that name a person, place, thing, or idea (e.g., table, London, happiness).",
+    "Match the word 'proper nouns' with a similar concept from your own experience.",
+    "Look at the first example again. How would you modify it to make it your own?"
+  ],
+  "application_tasks": [
+    "Create 3 of your own sentences using the core idea of Adding Extra Information to Sentences.",
+    "Imagine you are teaching this topic to a friend. Write down exactly what you would say."
+  ],
+  "challenge_tasks": [
+    "Combine the concept of 'nouns' with something you learned in a previous chapter to write a short paragraph.",
+    "Can you find an exception to this rule or a creative way to bend it? Explain how."
+  ],
+  "key_points": [
+    "Review the use of nouns, proper nouns, and pronouns.",
+    "Use relative pronouns (who, whom, whose, that, which, where) to add more detail about nouns or pronouns.",
+    "Correctly punctuate relative clauses using commas.",
+    "Use brackets for parenthesis to insert extra information or comments that are not essential to the sentence's main meaning.",
+    "Understand that extra information makes writing more detailed and interesting, without making it confusing."
+  ],
+  "vocabulary": [
+    {
+      "word": "nouns",
+      "definition": "Words that name a person, place, thing, or idea (e.g., table, London, happiness)."
+    },
+    {
+      "word": "proper nouns",
+      "definition": "Specific names of people, places, or things, always capitalized (e.g., Sarah, Paris, Christmas)."
+    },
+    {
+      "word": "pronouns",
+      "definition": "Words that replace nouns to avoid repetition (e.g., he, she, it, they, we)."
+    },
+    {
+      "word": "relative pronouns",
+      "definition": "Words like 'who', 'which', 'where', 'that' used to introduce extra information about a noun."
+    },
+    {
+      "word": "relative clauses",
+      "definition": "A part of a sentence that starts with a relative pronoun and adds extra information about a noun."
+    },
+    {
+      "word": "punctuated",
+      "definition": "Using punctuation marks correctly in writing."
+    },
+    {
+      "word": "parenthesis",
+      "definition": "Extra information added into a sentence, often using brackets or commas, that can be removed without changing the sentence's core meaning."
+    },
+    {
+      "word": "brackets",
+      "definition": "Punctuation marks ( ) used to enclose extra information."
+    },
+    {
+      "word": "tone of voice",
+      "definition": "The way you speak, showing your feelings or attitude (e.g., happy, serious, excited)."
+    }
+  ]
+}

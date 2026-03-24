@@ -1,0 +1,60 @@
+{
+  "page_index_in_batch": 2,
+  "term": "Term 1",
+  "unit": "Unit 3: Poetry: Exploring figurative language",
+  "topic": "Introduction to Figurative Language: Personification, Rhyme, and Alliteration",
+  "title": "What is Figurative Language? (Part 1)",
+  "simple_explanation": "This page teaches us how poets use clever word tricks to make poems super interesting! Like making the sun act like a person (that's personification), or making words sound musical by rhyming, or repeating the first sound in words to make it catchy. It's like painting with words!",
+  "detailed_explanation": "One type is 'personification', where you give human qualities or actions to things that aren't human. Think of it like a teddy bear suddenly talking or dancing! We also look at 'rhyme', which is when words sound similar at the end, like 'cat' and 'hat'. It makes poems musical. 'Alliteration' is when words close together start with the same sound, like 'slippery snake'! Today, we're going to read a poem about the sun and pretend it's a person. We'll see how the poet makes the sun happy or grumpy by giving it human feelings and actions.",
+  "examples_expanded": [
+    {
+      "text": "Personification: 'The wind whispered secrets through the trees.' (Wind can't literally whisper, but it sounds like it does!)",
+      "context": "This example shows how we use the concept of introduction to figurative language: personification, rhyme, and alliteration in a real sentence."
+    },
+    {
+      "text": "Rhyme: 'Twinkle, twinkle, little star, how I wonder what you *are*.' (star/are)",
+      "context": "This example shows how we use the concept of introduction to figurative language: personification, rhyme, and alliteration in a real sentence."
+    },
+    {
+      "text": "Alliteration: 'Peter Piper picked a peck of pickled peppers.'",
+      "context": "This example shows how we use the concept of introduction to figurative language: personification, rhyme, and alliteration in a real sentence."
+    }
+  ],
+  "guided_practice": [
+    "Identify the meaning of 'figurative language' in a sentence. Remember it means: using words in a creative way to mean something other than their literal meaning, to make writing more vivid.",
+    "Match the word 'personification' with a similar concept from your own experience.",
+    "Look at the first example again. How would you modify it to make it your own?"
+  ],
+  "application_tasks": [
+    "Create 3 of your own sentences using the core idea of Introduction to Figurative Language: Personification, Rhyme, and Alliteration.",
+    "Imagine you are teaching this topic to a friend. Write down exactly what you would say."
+  ],
+  "challenge_tasks": [
+    "Combine the concept of 'figurative language' with something you learned in a previous chapter to write a short paragraph.",
+    "Can you find an exception to this rule or a creative way to bend it? Explain how."
+  ],
+  "key_points": [
+    "Figurative language makes poetry engaging.",
+    "Personification gives human traits to non-human things.",
+    "Rhyme creates musicality, and alliteration adds a pleasing sound effect.",
+    "Analyzing how poets use language helps us understand their message."
+  ],
+  "vocabulary": [
+    {
+      "word": "figurative language",
+      "definition": "using words in a creative way to mean something other than their literal meaning, to make writing more vivid."
+    },
+    {
+      "word": "personification",
+      "definition": "giving human qualities or actions to animals or objects (e.g., 'the grumpy sun')."
+    },
+    {
+      "word": "rhyme",
+      "definition": "words that have the same ending sound (e.g., 'bed' and 'head')."
+    },
+    {
+      "word": "alliteration",
+      "definition": "when words close together start with the same sound (e.g., 'happy house')."
+    }
+  ]
+}

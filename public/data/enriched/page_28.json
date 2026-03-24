@@ -1,0 +1,80 @@
+{
+  "page_index_in_batch": 3,
+  "term": "Term 1",
+  "unit": "Unit 2",
+  "topic": "Identifying Features of Biography and Autobiography",
+  "title": "Practising with Biographies and Autobiographies",
+  "simple_explanation": "This page is like a fun game where you read little bits of stories and try to guess if they're about the writer's own life ('I' story) or someone else's life ('he/she' story). You're like a word detective, looking for clues!",
+  "detailed_explanation": "To do this, you'll look for clues. A big clue is whether the story uses 'I' (first person, meaning autobiography) or 'he/she' (third person, meaning biography). You'll also practice finding other important features in these stories, like dates, direct quotes from people, and whether they sound formal or personal. This page also helps you to spot if a piece of writing contains only facts, only opinions, or a mix of both. Remember, good writing often blends factual information with personal thoughts and reflections, especially in autobiographies.",
+  "examples_expanded": [
+    {
+      "text": "If you read 'I was born in London and loved playing football,' you'd know it's an **autobiography** because of the 'I'.",
+      "context": "This example shows how we use the concept of identifying features of biography and autobiography in a real sentence."
+    },
+    {
+      "text": "If you read 'Hannah Coker was born in London and moved to Peru,' you'd know it's a **biography** because it uses 'Hannah Coker' and talks about her.",
+      "context": "This example shows how we use the concept of identifying features of biography and autobiography in a real sentence."
+    },
+    {
+      "text": "An extract with **only facts** might be 'The meeting started at 9 AM on Tuesday.' An extract with **only opinion** might be 'That meeting was incredibly boring and a waste of time!'",
+      "context": "This example shows how we use the concept of identifying features of biography and autobiography in a real sentence."
+    }
+  ],
+  "guided_practice": [
+    "Identify the meaning of 'extracts' in a sentence. Remember it means: Short passages or sections taken from a larger piece of writing.",
+    "Match the word 'feature' with a similar concept from your own experience.",
+    "Look at the first example again. How would you modify it to make it your own?"
+  ],
+  "application_tasks": [
+    "Create 3 of your own sentences using the core idea of Identifying Features of Biography and Autobiography.",
+    "Imagine you are teaching this topic to a friend. Write down exactly what you would say."
+  ],
+  "challenge_tasks": [
+    "Combine the concept of 'extracts' with something you learned in a previous chapter to write a short paragraph.",
+    "Can you find an exception to this rule or a creative way to bend it? Explain how."
+  ],
+  "key_points": [
+    "Distinguish between biography and autobiography by identifying first-person ('I') vs. third-person ('he/she') narration.",
+    "Recognize key features like dates, direct speech, reported speech, and standard English in texts.",
+    "Identify whether a text contains only facts, only opinions, or a combination of both.",
+    "Understand that practice helps in quickly classifying different types of non-fiction."
+  ],
+  "vocabulary": [
+    {
+      "word": "extracts",
+      "definition": "Short passages or sections taken from a larger piece of writing."
+    },
+    {
+      "word": "feature",
+      "definition": "A noticeable quality or characteristic of something."
+    },
+    {
+      "word": "first person",
+      "definition": "Using 'I' or 'we' to tell a story, as if the writer is the character."
+    },
+    {
+      "word": "third person",
+      "definition": "Using 'he', 'she', 'it', or 'they' to tell a story, as if someone else is observing the characters."
+    },
+    {
+      "word": "direct speech",
+      "definition": "The exact words spoken by someone, usually put inside quotation marks."
+    },
+    {
+      "word": "reported speech",
+      "definition": "Telling what someone said, but without using their exact words (e.g., 'He said that he was tired')."
+    },
+    {
+      "word": "standard English",
+      "definition": "The form of English grammar, vocabulary, and spelling that is generally accepted as correct."
+    },
+    {
+      "word": "legible",
+      "definition": "Clear enough to read."
+    },
+    {
+      "word": "genres",
+      "definition": "Different types or categories of books or art."
+    }
+  ]
+}

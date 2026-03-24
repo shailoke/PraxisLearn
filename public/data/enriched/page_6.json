@@ -1,0 +1,64 @@
+{
+  "page_index_in_batch": 1,
+  "term": "Term 1",
+  "unit": "Unit 1",
+  "topic": "Fiction: Stories with flashbacks",
+  "title": "Welcome to Flashbacks and Sentence Power!",
+  "simple_explanation": "Sometimes in stories, the writer will show you something that happened before, like a memory! That's a flashback. Also, sentences can be short and quick (simple sentences) or longer, joining two quick ideas with words like 'and' or 'but' (compound sentences).",
+  "detailed_explanation": "Think of a flashback like hitting the rewind button on a video. You're watching the main story, and then suddenly the scene changes to something that happened before, helping you understand the characters or plot better. We'll also explore how writers use different types of sentences to make their stories exciting and dramatic. Just like you use different tools for different jobs, writers use different sentences for different effects! A simple sentence is like a short, punchy statement – it has just one idea, or 'clause'. For example, 'The cat purred.' This can make your writing very direct and powerful. A compound sentence is where you join two or more simple sentences together with a connecting word like 'and', 'but', 'or', 'so', or 'since'. It allows you to link related ideas and show when things happen at the same time or for a reason. For instance, 'The dog barked, and the cat ran away.'",
+  "examples_expanded": [
+    {
+      "text": "Imagine you're playing a game, and suddenly you remember a tricky level you played last week that helps you now. That's kind of like a flashback!",
+      "context": "This example shows how we use the concept of fiction: stories with flashbacks in a real sentence."
+    },
+    {
+      "text": "Simple sentence example: 'The ball bounced.' (Just one action, one main idea).",
+      "context": "This example shows how we use the concept of fiction: stories with flashbacks in a real sentence."
+    },
+    {
+      "text": "Compound sentence example: 'The sun was shining, but it was still quite cold.' (Two simple ideas linked by 'but').",
+      "context": "This example shows how we use the concept of fiction: stories with flashbacks in a real sentence."
+    }
+  ],
+  "guided_practice": [
+    "Identify the meaning of 'flashback' in a sentence. Remember it means: A part of a story that takes you back to an earlier time.",
+    "Match the word 'simple sentence' with a similar concept from your own experience.",
+    "Look at the first example again. How would you modify it to make it your own?"
+  ],
+  "application_tasks": [
+    "Create 3 of your own sentences using the core idea of Fiction: Stories with flashbacks.",
+    "Imagine you are teaching this topic to a friend. Write down exactly what you would say."
+  ],
+  "challenge_tasks": [
+    "Combine the concept of 'flashback' with something you learned in a previous chapter to write a short paragraph.",
+    "Can you find an exception to this rule or a creative way to bend it? Explain how."
+  ],
+  "key_points": [
+    "Flashbacks are parts of a story that show past events.",
+    "Simple sentences have one main idea (clause).",
+    "Compound sentences combine two or more main ideas (clauses) using words like 'and', 'but', 'or', 'so', 'since'.",
+    "Writers choose different sentence types for dramatic effect, description, or to show multiple actions."
+  ],
+  "vocabulary": [
+    {
+      "word": "flashback",
+      "definition": "A part of a story that takes you back to an earlier time."
+    },
+    {
+      "word": "simple sentence",
+      "definition": "A sentence with one main idea."
+    },
+    {
+      "word": "compound sentence",
+      "definition": "A sentence made from two or more simple ideas joined together."
+    },
+    {
+      "word": "clause",
+      "definition": "A part of a sentence that has a subject and a verb and forms a complete thought or part of one."
+    },
+    {
+      "word": "connectives",
+      "definition": "Words that join sentences or parts of sentences, like 'and', 'but', 'or'."
+    }
+  ]
+}

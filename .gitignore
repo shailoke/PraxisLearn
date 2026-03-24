@@ -39,3 +39,15 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# build artifacts
+.turbo
+dist
+
+# project logs
+error_dump.log
+error.txt
+error_utf8.txt
+capture.log
+tsc.log
+wait_silent.mjs

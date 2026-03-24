@@ -1,0 +1,86 @@
+{
+  "page_index_in_batch": 2,
+  "term": "Term 1",
+  "unit": "Unit 1: Fiction: Stories with flashbacks",
+  "topic": "Story Comprehension and Punctuation Practice",
+  "title": "Understanding Character and Using Punctuation",
+  "simple_explanation": "This page is like a special detective lesson for stories! You learn new words to understand Africa's adventures better. You also learn about a new punctuation mark, the 'semi-colon', which is like a super-smart comma that glues two related sentences together. You get to guess what characters are thinking (that's inferring!), understand cool comparisons called 'similes', and even learn a trick for spelling words when you add endings like '-ing' (sometimes you double a letter!).",
+  "detailed_explanation": "The glossary gives you definitions for some tricky words from the story. For example, 'gingerly' means carefully, and 'hullabaloo' means a lot of noise. Understanding these words helps paint a clearer picture in your mind. You'll practice using colons and a new punctuation mark called a semi-colon (;). A semi-colon is like a comma that's a bit stronger; it connects two complete sentences that are closely related but could also stand on their own. It's often used when the second sentence explains or adds to the first. When you 'infer' something, it means you figure it out from clues in the story, even if the writer doesn't tell you directly. It's like being a detective, looking for hints about what characters are feeling or why events happen. Writers use 'similes' to compare two different things using 'like' or 'as'. This makes their descriptions more imaginative and helps you visualise things better. You will also learn that adjectives are words that describe nouns, helping you understand characters more deeply. Finally, you'll explore a grammar rule about adding suffixes to words. Sometimes, when you add an ending (suffix) to a word, you have to double the last consonant. This usually happens with short words where the last three letters are consonant-vowel-consonant (like 'run' becoming 'running').",
+  "examples_expanded": [
+    {
+      "text": "Semi-colon: The cat was tired; it had been chasing mice all day.",
+      "context": "This example shows how we use the concept of story comprehension and punctuation practice in a real sentence."
+    },
+    {
+      "text": "Inferring: If a character has a big smile, you might infer they are happy.",
+      "context": "This example shows how we use the concept of story comprehension and punctuation practice in a real sentence."
+    },
+    {
+      "text": "Simile: Her hair was as black as night.",
+      "context": "This example shows how we use the concept of story comprehension and punctuation practice in a real sentence."
+    },
+    {
+      "text": "Doubling consonant: 'trip' + '-ing' becomes 'tripping' (double the 'p').",
+      "context": "This example shows how we use the concept of story comprehension and punctuation practice in a real sentence."
+    }
+  ],
+  "guided_practice": [
+    "Identify the meaning of 'gingerly' in a sentence. Remember it means: Carefully and cautiously, often because of pain or fear.",
+    "Match the word 'stilts' with a similar concept from your own experience.",
+    "Look at the first example again. How would you modify it to make it your own?"
+  ],
+  "application_tasks": [
+    "Create 3 of your own sentences using the core idea of Story Comprehension and Punctuation Practice.",
+    "Imagine you are teaching this topic to a friend. Write down exactly what you would say."
+  ],
+  "challenge_tasks": [
+    "Combine the concept of 'gingerly' with something you learned in a previous chapter to write a short paragraph.",
+    "Can you find an exception to this rule or a creative way to bend it? Explain how."
+  ],
+  "key_points": [
+    "New vocabulary enhances story comprehension.",
+    "Semi-colons link two closely related independent clauses.",
+    "Inferences help understand unspoken details in a story.",
+    "Similes create vivid comparisons.",
+    "Adjectives describe characters and things.",
+    "There are specific rules for doubling consonants before adding suffixes."
+  ],
+  "vocabulary": [
+    {
+      "word": "gingerly",
+      "definition": "Carefully and cautiously, often because of pain or fear."
+    },
+    {
+      "word": "stilts",
+      "definition": "Long poles that support a building above the ground."
+    },
+    {
+      "word": "peal of laughter",
+      "definition": "A loud and continuous burst of laughter."
+    },
+    {
+      "word": "siesta",
+      "definition": "A short rest or nap, usually taken in the afternoon."
+    },
+    {
+      "word": "hullabaloo",
+      "definition": "A loud and confused noise or fuss."
+    },
+    {
+      "word": "semi-colon",
+      "definition": "A punctuation mark (;) used to connect two closely related independent clauses, often without a conjunction."
+    },
+    {
+      "word": "infer",
+      "definition": "To figure out or conclude something from evidence and reasoning, rather than from direct statements."
+    },
+    {
+      "word": "simile",
+      "definition": "A figure of speech that compares two different things using the words 'like' or 'as' to create a more vivid description."
+    },
+    {
+      "word": "suffix",
+      "definition": "A letter or group of letters added to the end of a word to change its meaning or function (e.g., -ing, -ed)."
+    }
+  ]
+}

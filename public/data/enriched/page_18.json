@@ -1,0 +1,73 @@
+{
+  "page_index_in_batch": 3,
+  "term": "Term 1",
+  "unit": "Unit 1: Fiction: Stories with flashbacks",
+  "topic": "Using Commas and Semi-colons",
+  "title": "Mastering Commas and Semi-colons for Clear Writing",
+  "simple_explanation": "Commas are like little stop signs in your sentences, telling you to take a tiny breath. They help keep lists neat and make sure sentences with two parts make sense. Semi-colons are like a super-glue for two sentences that are best friends and really want to stay together!",
+  "detailed_explanation": "You use commas to separate items in a list, like when you're listing all the things you need for a trip. Commas are also needed in complex sentences, especially when a 'subordinate clause' (a part of the sentence that can't stand alone) comes before the main part of the sentence. Sometimes, commas can separate main ideas in 'compound sentences', which are two complete sentences joined together. It's often the writer's choice here, depending on how they want the sentence to flow. You can also use commas to separate names or extra information that isn't essential to the main meaning of the sentence, but adds clarity. Semi-colons (;) are a bit like a stronger comma. You use them to connect two main clauses (sentences that could stand alone) when they are very closely related in meaning. It makes the connection feel stronger than just using a full stop.",
+  "examples_expanded": [
+    {
+      "text": "For a list: 'I packed my bag with snacks, water, and a book.' (Commas separate the items).",
+      "context": "This example shows how we use the concept of using commas and semi-colons in a real sentence."
+    },
+    {
+      "text": "For a complex sentence starting with a subordinate clause: 'Because it was raining, we stayed inside and played games.' ('Because it was raining' is the subordinate clause).",
+      "context": "This example shows how we use the concept of using commas and semi-colons in a real sentence."
+    },
+    {
+      "text": "For related main clauses with a semi-colon: 'My dog loves to play fetch; she could do it all day long.' (Both 'My dog loves to play fetch' and 'she could do it all day long' are complete sentences, but they are strongly linked.)",
+      "context": "This example shows how we use the concept of using commas and semi-colons in a real sentence."
+    },
+    {
+      "text": "For separating an expression: 'Yes, I'm ready!' or 'Hello, class!'",
+      "context": "This example shows how we use the concept of using commas and semi-colons in a real sentence."
+    }
+  ],
+  "guided_practice": [
+    "Identify the meaning of 'commas' in a sentence. Remember it means: punctuation marks (,) used to show a pause or separate elements in a sentence",
+    "Match the word 'subordinate clause' with a similar concept from your own experience.",
+    "Look at the first example again. How would you modify it to make it your own?"
+  ],
+  "application_tasks": [
+    "Create 3 of your own sentences using the core idea of Using Commas and Semi-colons.",
+    "Imagine you are teaching this topic to a friend. Write down exactly what you would say."
+  ],
+  "challenge_tasks": [
+    "Combine the concept of 'commas' with something you learned in a previous chapter to write a short paragraph.",
+    "Can you find an exception to this rule or a creative way to bend it? Explain how."
+  ],
+  "key_points": [
+    "Commas separate items in lists.",
+    "Commas are used after subordinate clauses at the beginning of a sentence.",
+    "Commas can separate clauses in compound sentences and expressions.",
+    "Semi-colons link two closely related main clauses, showing a strong connection between ideas.",
+    "Proofreading is vital to catch any punctuation mistakes and make your writing clear."
+  ],
+  "vocabulary": [
+    {
+      "word": "commas",
+      "definition": "punctuation marks (,) used to show a pause or separate elements in a sentence"
+    },
+    {
+      "word": "subordinate clause",
+      "definition": "a part of a sentence that adds extra information but cannot stand alone as a complete sentence"
+    },
+    {
+      "word": "compound sentences",
+      "definition": "a sentence made up of two or more main clauses joined together, often by a coordinating conjunction (like 'and', 'but', 'or') or a semi-colon"
+    },
+    {
+      "word": "main clause",
+      "definition": "a part of a sentence that contains a subject and a verb and can stand alone as a complete sentence"
+    },
+    {
+      "word": "semi-colons",
+      "definition": "a punctuation mark (;) used to join two main clauses that are closely related in meaning, or to separate items in a complex list"
+    },
+    {
+      "word": "proofread",
+      "definition": "to carefully check a piece of writing for errors in spelling, grammar, and punctuation"
+    }
+  ]
+}

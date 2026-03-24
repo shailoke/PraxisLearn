@@ -1,0 +1,52 @@
+{
+  "page_index_in_batch": 1,
+  "term": "Term 1",
+  "unit": "Unit 5",
+  "topic": "Arguments",
+  "title": "Writing a Balanced Argument",
+  "explanation_chunks": [
+    "When you write a balanced argument, you explore a topic by looking at both the 'for' (pros) and 'against' (cons) sides fairly. Your goal is to give a complete picture, not just to convince someone of one opinion.",
+    "A strong balanced argument starts with an interesting introduction that grabs the reader's attention and clearly states the topic. It ends with a conclusion that neatly wraps up all the points discussed, linking back to your introduction.",
+    "To make your points convincing, always back them up with evidence, real-life examples, or comments from reliable sources. This shows you've thought deeply about the topic.",
+    "You can also use special language tricks! Rhetorical questions, like 'Which child doesn't watch at least some television?', are great for making your reader think without needing an answer. Adverbs and adverbial phrases, such as 'In contrast,' help you smoothly move between different ideas.",
+    "It's also good practice to use formal language, which is more serious and academic, and sometimes passive voice sentences (where the action is done *to* something, like 'the ball was kicked' instead of 'the boy kicked the ball')."
+  ],
+  "examples": [
+    "Instead of just saying 'screen time is bad,' a balanced argument might present reasons why it can be helpful (e.g., for learning) and reasons why it might be harmful (e.g., eye strain).",
+    "If arguing about whether school uniforms are good, you'd mention points like 'uniforms create a sense of belonging' (for) and 'uniforms can be expensive for families' (against)."
+  ],
+  "key_points": [
+    "A balanced argument presents both sides of a topic fairly.",
+    "It requires a clear introduction, supporting arguments with evidence, and a strong conclusion.",
+    "Use rhetorical questions and signposting language to guide your reader.",
+    "Employ formal language and passive voice for a more authoritative tone."
+  ],
+  "vocabulary": [
+    {
+      "word": "Balanced argument",
+      "definition": "An essay or discussion that presents both sides of an issue fairly and equally."
+    },
+    {
+      "word": "Rhetorical question",
+      "definition": "A question asked to make a point, not to get an answer (e.g., 'Do you really want to miss out?')."
+    },
+    {
+      "word": "Adverbs and adverbial phrases",
+      "definition": "Words or groups of words that describe verbs, adjectives, or other adverbs, often used to connect ideas or show relationships between them (e.g., 'In contrast', 'However')."
+    },
+    {
+      "word": "Formal language",
+      "definition": "Serious and proper language, suitable for academic writing or important discussions, without slang or contractions."
+    },
+    {
+      "word": "Passive voice",
+      "definition": "A sentence structure where the subject receives the action, rather than performing it (e.g., 'The book was read' instead of 'I read the book')."
+    },
+    {
+      "word": "Signpost",
+      "definition": "Words or phrases that guide the reader through your text, showing them what's coming next or how ideas connect."
+    }
+  ],
+  "explain_again": "Imagine you're trying to decide if ice cream or cake is better. A balanced argument means you talk about how yummy ice cream is AND how delicious cake is, giving good reasons for both, without just picking one. You're like a fair judge!",
+  "fun_analogy": "Writing a balanced argument is like being a referee in a football match. You have to see both teams' good plays and their fouls, explain everything fairly, and then let everyone understand the whole game, not just one side winning!"
+}

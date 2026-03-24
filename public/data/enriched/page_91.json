@@ -1,0 +1,73 @@
+{
+  "page_index_in_batch": 1,
+  "term": "Term 1",
+  "unit": "Unit 5: Non-fiction: Arguments",
+  "topic": "Planning and Structuring Arguments",
+  "title": "How to Plan a Balanced Argument",
+  "simple_explanation": "This page teaches you how to write about an idea by looking at both the good parts and the bad parts, like when you're trying to decide if you should get a new toy. You list all the pros and cons, put them in order, and use special words to help people follow your thoughts. It's like building a strong case for both sides of a story!",
+  "detailed_explanation": "To plan, first choose your topic and give it a clear title. Then, brainstorm all the reasons you can think of that support one side, and all the reasons that support the other side. Think of it like a debate! Once you have your ideas, put them in a sensible order. Usually, you start with your strongest points. Remember to add facts, examples, or expert opinions to make your arguments stronger. You also need special words and phrases, called 'signposting adverbs' or 'adverbial phrases,' to guide your reader. These words help them know when you're introducing a new point, adding more information, or bringing up the opposite view. A counter-argument is simply looking at the other side. If your first point says why something is good, the counter-argument says why it might not be so good, or presents a different perspective.",
+  "examples_expanded": [
+    {
+      "text": "Imagine you're arguing about 'Should children play computer games?' You'd list reasons why they *should* (like developing new skills) and reasons why they *shouldn't* (like becoming too obsessed).",
+      "context": "This example shows how we use the concept of planning and structuring arguments in a real sentence."
+    },
+    {
+      "text": "Using a colon: 'I love fruits: apples, bananas, and oranges are my favourite.' It links the general idea to the list.",
+      "context": "This example shows how we use the concept of planning and structuring arguments in a real sentence."
+    },
+    {
+      "text": "Using parenthesis: 'My dog (a fluffy golden retriever) loves to chase balls.' It adds extra detail without breaking the main sentence flow.",
+      "context": "This example shows how we use the concept of planning and structuring arguments in a real sentence."
+    },
+    {
+      "text": "Signposting example: 'On the one hand, computer games can be educational. However, they can also lead to too much screen time.'",
+      "context": "This example shows how we use the concept of planning and structuring arguments in a real sentence."
+    }
+  ],
+  "guided_practice": [
+    "Identify the meaning of 'balanced argument' in a sentence. Remember it means: An argument that considers and presents both sides of an issue fairly.",
+    "Match the word 'counter-argument' with a similar concept from your own experience.",
+    "Look at the first example again. How would you modify it to make it your own?"
+  ],
+  "application_tasks": [
+    "Create 3 of your own sentences using the core idea of Planning and Structuring Arguments.",
+    "Imagine you are teaching this topic to a friend. Write down exactly what you would say."
+  ],
+  "challenge_tasks": [
+    "Combine the concept of 'balanced argument' with something you learned in a previous chapter to write a short paragraph.",
+    "Can you find an exception to this rule or a creative way to bend it? Explain how."
+  ],
+  "key_points": [
+    "A balanced argument presents reasons for and against a topic.",
+    "Plan by listing points, ordering them logically, and adding evidence.",
+    "Use signposting adverbs to guide the reader through your argument.",
+    "A counter-argument provides an opposing viewpoint.",
+    "Punctuation like colons, semi-colons, and parentheses connect ideas and add explanations."
+  ],
+  "vocabulary": [
+    {
+      "word": "balanced argument",
+      "definition": "An argument that considers and presents both sides of an issue fairly."
+    },
+    {
+      "word": "counter-argument",
+      "definition": "A point of view that goes against the first point of view being discussed."
+    },
+    {
+      "word": "signposting adverbs",
+      "definition": "Words or phrases that help guide the reader through the text, indicating new points, contrasts, or conclusions (e.g., 'Therefore', 'On the other hand', 'In addition')."
+    },
+    {
+      "word": "colon",
+      "definition": "Punctuation mark (:) used to introduce a list, explanation, or example, or to show a strong link between two parts of a sentence."
+    },
+    {
+      "word": "semi-colon",
+      "definition": "Punctuation mark (;) used to join two independent clauses that are closely related in meaning, or to separate items in a complex list."
+    },
+    {
+      "word": "parenthesis",
+      "definition": "Extra information added to a sentence, usually enclosed in brackets (), dashes --, or commas."
+    }
+  ]
+}

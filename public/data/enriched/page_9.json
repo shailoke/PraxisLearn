@@ -1,0 +1,64 @@
+{
+  "page_index_in_batch": 4,
+  "term": "Term 1",
+  "unit": "Unit 1",
+  "topic": "Fiction: Stories with flashbacks",
+  "title": "Mastering Flashbacks and Similes",
+  "simple_explanation": "We're learning about special comparisons called similes, like 'fast as a rocket'! And flashbacks are when the story suddenly shows something from the past, like looking at old photos. When a flashback happens, the words describing actions usually change to sound like they happened a long time ago.",
+  "detailed_explanation": "For example, if you say 'The boy stood as still as a statue', you're using a simile. It helps us picture just how incredibly still he was, making the description more vivid. Then, we'll get back to flashbacks, which are like mini-stories tucked inside the main story. They show us things that happened earlier, giving us important background information or character history. Writers use clever tricks to tell you a flashback is happening. Sometimes it's a special line of asterisks (******), or a character might have a dream, or something strange happens that makes them remember the past. A key thing to notice is how the verb tenses change in flashbacks. If the main story is happening 'now' (present tense), the flashback will usually be about things that 'happened' (past tense). This helps you know you've gone back in time!",
+  "examples_expanded": [
+    {
+      "text": "Simile example: 'The clouds were as fluffy as cotton wool.' or 'Her smile shone like the sun.'",
+      "context": "This example shows how we use the concept of fiction: stories with flashbacks in a real sentence."
+    },
+    {
+      "text": "Flashback example: Imagine a character walking through a park, then suddenly, the writer says, 'He remembered the day he learned to ride his bike in this very spot.' The story jumps back to his childhood memory.",
+      "context": "This example shows how we use the concept of fiction: stories with flashbacks in a real sentence."
+    },
+    {
+      "text": "Verb tense change: Main story: 'She *walks* to school.' Flashback: 'She *had walked* this path many times before.'",
+      "context": "This example shows how we use the concept of fiction: stories with flashbacks in a real sentence."
+    }
+  ],
+  "guided_practice": [
+    "Identify the meaning of 'figurative language' in a sentence. Remember it means: Language that uses words or expressions with a meaning that is different from the literal interpretation, to create an effect.",
+    "Match the word 'simile' with a similar concept from your own experience.",
+    "Look at the first example again. How would you modify it to make it your own?"
+  ],
+  "application_tasks": [
+    "Create 3 of your own sentences using the core idea of Fiction: Stories with flashbacks.",
+    "Imagine you are teaching this topic to a friend. Write down exactly what you would say."
+  ],
+  "challenge_tasks": [
+    "Combine the concept of 'figurative language' with something you learned in a previous chapter to write a short paragraph.",
+    "Can you find an exception to this rule or a creative way to bend it? Explain how."
+  ],
+  "key_points": [
+    "Similes compare two unlike things using 'like' or 'as' to add imaginative detail.",
+    "Flashbacks are sections of a story that tell about past events.",
+    "Writers use various signals (punctuation, dreams, strange events) to introduce a flashback.",
+    "Verb tenses usually change from present to past when a story moves into a flashback."
+  ],
+  "vocabulary": [
+    {
+      "word": "figurative language",
+      "definition": "Language that uses words or expressions with a meaning that is different from the literal interpretation, to create an effect."
+    },
+    {
+      "word": "simile",
+      "definition": "A comparison between two different things using 'like' or 'as'."
+    },
+    {
+      "word": "flashback",
+      "definition": "A scene in a story that takes the reader back in time to an earlier event."
+    },
+    {
+      "word": "present tense",
+      "definition": "Verbs that describe actions happening now."
+    },
+    {
+      "word": "past tense",
+      "definition": "Verbs that describe actions that have already happened."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "page_index_in_batch": 3,
+  "term": "Unit 6",
+  "unit": "Poetry: Exploring imagery, form and structure",
+  "topic": "Cinquains and Poetry Comparison",
+  "title": "Discovering Cinquain Poems",
+  "explanation_chunks": [
+    "Today, we're meeting a new type of poem called a 'cinquain'! Like haikus and tankas, cinquains are short poems that follow a specific structure based on the number of syllables in each line.",
+    "A cinquain has five lines, and each line has a set number of syllables: two, four, six, eight, and then two again. Each line also has a special job, like describing the subject or sharing feelings about it.",
+    "You'll learn how to write your own cinquain poem, using these rules to describe your amazing dragon. It's a fun way to practice being creative within a clear structure.",
+    "After trying out haikus, tankas, and now cinquains, you'll think about which type of poem you enjoyed writing the most and why. This helps you understand your own writing preferences!"
+  ],
+  "examples": [
+    "A cinquain might start with Line 1: 'Beast' (2 syllables).",
+    "Line 2: 'Powerful, strong' (4 syllables).",
+    "Line 3: 'Gliding, soaring, diving' (6 syllables).",
+    "Line 4: 'I see you rule the world below' (8 syllables).",
+    "Line 5: 'Queenlike' (2 syllables), referring back to 'Beast'."
+  ],
+  "key_points": [
+    "Cinquains are five-line poems with a specific syllable count per line (2, 4, 6, 8, 2).",
+    "Each line of a cinquain has a different descriptive purpose.",
+    "Writing different types of poems helps you explore various ways to express ideas.",
+    "Reflecting on your favourite poem style can help you understand your own creativity."
+  ],
+  "vocabulary": [
+    {
+      "word": "cinquain",
+      "definition": "a five-line poem with a specific syllable count for each line (2, 4, 6, 8, 2) and a set structure for its content."
+    },
+    {
+      "word": "syllable",
+      "definition": "a unit of sound in a word, usually containing a vowel sound. For example, 'dragon' has two syllables: dra-gon."
+    }
+  ],
+  "explain_again": "Imagine a poem like a little staircase with five steps. Each step has a different number of sounds, and each step tells you something new about your main idea, like a dragon! That's a cinquain. You'll try making one, and then you can decide if you like drawing with words using haikus, tankas, or these new cinquain staircases best!",
+  "fun_analogy": "Writing a cinquain is like building a five-story word tower! Each floor (line) has a specific number of 'bricks' (syllables) and a special job, from naming the building to describing how it makes you feel."
+}

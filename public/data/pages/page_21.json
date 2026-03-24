@@ -1,0 +1,55 @@
+{
+  "page_index_in_batch": 1,
+  "term": "Term 1",
+  "unit": "Unit 1: Fiction: Stories with flashbacks",
+  "topic": "Predictions and Punctuation",
+  "title": "Predictions and Punctuation Basics",
+  "explanation_chunks": [
+    "When a character speaks in a story, we call their exact words 'direct speech'. These words are always surrounded by special marks called inverted commas, also known as speech marks or quotation marks.",
+    "Often, after or before direct speech, there's a 'reporting clause' that tells you who spoke and how. This clause is usually separated from the direct speech by a comma, question mark, or exclamation mark. Remember to start a new line each time a different character speaks.",
+    "A colon (:) is a useful punctuation mark with two main jobs. Firstly, it can be used to introduce a list of items or ideas. Secondly, it can link two sentences that are very closely related, acting almost like a strong bridge between two complete thoughts.",
+    "Writers also leave 'clues' in stories to help you guess what might happen next, which is called making predictions. It's hard to predict accurately from just one tiny detail, so try to gather several clues together. Look for patterns in the story that can help you understand future events."
+  ],
+  "examples": [
+    "Direct Speech: 'I'm so excited for the holidays!' exclaimed Sara.",
+    "Reported Speech: Sara exclaimed that she was very excited for the holidays.",
+    "Colon for a list: My backpack is full of important things: books, pencils, and a snack.",
+    "Colon linking ideas: You must finish your homework: it's due tomorrow morning.",
+    "Prediction clue: The dark clouds gathered quickly, and the wind began to howl: I predict a big storm is coming soon!"
+  ],
+  "key_points": [
+    "Direct speech uses inverted commas.",
+    "Reporting clauses tell us who spoke and how, and are separated by appropriate punctuation.",
+    "Use a new line for each new speaker in dialogue.",
+    "Colons introduce lists or connect two strongly related independent clauses.",
+    "Making predictions involves looking for clues and patterns in a story."
+  ],
+  "vocabulary": [
+    {
+      "word": "inverted commas",
+      "definition": "The punctuation marks (' ') or (\" \") used to show the exact words spoken by someone."
+    },
+    {
+      "word": "reporting clause",
+      "definition": "A part of a sentence that tells you who is speaking and sometimes how they are speaking (e.g., 'said John', 'whispered Emily')."
+    },
+    {
+      "word": "colon",
+      "definition": "The punctuation mark (:) used to introduce a list or an explanation, or to link two closely related independent clauses."
+    },
+    {
+      "word": "predict",
+      "definition": "To guess what will happen next in a story based on the clues and information the writer gives you."
+    },
+    {
+      "word": "gingerly",
+      "definition": "To do something very carefully and cautiously."
+    },
+    {
+      "word": "stilts",
+      "definition": "Long poles used to support a building above the ground, often to protect against floods or animals."
+    }
+  ],
+  "explain_again": "Imagine you're reading a comic book. When a character talks, the words in their speech bubble are 'direct speech' with special marks around them. If the caption says 'Batman said...', that's the reporting clause. A 'colon' is like a big arrow (:) saying 'Watch out! A list is coming!' or 'Here's the reason why!' And when you're reading a story, you're like a detective, using all the little clues the writer gives you to 'predict' what cool thing will happen next!",
+  "fun_analogy": "Think of a colon like a friendly tour guide pointing: 'And here, ladies and gentlemen, are the amazing sights you'll see!' or 'Follow me, because this next part is directly linked to what we just saw!'"
+}

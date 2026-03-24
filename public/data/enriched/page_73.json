@@ -1,0 +1,73 @@
+{
+  "page_index_in_batch": 3,
+  "term": "Term Name",
+  "unit": "Unit 4",
+  "topic": "Science fiction stories",
+  "title": "Conveying Ideas: Dystopias, Themes, and Quantifiers",
+  "simple_explanation": "This page teaches us about made-up worlds that aren't very fair (dystopias) and the big ideas (themes) in stories. It also helps us talk about 'how much' or 'how little' of something there is. We see how a character in our story starts to wonder if his world is really good after all.",
+  "detailed_explanation": "The opposite of a dystopia is a 'utopia', which is an imaginary perfect society where everything is wonderful. Stories often explore 'themes'. These are big ideas or messages the writer wants you to think about, like friendship, freedom, or fairness. 'Quantifiers' are words that tell us 'how much' or 'how little' of something there is. They help you describe amounts precisely. You'll read another part of the story where Gavin talks to Errol, one of the 'marauders', and starts to understand that their society, run by 'LifeCorp' and 'technocrats', might not be as good as he thought.",
+  "examples_expanded": [
+    {
+      "text": "Dystopia example: A society where everyone has to wear the same clothes and eat the same food, and no one can choose their own job, like in the story.",
+      "context": "This example shows how we use the concept of science fiction stories in a real sentence."
+    },
+    {
+      "text": "Theme example: The theme of 'freedom' is very strong in the story, as characters feel they can't choose their own lives.",
+      "context": "This example shows how we use the concept of science fiction stories in a real sentence."
+    },
+    {
+      "text": "Quantifier examples: 'lots of kindness', 'a little excitement', 'no boredom', 'many people', 'some things'.",
+      "context": "This example shows how we use the concept of science fiction stories in a real sentence."
+    }
+  ],
+  "guided_practice": [
+    "Identify the meaning of 'dystopias' in a sentence. Remember it means: imaginary societies where there is great suffering or injustice",
+    "Match the word 'themes' with a similar concept from your own experience.",
+    "Look at the first example again. How would you modify it to make it your own?"
+  ],
+  "application_tasks": [
+    "Create 3 of your own sentences using the core idea of Science fiction stories.",
+    "Imagine you are teaching this topic to a friend. Write down exactly what you would say."
+  ],
+  "challenge_tasks": [
+    "Combine the concept of 'dystopias' with something you learned in a previous chapter to write a short paragraph.",
+    "Can you find an exception to this rule or a creative way to bend it? Explain how."
+  ],
+  "key_points": [
+    "Understand what a dystopia is (an imagined bad society).",
+    "Identify the main themes (big ideas) in a story.",
+    "Recognise and use quantifiers to describe amounts.",
+    "Analyze characters' opinions and how they change in a story.",
+    "Think critically about different types of societies and control."
+  ],
+  "vocabulary": [
+    {
+      "word": "dystopias",
+      "definition": "imaginary societies where there is great suffering or injustice"
+    },
+    {
+      "word": "themes",
+      "definition": "the main ideas or important messages in a story"
+    },
+    {
+      "word": "quantifiers",
+      "definition": "words that tell you how much or how little of something there is (e.g., many, some, a little)"
+    },
+    {
+      "word": "utopia",
+      "definition": "an imagined perfect society"
+    },
+    {
+      "word": "technocrats",
+      "definition": "scientists who are in charge and have power"
+    },
+    {
+      "word": "engineer",
+      "definition": "a person who designs and builds machines or structures"
+    },
+    {
+      "word": "technobrat",
+      "definition": "a made-up word in the story for a child of a technocrat"
+    }
+  ]
+}

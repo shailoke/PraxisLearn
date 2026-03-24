@@ -1,0 +1,44 @@
+{
+  "page_index_in_batch": 2,
+  "term": "Term 1",
+  "unit": "Unit 3: Poetry: Exploring figurative language",
+  "topic": "Introduction to Figurative Language: Personification, Rhyme, and Alliteration",
+  "title": "What is Figurative Language? (Part 1)",
+  "explanation_chunks": [
+    "Figurative language is a fun way poets use words to make their writing more interesting and imaginative, not always literally true. It helps you see things in a new light, like bringing objects or ideas to life!",
+    "One type is 'personification', where you give human qualities or actions to things that aren't human. Think of it like a teddy bear suddenly talking or dancing!",
+    "We also look at 'rhyme', which is when words sound similar at the end, like 'cat' and 'hat'. It makes poems musical. 'Alliteration' is when words close together start with the same sound, like 'slippery snake'!",
+    "Today, we're going to read a poem about the sun and pretend it's a person. We'll see how the poet makes the sun happy or grumpy by giving it human feelings and actions."
+  ],
+  "examples": [
+    "Personification: 'The wind whispered secrets through the trees.' (Wind can't literally whisper, but it sounds like it does!)",
+    "Rhyme: 'Twinkle, twinkle, little star, how I wonder what you *are*.' (star/are)",
+    "Alliteration: 'Peter Piper picked a peck of pickled peppers.'"
+  ],
+  "key_points": [
+    "Figurative language makes poetry engaging.",
+    "Personification gives human traits to non-human things.",
+    "Rhyme creates musicality, and alliteration adds a pleasing sound effect.",
+    "Analyzing how poets use language helps us understand their message."
+  ],
+  "vocabulary": [
+    {
+      "word": "figurative language",
+      "definition": "using words in a creative way to mean something other than their literal meaning, to make writing more vivid."
+    },
+    {
+      "word": "personification",
+      "definition": "giving human qualities or actions to animals or objects (e.g., 'the grumpy sun')."
+    },
+    {
+      "word": "rhyme",
+      "definition": "words that have the same ending sound (e.g., 'bed' and 'head')."
+    },
+    {
+      "word": "alliteration",
+      "definition": "when words close together start with the same sound (e.g., 'happy house')."
+    }
+  ],
+  "explain_again": "This page teaches us how poets use clever word tricks to make poems super interesting! Like making the sun act like a person (that's personification), or making words sound musical by rhyming, or repeating the first sound in words to make it catchy. It's like painting with words!",
+  "fun_analogy": "Figurative language is like adding special effects to a movie. Personification is like making a toy car suddenly talk and race, rhyme is like adding a catchy song, and alliteration is like a fun sound effect that repeats. They all make the story much more exciting than just showing plain reality!"
+}

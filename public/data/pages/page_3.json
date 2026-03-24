@@ -1,0 +1,49 @@
+{
+  "page_index_in_batch": 3,
+  "term": "Term 1",
+  "unit": "Getting Started",
+  "topic": "Character Description and Compound Sentences",
+  "title": "Your First English Adventure: Character Creation!",
+  "explanation_chunks": [
+    "Welcome to your first activity! This page gets your imagination buzzing by asking you to look closely at the children on the book's cover and choose one.",
+    "Your task is to 'imagine a character' for this child. This means making up details about them, like their personality, what they love to do, or what makes them special. It's like playing pretend with words!",
+    "Next, you'll 'write a paragraph' to describe your character. A paragraph is a group of sentences that all talk about one main idea, like explaining who your character is.",
+    "Then, you'll practice writing 'compound sentences'. These are super sentences made by joining two complete ideas together with a joining word like 'and', 'but', or 'or'. It makes your writing flow better and sound more grown-up.",
+    "Finally, you'll 'proofread' your sentences. This means carefully reading through your writing to find and fix any mistakes in spelling, grammar, or punctuation. It also helps you check if your vocabulary (the words you choose) is interesting enough for others to guess your character!"
+  ],
+  "examples": [
+    "**Creating a character:** Imagine the boy on the skateboard is called Leo. He's super brave, loves inventing new tricks, and always wears his lucky red cap.",
+    "**Compound sentence:** 'Leo loves skateboarding, *and* he practices every day after school.' (Here, 'and' joins two ideas). Or, 'He wants to win the competition, *but* he knows he needs to work hard.'",
+    "**Proofreading:** If you wrote 'The dog was big and he was brown.', you could proofread it to 'The enormous dog was brown, and he had fluffy ears.' – more interesting words!"
+  ],
+  "key_points": [
+    "Use your imagination to create a fictional character based on an image.",
+    "Practice writing descriptive paragraphs about your character.",
+    "Learn to construct compound sentences using conjunctions (joining words).",
+    "Always proofread your writing to correct mistakes and improve vocabulary."
+  ],
+  "vocabulary": [
+    {
+      "word": "Character",
+      "definition": "A person or animal in a story, play, or film."
+    },
+    {
+      "word": "Paragraph",
+      "definition": "A section of writing that usually focuses on one main idea, made up of several sentences."
+    },
+    {
+      "word": "Compound sentence",
+      "definition": "A sentence made of two or more simple sentences joined by a coordinating conjunction (like 'and', 'but', 'or')."
+    },
+    {
+      "word": "Proofread",
+      "definition": "To read through your own or someone else's writing to find and correct mistakes in spelling, grammar, or punctuation."
+    },
+    {
+      "word": "Vocabulary",
+      "definition": "The words a person knows or uses in a language."
+    }
+  ],
+  "explain_again": "This page is your first task! You get to look at the book cover, make up a person's story in your head, and then write about them. You'll also learn to put two small sentences together to make a bigger, stronger sentence, and check your work for mistakes to make it sound great!",
+  "fun_analogy": "Creating a character is like playing dress-up with words, giving someone a whole new outfit and personality! Writing compound sentences is like building with LEGOs, snapping two complete ideas together to make one cool creation."
+}

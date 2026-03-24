@@ -1,0 +1,84 @@
+{
+  "page_index_in_batch": 3,
+  "term": "Term 2",
+  "unit": "Unit 5: Non-fiction: Arguments",
+  "topic": "Spelling Nouns: Changing Adjectives with -ance/-ancy and -ence/-ency",
+  "title": "Making Your Words Sound Formal: Adding -ance, -ence, -ancy, -ency",
+  "simple_explanation": "Sometimes, we want our words to sound a bit more grown-up. This page teaches you how to change 'describing words' (like 'important') into 'naming words' (like 'importance') by adding special endings like '-ance' or '-ence'. It's like giving your words a fancy new job title!",
+  "detailed_explanation": "Many adjectives that end in '-ant' can be changed into nouns by adding '-ance' or '-ancy'. It helps to remember which ending goes with which word. Similarly, adjectives that end in '-ent' can often become nouns by adding '-ence' or '-ency'. It's all about learning these special endings to make your sentences sound more formal and precise.",
+  "examples_expanded": [
+    {
+      "text": "Instead of saying 'It is important that children can access education,' which uses the adjective 'important', you can say 'It is of great **importance** that children can access education.' The word 'importance' is a noun.",
+      "context": "This example shows how we use the concept of spelling nouns: changing adjectives with -ance/-ancy and -ence/-ency in a real sentence."
+    },
+    {
+      "text": "If someone is 'hesitant' (an adjective meaning unsure), you can talk about their 'hesitancy' (a noun meaning being unsure).",
+      "context": "This example shows how we use the concept of spelling nouns: changing adjectives with -ance/-ancy and -ence/-ency in a real sentence."
+    },
+    {
+      "text": "Someone who is 'intelligent' (an adjective describing cleverness) shows 'intelligence' (a noun referring to cleverness).",
+      "context": "This example shows how we use the concept of spelling nouns: changing adjectives with -ance/-ancy and -ence/-ency in a real sentence."
+    }
+  ],
+  "guided_practice": [
+    "Identify the meaning of 'significant' in a sentence. Remember it means: important or noticeable",
+    "Match the word 'significance' with a similar concept from your own experience.",
+    "Look at the first example again. How would you modify it to make it your own?"
+  ],
+  "application_tasks": [
+    "Create 3 of your own sentences using the core idea of Spelling Nouns: Changing Adjectives with -ance/-ancy and -ence/-ency.",
+    "Imagine you are teaching this topic to a friend. Write down exactly what you would say."
+  ],
+  "challenge_tasks": [
+    "Combine the concept of 'significant' with something you learned in a previous chapter to write a short paragraph.",
+    "Can you find an exception to this rule or a creative way to bend it? Explain how."
+  ],
+  "key_points": [
+    "Formal writing often uses nouns instead of adjectives.",
+    "Adjectives ending in '-ant' often change to nouns with '-ance' or '-ancy'.",
+    "Adjectives ending in '-ent' often change to nouns with '-ence' or '-ency'.",
+    "Learning these patterns helps with spelling and making your writing more sophisticated."
+  ],
+  "vocabulary": [
+    {
+      "word": "significant",
+      "definition": "important or noticeable"
+    },
+    {
+      "word": "significance",
+      "definition": "the quality of being important"
+    },
+    {
+      "word": "hesitant",
+      "definition": "unsure or slow to act or speak"
+    },
+    {
+      "word": "hesitancy",
+      "definition": "the state of being hesitant or unsure"
+    },
+    {
+      "word": "intelligent",
+      "definition": "having or showing intelligence, especially of a high level"
+    },
+    {
+      "word": "intelligence",
+      "definition": "the ability to learn and apply knowledge and skills"
+    },
+    {
+      "word": "urgent",
+      "definition": "needing immediate attention"
+    },
+    {
+      "word": "urgency",
+      "definition": "the quality or state of being urgent; a need for immediate action"
+    },
+    {
+      "word": "silent",
+      "definition": "not making or accompanied by any sound"
+    },
+    {
+      "word": "silence",
+      "definition": "complete absence of sound"
+    }
+  ]
+}

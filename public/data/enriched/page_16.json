@@ -1,0 +1,72 @@
+{
+  "page_index_in_batch": 1,
+  "term": "Term 1",
+  "unit": "Unit 1: Fiction: Stories with flashbacks",
+  "topic": "Analyzing Character and Viewpoint",
+  "title": "Understanding Characters and Their Actions",
+  "simple_explanation": "Imagine you're watching your friend play with their toys. You can tell if they're happy or annoyed by how they talk and what they do. It's the same in a story! We look at what characters say and how they act to understand if they're good, bad, or somewhere in between. And sometimes, the story is told from a character's eyes, like you're seeing through *their* eyes!",
+  "detailed_explanation": "The way a story is told, or its viewpoint, can make you feel different emotions. Sometimes you hear directly from a character, and other times, it's the narrator telling you what's happening. When you read, think about how the characters' actions make you feel. Do you like them? Do you feel sorry for them? These feelings help you understand the story better. We can often guess a character's traits, like being 'cold-hearted' or 'mercernary', by finding examples of their behaviour in the text.",
+  "examples_expanded": [
+    {
+      "text": "When Toa slaps Africa and orders him around, it shows he's mean and doesn't care about Africa's feelings.",
+      "context": "This example shows how we use the concept of analyzing character and viewpoint in a real sentence."
+    },
+    {
+      "text": "Toa saying, 'I've sold you too,' with a 'glint' in his eye tells us he's sneaky and perhaps even enjoys being cruel.",
+      "context": "This example shows how we use the concept of analyzing character and viewpoint in a real sentence."
+    },
+    {
+      "text": "If someone is 'vindictive,' it means they like to get revenge, like if a character went out of their way to make someone else's life difficult after a small disagreement.",
+      "context": "This example shows how we use the concept of analyzing character and viewpoint in a real sentence."
+    }
+  ],
+  "guided_practice": [
+    "Identify the meaning of 'sidling' in a sentence. Remember it means: moving slowly and secretly, often sideways",
+    "Match the word 'glint' with a similar concept from your own experience.",
+    "Look at the first example again. How would you modify it to make it your own?"
+  ],
+  "application_tasks": [
+    "Create 3 of your own sentences using the core idea of Analyzing Character and Viewpoint.",
+    "Imagine you are teaching this topic to a friend. Write down exactly what you would say."
+  ],
+  "challenge_tasks": [
+    "Combine the concept of 'sidling' with something you learned in a previous chapter to write a short paragraph.",
+    "Can you find an exception to this rule or a creative way to bend it? Explain how."
+  ],
+  "key_points": [
+    "Characters are revealed by their actions and words.",
+    "Different viewpoints can change how you experience a story.",
+    "Emotions play a big part in how we connect with characters and understand their story.",
+    "We can infer a character's personality by looking for specific examples of their behaviour."
+  ],
+  "vocabulary": [
+    {
+      "word": "sidling",
+      "definition": "moving slowly and secretly, often sideways"
+    },
+    {
+      "word": "glint",
+      "definition": "a tiny flash of light, often used to describe a spark in someone's eye that shows an emotion"
+    },
+    {
+      "word": "shepherd",
+      "definition": "a person who looks after a group of sheep or goats"
+    },
+    {
+      "word": "cold-hearted",
+      "definition": "lacking in kindness, sympathy, or compassion"
+    },
+    {
+      "word": "mercenary",
+      "definition": "only caring about money or reward, not morals or helping others"
+    },
+    {
+      "word": "vindictive",
+      "definition": "having or showing a strong desire for revenge"
+    },
+    {
+      "word": "offensive",
+      "definition": "causing annoyance, resentment, or anger"
+    }
+  ]
+}

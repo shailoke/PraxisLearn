@@ -1,0 +1,84 @@
+{
+  "page_index_in_batch": 2,
+  "term": "Term 1",
+  "unit": "Unit 6",
+  "topic": "Exploring imagery",
+  "title": "Bringing Poems to Life with Imagery and Sound",
+  "simple_explanation": "Poems use special words and sounds to help you imagine things really clearly, almost like watching a movie in your head. Sometimes words sound like what they mean, or they repeat sounds to make it more interesting!",
+  "detailed_explanation": "This often involves 'figurative language', which uses words in imaginative ways, not just their everyday meaning. Think of it as making words do special tricks to create a stronger image, like when you say someone's hair is a 'waterfall' instead of just 'long'. Poems also use sound to help create imagery. By repeating certain sounds, poets can draw your attention to specific ideas or create a mood, like a whispered secret. One sound trick is 'sibilance', which is the repetition of the 's' sound, like in 'secret forest whistle'. It often creates a soft, hissing, or swishing effect. Another is 'consonance', which is the repetition of consonant sounds, not just at the start of words (like 'like / scavenge / or dark'). And 'assonance' is similar, but it's the repetition of vowel sounds, like the 'ee' sound in 'deep / green / meal'.",
+  "examples_expanded": [
+    {
+      "text": "If a poem says 'the moon was a giant pearl,' that's imagery using a metaphor – you can picture a huge, shiny, round pearl.",
+      "context": "This example shows how we use the concept of exploring imagery in a real sentence."
+    },
+    {
+      "text": "In the poem 'Portrait of a Dragon,' saying the dragon's eyes 'glow like embers' helps you imagine a fiery, intense stare, like the hot, red parts of a fire.",
+      "context": "This example shows how we use the concept of exploring imagery in a real sentence."
+    },
+    {
+      "text": "Hearing 'slithery snake' uses sibilance to make you hear the sound a snake might make.",
+      "context": "This example shows how we use the concept of exploring imagery in a real sentence."
+    }
+  ],
+  "guided_practice": [
+    "Identify the meaning of 'Imagery' in a sentence. Remember it means: Words that create pictures or senses (smell, touch, taste, sound) in your mind when you read.",
+    "Match the word 'Figurative language' with a similar concept from your own experience.",
+    "Look at the first example again. How would you modify it to make it your own?"
+  ],
+  "application_tasks": [
+    "Create 3 of your own sentences using the core idea of Exploring imagery.",
+    "Imagine you are teaching this topic to a friend. Write down exactly what you would say."
+  ],
+  "challenge_tasks": [
+    "Combine the concept of 'Imagery' with something you learned in a previous chapter to write a short paragraph.",
+    "Can you find an exception to this rule or a creative way to bend it? Explain how."
+  ],
+  "key_points": [
+    "Imagery makes poems vivid and helps readers visualize the content.",
+    "Figurative language (like similes, metaphors) is a key tool for creating imagery.",
+    "Sound devices such as sibilance, consonance, and assonance enhance the sensory experience and meaning of a poem.",
+    "Reading poems aloud can help you appreciate their sound patterns and imagery."
+  ],
+  "vocabulary": [
+    {
+      "word": "Imagery",
+      "definition": "Words that create pictures or senses (smell, touch, taste, sound) in your mind when you read."
+    },
+    {
+      "word": "Figurative language",
+      "definition": "Language that uses words or expressions with a meaning that is different from the literal interpretation (e.g., simile, metaphor, personification)."
+    },
+    {
+      "word": "Alliteration",
+      "definition": "The repetition of the same initial consonant sound in words close together (e.g., 'slippery snake')."
+    },
+    {
+      "word": "Onomatopoeia",
+      "definition": "Words that imitate the sound they represent (e.g., 'buzz', 'hiss', 'splash')."
+    },
+    {
+      "word": "Simile",
+      "definition": "A comparison between two different things using 'like' or 'as' (e.g., 'brave as a lion')."
+    },
+    {
+      "word": "Metaphor",
+      "definition": "A direct comparison between two different things, saying one *is* the other (e.g., 'The classroom was a zoo')."
+    },
+    {
+      "word": "Personification",
+      "definition": "Giving human qualities or actions to inanimate objects or animals (e.g., 'The wind whispered through the trees')."
+    },
+    {
+      "word": "Sibilance",
+      "definition": "The repetition of 's' sounds, creating a soft, hissing, or swishing effect."
+    },
+    {
+      "word": "Consonance",
+      "definition": "The repetition of consonant sounds within or at the end of words in a phrase or line of poetry (e.g., 'dark / architect')."
+    },
+    {
+      "word": "Assonance",
+      "definition": "The repetition of vowel sounds within words in a phrase or line of poetry (e.g., 'deep / green / meal')."
+    }
+  ]
+}

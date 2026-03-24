@@ -1,0 +1,59 @@
+{
+  "page_index_in_batch": 4,
+  "term": "Term 1",
+  "unit": "Unit 5: Non-fiction: Arguments",
+  "topic": "Understanding Active and Passive Voice",
+  "title": "Exploring the Passive Voice in Sentences",
+  "explanation_chunks": [
+    "Most of the time, we talk and write using the 'active voice.' This is when the person or thing doing the action (the 'subject') comes first, followed by the action (the 'verb'), and then what the action is done to (the 'object').",
+    "For example, in 'The dog chased the cat,' the dog is the subject doing the chasing, and the cat is the object being chased. It's clear who did what.",
+    "But sometimes, we can use the 'passive voice.' This is when the object (the thing the action is done to) comes first in the sentence. The person or thing doing the action might not even be mentioned, or it might come at the very end.",
+    "Using the passive voice can make your writing sound more formal, or it can help you focus on the *result* of an action rather than *who* did it. It's useful when the 'doer' isn't as important as what happened.",
+    "To change an active sentence to passive, you move the object to the front, change the verb to a 'to be' verb + past participle (like 'is destroyed,' 'was built'), and then, if you want to say who did it, you add 'by...' at the end."
+  ],
+  "examples": [
+    "Active voice: 'Rising water temperatures destroy coral reefs.' (Here, 'temperatures' are the subject doing the destroying).",
+    "Passive voice: 'Coral reefs are destroyed by rising water temperatures.' (Here, 'coral reefs' are the focus, and the destruction is highlighted).",
+    "Active: 'A child ate the apple.' Passive: 'The apple was eaten by a child.' (Or just 'The apple was eaten.')",
+    "Active: 'My mum baked a cake.' Passive: 'A cake was baked by my mum.' (Focus on the cake)."
+  ],
+  "key_points": [
+    "The active voice focuses on the subject doing the action.",
+    "The passive voice focuses on the object receiving the action.",
+    "Passive voice can make writing more formal.",
+    "Passive voice is useful when the doer of the action is unknown or less important.",
+    "To form the passive voice, use a form of 'to be' + the past participle of the main verb."
+  ],
+  "vocabulary": [
+    {
+      "word": "active voice",
+      "definition": "A sentence structure where the subject performs the action of the verb (e.g., 'The boy kicked the ball')."
+    },
+    {
+      "word": "passive voice",
+      "definition": "A sentence structure where the subject receives the action of the verb (e.g., 'The ball was kicked by the boy')."
+    },
+    {
+      "word": "subject",
+      "definition": "The person or thing that performs the action in a sentence."
+    },
+    {
+      "word": "object",
+      "definition": "The person or thing that receives the action in a sentence."
+    },
+    {
+      "word": "verb",
+      "definition": "A word that describes an action, state, or occurrence."
+    },
+    {
+      "word": "formal",
+      "definition": "Language used in serious or official situations, often following strict rules."
+    },
+    {
+      "word": "register",
+      "definition": "The style of language, grammar, and words used for a particular purpose or in a particular social setting."
+    }
+  ],
+  "explain_again": "Imagine you have a toy car. In active voice, you say 'I push the car.' You are the boss, doing the pushing! In passive voice, you say 'The car is pushed by me.' Now the car is the star of the sentence, even though you still did the pushing. It's just a different way to tell the story, sometimes making it sound a bit more grown-up.",
+  "fun_analogy": "Think of active voice like a superhero story: 'Superman saved the city!' Superman (the subject) is the star, doing the action. Passive voice is like when the news reports on the superhero: 'The city was saved by Superman.' Now the city (the object) is the focus of the sentence, even though Superman still did the saving!"
+}
